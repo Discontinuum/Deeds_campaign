@@ -1,0 +1,2892 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2023-01-20 01:43+0400\n"
+"PO-Revision-Date: 2023-01-20 01:47+0400\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+#. [campaign]: id=Deeds_of_Sir_Swine
+#: _main.cfg:10
+msgid "Deeds of Sir Swine"
+msgstr ""
+
+#. [campaign]: id=Deeds_of_Sir_Swine
+#: _main.cfg:12
+msgid "DoS"
+msgstr ""
+
+#. [campaign]: id=Deeds_of_Sir_Swine
+#: _main.cfg:15
+msgid ""
+"“Oh, those chivalric stories! The hero in them is always so noble, brave, "
+"fights evil, makes friends with elves, wins. Ugh! These stories aren't worth "
+"a damn, mate. And now I'll show you why...\n"
+"\n"
+"(Pig level of difficulty, 9 scenarios)\n"
+"\n"
+"<span size='small'>This campaign was made with the support of the Wesnoth "
+"Modders Guild. If you want to join the modding community, go addons/"
+"Deeds_of_Sir_Swine/discord.txt</span>"
+msgstr ""
+
+#. [campaign]: id=Deeds_of_Sir_Swine
+#: _main.cfg:23
+msgid "Piglet"
+msgstr ""
+
+#. [campaign]: id=Deeds_of_Sir_Swine
+#: _main.cfg:23
+msgid "Easy"
+msgstr ""
+
+#. [campaign]: id=Deeds_of_Sir_Swine
+#: _main.cfg:24 utils/characters.cfg:6
+msgid "Swine"
+msgstr ""
+
+#. [campaign]: id=Deeds_of_Sir_Swine
+#: _main.cfg:24
+msgid "Hard"
+msgstr ""
+
+#. [about]
+#: _main.cfg:27
+msgid "Authors & Coders"
+msgstr ""
+
+#. [about]
+#: _main.cfg:33
+msgid "Portraits"
+msgstr ""
+
+#. [about]
+#: _main.cfg:39
+msgid "Portrait Artist"
+msgstr ""
+
+#. [about]
+#: _main.cfg:45
+msgid "Translators"
+msgstr ""
+
+#. [scenario]: id=01_The_Hunt
+#: scenarios/01_The_Hunt.cfg:5
+msgid "Hunting"
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:20
+msgid ""
+"Ogre Kingdom. Inn. A seasoned Soldier drinks with a Northerner. Suddenly an "
+"annoying bard dives into the inn."
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:26 scenarios/01_The_Hunt.cfg:43
+#: scenarios/01_The_Hunt.cfg:51 scenarios/01_The_Hunt.cfg:59
+#: scenarios/01_The_Hunt.cfg:91 scenarios/01_The_Hunt.cfg:107
+#: scenarios/02_The_Monster.cfg:21 scenarios/03_Diplomacy.cfg:20
+#: scenarios/03_Diplomacy.cfg:65 scenarios/04_Taxes.cfg:21
+#: scenarios/04_Taxes.cfg:42 scenarios/05_Troll_Race.cfg:23
+#: scenarios/05_Troll_Race.cfg:68 scenarios/06_Diplomacy_pays_off.cfg:22
+#: scenarios/06_Diplomacy_pays_off.cfg:99 scenarios/07_Siega.cfg:22
+#: scenarios/08_Battle.cfg:24 scenarios/09_Final.cfg:22
+#: scenarios/09_Final.cfg:51 scenarios/10_Epilogue.cfg:26
+#: scenarios/10_Epilogue.cfg:35 scenarios/10_Epilogue.cfg:44
+#: scenarios/10_Epilogue.cfg:56
+msgid "Bard"
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:26
+msgid ""
+"<i>Dear guests! Thugs and murderers of all shapes and forms! Listen to the "
+"story of the six deeds of Sir Garka! For just three minted coins!</i>"
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:30 scenarios/01_The_Hunt.cfg:38
+#: scenarios/01_The_Hunt.cfg:67 scenarios/01_The_Hunt.cfg:75
+#: scenarios/01_The_Hunt.cfg:83 scenarios/01_The_Hunt.cfg:99
+#: scenarios/01_The_Hunt.cfg:111 scenarios/02_The_Monster.cfg:26
+#: scenarios/02_The_Monster.cfg:34 scenarios/02_The_Monster.cfg:42
+#: scenarios/02_The_Monster.cfg:50 scenarios/02_The_Monster.cfg:58
+#: scenarios/03_Diplomacy.cfg:25 scenarios/03_Diplomacy.cfg:33
+#: scenarios/03_Diplomacy.cfg:41 scenarios/03_Diplomacy.cfg:49
+#: scenarios/03_Diplomacy.cfg:57 scenarios/04_Taxes.cfg:26
+#: scenarios/04_Taxes.cfg:34 scenarios/04_Taxes.cfg:50
+#: scenarios/06_Diplomacy_pays_off.cfg:27
+#: scenarios/06_Diplomacy_pays_off.cfg:35
+#: scenarios/06_Diplomacy_pays_off.cfg:43
+#: scenarios/06_Diplomacy_pays_off.cfg:51
+#: scenarios/06_Diplomacy_pays_off.cfg:59
+#: scenarios/06_Diplomacy_pays_off.cfg:67
+#: scenarios/06_Diplomacy_pays_off.cfg:75
+#: scenarios/06_Diplomacy_pays_off.cfg:83
+#: scenarios/06_Diplomacy_pays_off.cfg:91 scenarios/07_Siega.cfg:27
+#: scenarios/07_Siega.cfg:35 scenarios/07_Siega.cfg:43
+#: scenarios/07_Siega.cfg:51 scenarios/07_Siega.cfg:59
+#: scenarios/08_Battle.cfg:33 scenarios/08_Battle.cfg:41
+#: scenarios/08_Battle.cfg:49 scenarios/09_Final.cfg:27
+#: scenarios/09_Final.cfg:35 scenarios/09_Final.cfg:43
+#: scenarios/10_Epilogue.cfg:48 scenarios/10_Epilogue.cfg:65
+#: scenarios/10_Epilogue.cfg:73 scenarios/10_Epilogue.cfg:81
+#: scenarios/10_Epilogue.cfg:89 scenarios/10_Epilogue.cfg:97
+msgid "Northerner"
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:30
+msgid "Who is this?"
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:34 scenarios/01_The_Hunt.cfg:47
+#: scenarios/01_The_Hunt.cfg:55 scenarios/01_The_Hunt.cfg:63
+#: scenarios/01_The_Hunt.cfg:71 scenarios/01_The_Hunt.cfg:79
+#: scenarios/01_The_Hunt.cfg:87 scenarios/01_The_Hunt.cfg:95
+#: scenarios/01_The_Hunt.cfg:103 scenarios/01_The_Hunt.cfg:115
+#: scenarios/02_The_Monster.cfg:30 scenarios/02_The_Monster.cfg:38
+#: scenarios/02_The_Monster.cfg:46 scenarios/02_The_Monster.cfg:54
+#: scenarios/02_The_Monster.cfg:62 scenarios/03_Diplomacy.cfg:29
+#: scenarios/03_Diplomacy.cfg:37 scenarios/03_Diplomacy.cfg:45
+#: scenarios/03_Diplomacy.cfg:53 scenarios/03_Diplomacy.cfg:61
+#: scenarios/03_Diplomacy.cfg:69 scenarios/04_Taxes.cfg:30
+#: scenarios/04_Taxes.cfg:38 scenarios/04_Taxes.cfg:46
+#: scenarios/04_Taxes.cfg:54 scenarios/05_Troll_Race.cfg:32
+#: scenarios/05_Troll_Race.cfg:40 scenarios/05_Troll_Race.cfg:48
+#: scenarios/05_Troll_Race.cfg:56 scenarios/05_Troll_Race.cfg:64
+#: scenarios/05_Troll_Race.cfg:72 scenarios/05_Troll_Race.cfg:80
+#: scenarios/06_Diplomacy_pays_off.cfg:31
+#: scenarios/06_Diplomacy_pays_off.cfg:39
+#: scenarios/06_Diplomacy_pays_off.cfg:47
+#: scenarios/06_Diplomacy_pays_off.cfg:55
+#: scenarios/06_Diplomacy_pays_off.cfg:63
+#: scenarios/06_Diplomacy_pays_off.cfg:71
+#: scenarios/06_Diplomacy_pays_off.cfg:79
+#: scenarios/06_Diplomacy_pays_off.cfg:87
+#: scenarios/06_Diplomacy_pays_off.cfg:95 scenarios/07_Siega.cfg:31
+#: scenarios/07_Siega.cfg:39 scenarios/07_Siega.cfg:47
+#: scenarios/07_Siega.cfg:55 scenarios/07_Siega.cfg:63
+#: scenarios/08_Battle.cfg:29 scenarios/08_Battle.cfg:37
+#: scenarios/08_Battle.cfg:45 scenarios/08_Battle.cfg:53
+#: scenarios/09_Final.cfg:31 scenarios/09_Final.cfg:39
+#: scenarios/09_Final.cfg:47 scenarios/10_Epilogue.cfg:31
+#: scenarios/10_Epilogue.cfg:39 scenarios/10_Epilogue.cfg:52
+#: scenarios/10_Epilogue.cfg:60 scenarios/10_Epilogue.cfg:69
+#: scenarios/10_Epilogue.cfg:77 scenarios/10_Epilogue.cfg:85
+#: scenarios/10_Epilogue.cfg:93
+msgid "Soldier"
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:34
+msgid ""
+"Local idiot. He's selling his lies again. Don’t you get yourself distracted. "
+"In what way are you saying your chain mails are better?"
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:38
+msgid ""
+"Hold on with those chain mails. I want to listen to it. Hey, bard! Here are "
+"your coins. Tell me!"
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:43
+msgid ""
+"<i>Thank you, warrior! You're not from around here, are you? From this story "
+"you will learn a lot about the Ogre Kingdom and the knights who inhabit it..."
+"</i>"
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:47
+msgid "Tell us already."
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:51
+msgid ""
+"<i>Ahem. Sir Garka was an outstanding knight. His father was Sir Makkord "
+"himself, the Serpent Slayer! Sir Garka's castle was enormous, the numbers of "
+"his servants were countless, his treasury was bursting with gold, and his "
+"gut was full of exquisite viands. Listen as to what his farm was like: a "
+"thousand pigs, half a thousand cows...</i>"
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:55
+msgid ""
+"Sure, but all that he had inherited from his daddy. And the Swine himself "
+"did not lift a finger to multiply it. Only wasted."
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:59
+msgid ""
+"<i>...and besides, five hundred mercenaries! The wealth of Sir Garka was "
+"only matched by his prowess. He bravely led his soldiers into battle and won "
+"ten wars in one fell swoop! Each victory was marked by a rich feast. Sir "
+"Garka's fame spread across the neighboring domains! Listen what "
+"personalities attended at those feasts: Sir Carrack, Sir Magot, sir...</i>"
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:63
+msgid ""
+"Vile dog spilling his moonshine. Ten wars! Bah! Two scuffles with some "
+"brigands — that's all ten wars of Swine. Not counting, that the army was not "
+"commanded by him, but by his adviser."
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:67
+msgid "How do you know all of this?"
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:71
+msgid ""
+"I fought under the banner of Swine. Unfortunately. And aside from me, no one "
+"will ever tell you the truth about him."
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:75
+msgid "Wow. This way it's even more interesting. Why Swine, by the way?"
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:79
+msgid ""
+"Because after those two scuffles, he had been lying in his castle, only ate "
+"and fattened like a hog. Then the castle turned into a hog pen. The stench "
+"hanged in the air a mile away. That's why his neighbors have come to call "
+"him – Sir Swine."
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:83
+msgid "Aren't all ogres like that?"
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:87
+msgid ""
+"Ogres are all different. But Swine was too fat and dirty even by ogres’ "
+"standards."
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:91
+msgid ""
+"<i>...and besides, Pan Barot himself! So Sir Garka would have continued to "
+"live, basking in the rays of his glory, not caring for troubles, multiplying "
+"his wealth...</i>"
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:95
+msgid "He wouldn’t have, I betcha. All his neighbors wanted him dead."
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:99
+msgid "Why didn't they attack?"
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:103
+msgid ""
+"Makkord left him a bunch of mercenaries. There were thirty half-ogres in my "
+"squad alone. And there are dozens of such detachments. Everyone was waiting "
+"for him till he would finally get on our nerves, when we would leave him. "
+"But we didn't — Swine paid well, you can't take that away."
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:107
+msgid ""
+"<i>... but the Light sent a new deed to the knight! Sir Garka had to perform "
+"six of his grandiose deeds! The news of the terrible, well-known event, "
+"caught the knight right on his hunt!</i>"
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:111
+msgid "What is he talking about?"
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:115
+msgid "The Khaganate has gone to war with us."
+msgstr ""
+
+#. [side]
+#: scenarios/01_The_Hunt.cfg:149 scenarios/02_The_Monster.cfg:72
+#: scenarios/03_Diplomacy.cfg:150 scenarios/04_Taxes.cfg:65
+#: scenarios/05_Troll_Race.cfg:125 scenarios/06_Diplomacy_pays_off.cfg:181
+#: scenarios/07_Siega.cfg:73 scenarios/09_Final.cfg:87
+#: scenarios/10_Epilogue.cfg:18
+msgid "Sir Garka"
+msgstr ""
+
+#. [unit]: id=Cleric, type=Kingdom_Cleric
+#: scenarios/01_The_Hunt.cfg:157
+msgid "Wise Adviser"
+msgstr ""
+
+#. [unit]: id=hunter, type=Kingdom_Halfogre_Outlaw
+#. [unit]: type=Kingdom_Halfogre_Outlaw
+#: scenarios/01_The_Hunt.cfg:174 scenarios/01_The_Hunt.cfg:184
+#: scenarios/01_The_Hunt.cfg:194
+msgid "Huntsman"
+msgstr ""
+
+#. [unit]: id=son, type=Kingdom_Noble_Son
+#: scenarios/01_The_Hunt.cfg:205
+msgid "The Wayward Son"
+msgstr ""
+
+#. [side]
+#: scenarios/01_The_Hunt.cfg:236
+msgid "Boars"
+msgstr ""
+
+#. [side]
+#: scenarios/01_The_Hunt.cfg:336
+msgid "Wolves"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/01_The_Hunt.cfg:351 scenarios/02_The_Monster.cfg:229
+#: scenarios/04_Taxes.cfg:314 scenarios/05_Troll_Race.cfg:542
+#: scenarios/06_Diplomacy_pays_off.cfg:325 scenarios/07_Siega.cfg:310
+#: scenarios/08_Battle.cfg:979
+msgid "No!"
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/01_The_Hunt.cfg:361
+msgid ""
+"Sir, scouts report that a huge army of the Serpent Khaganate has approached "
+"the southern border of the Kingdom!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/01_The_Hunt.cfg:365
+msgid ""
+"Hr, well, they approached and what’s then. It should only concern the "
+"knights of Pan Tukk."
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/01_The_Hunt.cfg:369
+msgid ""
+"But, my lord, the panship of our suzerain Barot also belongs to the Southern "
+"Mark. You have to protect the border like your father did."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/01_The_Hunt.cfg:373
+msgid ""
+"Hr-r. Well yes. So what! There are no instructions from the Pan yet. I have "
+"many warriors. Hr, I'll break the Khaganate whenever I want. And now I wanna "
+"go hunting! Hey, masters of the hunt!"
+msgstr ""
+
+#. [message]: speaker=hunter
+#: scenarios/01_The_Hunt.cfg:377
+msgid "Yes, Your Majesty!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/01_The_Hunt.cfg:381
+msgid "Are there, hr, lots of wild piglets in my forests?"
+msgstr ""
+
+#. [message]: speaker=hunter
+#: scenarios/01_The_Hunt.cfg:385
+msgid "Lots-lots of them, Your Majesty!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/01_The_Hunt.cfg:389
+msgid "The piglets, hr, won't wait! Get to work!"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/01_The_Hunt.cfg:403 scenarios/01_The_Hunt.cfg:519
+msgid "Kill 10 boars ($pigs|/10)"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/01_The_Hunt.cfg:407 scenarios/01_The_Hunt.cfg:523
+#: scenarios/02_The_Monster.cfg:293 scenarios/02_The_Monster.cfg:371
+#: scenarios/02_The_Monster.cfg:438 scenarios/02_The_Monster.cfg:552
+msgid "The Death of Sir Swine"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/01_The_Hunt.cfg:411 scenarios/01_The_Hunt.cfg:527
+msgid "The Death of the Adviser"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/01_The_Hunt.cfg:415 scenarios/01_The_Hunt.cfg:531
+#: scenarios/02_The_Monster.cfg:301 scenarios/02_The_Monster.cfg:379
+#: scenarios/02_The_Monster.cfg:446 scenarios/02_The_Monster.cfg:560
+#: scenarios/04_Taxes.cfg:341 scenarios/05_Troll_Race.cfg:564
+#: scenarios/05_Troll_Race.cfg:965
+msgid "Turns run out"
+msgstr ""
+
+#. [event]
+#: scenarios/01_The_Hunt.cfg:454 scenarios/01_The_Hunt.cfg:459
+msgid "Fierce Wolf"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/01_The_Hunt.cfg:549
+msgid "Such a glorious hunt! So much meat. Hr! What a feast it will be..."
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/01_The_Hunt.cfg:553
+msgid "My lord, we should go back to the castle and think about the Khaganate."
+msgstr ""
+
+#. [message]
+#: scenarios/01_The_Hunt.cfg:558
+msgid ""
+"My Lord, we have found tracks of a giant bear! His paw is twice the size of "
+"my head!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/01_The_Hunt.cfg:562
+msgid ""
+"Wow, hr! A monster in my woods. We need to think... yes, hr! I'll kill him. "
+"It will be my deed. Masters of the hunt – take the trail!"
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/01_The_Hunt.cfg:566
+msgid "Sir, there's no time for this..."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/01_The_Hunt.cfg:570
+msgid ""
+"Of course there is! Borders, hr, aren’t bears, they won't run away into the "
+"forest. And the bear... well, doesn't matter. To the pursuit!"
+msgstr ""
+
+#. [scenario]: id=02_The_Monster
+#: scenarios/02_The_Monster.cfg:5
+msgid "The First Deed"
+msgstr ""
+
+#. [part]
+#: scenarios/02_The_Monster.cfg:21
+msgid ""
+"<i>...The pious knight could not allow a hideous monster to tread on his "
+"soil. As a true strategist, Sir Garka decided to secure his rear before "
+"going against an external enemy. You, madcaps, have something to learn from "
+"him! The noble knight boldly followed the trail of the beast. So began his "
+"first deed...</i>"
+msgstr ""
+
+#. [part]
+#: scenarios/02_The_Monster.cfg:26
+msgid "Was he really going for it?"
+msgstr ""
+
+#. [part]
+#: scenarios/02_The_Monster.cfg:30
+msgid ""
+"Yeah. Only he didn’t care nothing, be it piety, be it the beast, be it the "
+"Khaganate."
+msgstr ""
+
+#. [part]
+#: scenarios/02_The_Monster.cfg:34
+msgid "Why did he go there then?"
+msgstr ""
+
+#. [part]
+#: scenarios/02_The_Monster.cfg:38
+msgid ""
+"Just so that his neighbors wouldn’t bother him. With ogres it’s like that: "
+"if you strike down some abomination, then trumpet about it across the whole "
+"vicinity, the neighbors will think, then, that you are strong, and they will "
+"be afraid to bother you. Here it is necessary to constantly prove your "
+"strength. And Sir Swine had - oh - such big problems with that!"
+msgstr ""
+
+#. [part]
+#: scenarios/02_The_Monster.cfg:42
+msgid "Problems? But what about the hundreds of mercenaries?"
+msgstr ""
+
+#. [part]
+#: scenarios/02_The_Monster.cfg:46
+msgid ""
+"These, brother, are different things. It's not so simple. No one doubted the "
+"strength of the mercenaries, but the strength of Swine himself – yes. "
+"Personal authority is important here. If you lose it, no one will serve you."
+msgstr ""
+
+#. [part]
+#: scenarios/02_The_Monster.cfg:50
+msgid "But what about the good pay?"
+msgstr ""
+
+#. [part]
+#: scenarios/02_The_Monster.cfg:54
+msgid ""
+"If a knight is rich, but without any authority at all, no one will fight for "
+"him to the death. It is better to join his enemies and profit off it in a "
+"different way. Plunder his supplies, that is."
+msgstr ""
+
+#. [part]
+#: scenarios/02_The_Monster.cfg:58
+msgid ""
+"It’s really complex. And I thought ogres were simple creatures. Listen, "
+"well, Swine still went after that bear. Doesn't that make him brave?"
+msgstr ""
+
+#. [part]
+#: scenarios/02_The_Monster.cfg:62
+msgid "If only he went there alone, hehe!"
+msgstr ""
+
+#. [side]
+#: scenarios/02_The_Monster.cfg:81
+msgid "Bears"
+msgstr ""
+
+#. [unit]: id=first_bear, type=Cave Bear
+#. [unit]: type=Cave Bear
+#: scenarios/02_The_Monster.cfg:91 scenarios/02_The_Monster.cfg:99
+#: scenarios/02_The_Monster.cfg:137 scenarios/02_The_Monster.cfg:146
+#: scenarios/02_The_Monster.cfg:170
+msgid "The Minion Bear"
+msgstr ""
+
+#. [trait]: id=old
+#: scenarios/02_The_Monster.cfg:106
+msgid "old"
+msgstr ""
+
+#. [trait]: id=old
+#: scenarios/02_The_Monster.cfg:107
+msgid "female^old"
+msgstr ""
+
+#. [chance_to_hit]: id=reliable
+#: scenarios/02_The_Monster.cfg:123 scenarios/02_The_Monster.cfg:206
+msgid "reliable"
+msgstr ""
+
+#. [chance_to_hit]: id=reliable
+#: scenarios/02_The_Monster.cfg:124 scenarios/02_The_Monster.cfg:207
+msgid "When used offensively, this attack's chance to hit is increased by 10%."
+msgstr ""
+
+#. [trait]: id=young
+#: scenarios/02_The_Monster.cfg:153
+msgid "young"
+msgstr ""
+
+#. [trait]: id=young
+#: scenarios/02_The_Monster.cfg:154
+msgid "female^young"
+msgstr ""
+
+#. [unit]: id=bear_lord, type=Cave Bear
+#: scenarios/02_The_Monster.cfg:180
+msgid "Bear Lord"
+msgstr ""
+
+#. [trait]: id=monstrous
+#: scenarios/02_The_Monster.cfg:188
+msgid "monstrous"
+msgstr ""
+
+#. [trait]: id=monstrous
+#: scenarios/02_The_Monster.cfg:189
+msgid "female^monstrous"
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/02_The_Monster.cfg:248
+msgid ""
+"Killing beasts is certainly a God–pleasing thing, but after all, fighting "
+"the Khaganate brings no less honor, my lord."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/02_The_Monster.cfg:252
+msgid ""
+"Many would fight with the Khaganate, but the beast, hr, not everyone would "
+"kill it. The deed will elevate me above my thick-headed neighbors."
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/02_The_Monster.cfg:256
+msgid ""
+"But what if the monster tears you apart? What’s then? It not a knightly "
+"thing to die right before war."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/02_The_Monster.cfg:260
+msgid "Hr-hr! Ha! Who said that I would dive into the cave alone?"
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/02_The_Monster.cfg:264
+msgid ""
+"But aren't you going to perform a deed according to the old tradition, on "
+"your own, like King Yatuk?"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/02_The_Monster.cfg:268
+msgid ""
+"Nonsense! I'll kill the bear any way I want. And the bards, hr, will tell "
+"the tell as it should be."
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/02_The_Monster.cfg:272
+msgid "But..."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/02_The_Monster.cfg:276
+msgid ""
+"Don't bother me! Come on, warriors! I order you to, hr, kill that bear. "
+"Forward!"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/02_The_Monster.cfg:289
+msgid "Kill the bear"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/02_The_Monster.cfg:297 scenarios/02_The_Monster.cfg:375
+#: scenarios/02_The_Monster.cfg:442 scenarios/02_The_Monster.cfg:556
+#: scenarios/04_Taxes.cfg:337
+msgid "The Death of the Wise Adviser"
+msgstr ""
+
+#. [message]
+#: scenarios/02_The_Monster.cfg:334
+msgid "The bear is dead, Your Highness!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/02_The_Monster.cfg:338
+msgid "Come on, hr... It's not that bear! He's got such a small paw!"
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/02_The_Monster.cfg:342
+msgid "You're not going to look for another bear, are you, my lord?"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/02_The_Monster.cfg:346
+msgid ""
+"Of course I'm going to, you fool! How else would I, uh, accomplish the deed? "
+"This tiny hide won't fit a deed!"
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/02_The_Monster.cfg:350
+msgid "You can perform deeds of courage in the war with the Khaganate."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/02_The_Monster.cfg:354
+msgid ""
+"Shut up! Hrr... my gut tells me that this bear, hr, has set up his lair "
+"here. And we killed just his minion. It means... Warriors! Search the cave! "
+"Kill all the bears! And the biggest one too!"
+msgstr ""
+
+#. [message]
+#: scenarios/02_The_Monster.cfg:359
+msgid "As you command, Your Highness"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/02_The_Monster.cfg:363 scenarios/02_The_Monster.cfg:430
+#: scenarios/02_The_Monster.cfg:544
+msgid "Clear up the caves"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/02_The_Monster.cfg:367 scenarios/02_The_Monster.cfg:434
+#: scenarios/02_The_Monster.cfg:548
+msgid "Lose 7 units ($death|/7)"
+msgstr ""
+
+#. [message]: speaker=bear_lord
+#: scenarios/02_The_Monster.cfg:408
+msgid ""
+"WHO HAS ENTERED MY CAVE?! WHO HAS KILLED MY SERVANTS?! WHO HAS APPROACHED MY "
+"SPRING!"
+msgstr ""
+
+#. [message]
+#: scenarios/02_The_Monster.cfg:413
+msgid "A talking bear, my lord! It's definitely the one!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/02_The_Monster.cfg:417
+msgid "I, Sir Garka, have come to kill you!"
+msgstr ""
+
+#. [message]: speaker=bear_lord
+#: scenarios/02_The_Monster.cfg:422
+msgid ""
+"A KNIGHT?! ARE YOU CHALLENGING ME?! I ACCEPT IT! COME INTO THE WATER TO ME, "
+"SHOW ME YOUR WORTH!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/02_The_Monster.cfg:426
+msgid "Yeah, hr, what else! Crossbowmen, shoot!"
+msgstr ""
+
+#. [note]
+#: scenarios/02_The_Monster.cfg:454
+msgid "The spring heals the units standing in it for 12 HP and cures poison."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/02_The_Monster.cfg:467
+msgid "That's more like it! Plenty of hides we are gonna get off them!"
+msgstr ""
+
+#. [message]
+#: scenarios/02_The_Monster.cfg:486
+msgid "The last stinky bear is dead, my lord!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/02_The_Monster.cfg:490
+msgid ""
+"Good, hr, good! Drag the carcasses to the wagon train. In the castle we will "
+"take off their hides and will, hr, feast on bear meat!"
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/02_The_Monster.cfg:494
+msgid ""
+"The bear was protecting this spring, my lord. There is truly some kind of "
+"magic imbued with the water."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/02_The_Monster.cfg:498
+msgid ""
+"It's all nonsense. Fill this puddle with mud! No magic, hr, in my domain."
+msgstr ""
+
+#. [message]
+#: scenarios/02_The_Monster.cfg:503
+msgid "Yes, Your Grace."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/02_The_Monster.cfg:525
+msgid "That's it! And now - to the castle! A feast awaits us!"
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/02_The_Monster.cfg:578
+msgid ""
+"We lost the entire retinue in this senseless massacre! Do whatever you want, "
+"sir, but I'll trumpet a retreat!"
+msgstr ""
+
+#. [scenario]: id=03_Swine_Diplomacy
+#: scenarios/03_Diplomacy.cfg:5
+msgid "Swine Diplomacy"
+msgstr ""
+
+#. [part]
+#: scenarios/03_Diplomacy.cfg:20
+msgid ""
+"<i>...In one fell swoop, Sir Garka's hog jumped over the spring, and the "
+"brave knight pierced the bear's throat on the fly with his spear. It dived "
+"so deep that there was no way to pull it out, and Sir Garka slaughtered the "
+"remaining bears with his bare hands…</i>"
+msgstr ""
+
+#. [part]
+#: scenarios/03_Diplomacy.cfg:25
+msgid "That doesn't sound very realistic."
+msgstr ""
+
+#. [part]
+#: scenarios/03_Diplomacy.cfg:29
+msgid ""
+"Yeah. In reality, they just shot down the bears with crossbows, and that's "
+"the whole deed."
+msgstr ""
+
+#. [part]
+#: scenarios/03_Diplomacy.cfg:33
+msgid "Are there any rules for these deeds of yours?"
+msgstr ""
+
+#. [part]
+#: scenarios/03_Diplomacy.cfg:37
+msgid ""
+"There are some. A knight has to venture alone, introduce himself, greet the "
+"beast, and, then, kill it with his own hands. It is important to say "
+"thereafter that all this is for the sake of Light."
+msgstr ""
+
+#. [part]
+#: scenarios/03_Diplomacy.cfg:41
+msgid "Why so much hassle?"
+msgstr ""
+
+#. [part]
+#: scenarios/03_Diplomacy.cfg:45
+msgid ""
+"Because for ogres it’s important. By performing deeds, they save their souls "
+"from oblivion. That's taught by our priests. And it all goes back to ancient "
+"times. There was such a king, called Yatuk, the first king of ogres. So, he "
+"brought ogres to these lands and was the first to accept the religion of "
+"Light. As soon as he accepted, he immediately beat the Avanque-King, "
+"precisely as I have described. The light of his soul became like sun for the "
+"ogres. From him – sparked the others. Well, and it continued on and on. Now "
+"every ogre must make themselves a Yatuk."
+msgstr ""
+
+#. [part]
+#: scenarios/03_Diplomacy.cfg:49
+msgid "What is that Avanque-King?"
+msgstr ""
+
+#. [part]
+#: scenarios/03_Diplomacy.cfg:53
+msgid ""
+"There was such a beaver, the biggest and the baddest. The king of all "
+"beavers. Since Yatuk cut him down, the beavers have been serving ogres."
+msgstr ""
+
+#. [part]
+#: scenarios/03_Diplomacy.cfg:57
+msgid "And do you also have the fire of soul, then?"
+msgstr ""
+
+#. [part]
+#: scenarios/03_Diplomacy.cfg:61
+msgid ""
+"Sort of. But all of it applies to half-ogres in a different way somewhat, so "
+"I screwed it all."
+msgstr ""
+
+#. [part]
+#: scenarios/03_Diplomacy.cfg:65
+msgid ""
+"<i>...Returning to his castle, Sir Garka found ambassadors from neighboring "
+"lords. Before accepting them, he demonstrated great generosity and arranged "
+"a feast for three days and three nights...</i>"
+msgstr ""
+
+#. [part]
+#: scenarios/03_Diplomacy.cfg:69
+msgid ""
+"Ha ha! The ambassadors had only been sitting in the room for skivvies all "
+"this time. So much for swinish generosity! Only when the castle ran out of "
+"meat, did the fat hog fall on his throne and summoned them. Despite the news "
+"there being urgent…"
+msgstr ""
+
+#. [side]
+#: scenarios/03_Diplomacy.cfg:251 scenarios/03_Diplomacy.cfg:272
+#: scenarios/03_Diplomacy.cfg:293
+msgid "Envoys"
+msgstr ""
+
+#. [unit]: id=envoy1, type=Kingdom_Messenger
+#: scenarios/03_Diplomacy.cfg:255
+msgid "Lord Karrok's Envoy"
+msgstr ""
+
+#. [unit]: id=envoy2, type=Kingdom_Messenger
+#: scenarios/03_Diplomacy.cfg:276
+msgid "Lord Magot's Envoy"
+msgstr ""
+
+#. [unit]: id=envoy3, type=Kingdom_Messenger
+#: scenarios/03_Diplomacy.cfg:297
+msgid "Lord Grakk's Envoy"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/03_Diplomacy.cfg:315
+msgid "Well, hr-r, tell me what you have there!"
+msgstr ""
+
+#. [message]: speaker=envoy1
+#: scenarios/03_Diplomacy.cfg:319
+msgid ""
+"I have a message from Sir Karakk. He reports that the army of the Serpent "
+"Khaganate is going to besiege his castle. He asks you to send reinforcements."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/03_Diplomacy.cfg:323
+msgid ""
+"What a weakling! Less than a week has passed, hr, and he has already let the "
+"enemy near the castle. It’s no use on my part to send help. When they get "
+"there, there will be no one to help. Give Sir Karakk this bearhide. Let him "
+"marvel at my deed before, uh, his death."
+msgstr ""
+
+#. [message]: speaker=envoy1
+#: scenarios/03_Diplomacy.cfg:327
+msgid "As you command, noble Lord."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/03_Diplomacy.cfg:338
+msgid "Next!"
+msgstr ""
+
+#. [message]: speaker=envoy2
+#: scenarios/03_Diplomacy.cfg:345
+msgid ""
+"I have a message from Sir Magoth. My lord is raising a great army and asks "
+"you to send him a shipment of iron so that the blacksmiths could make "
+"weapons and armor for the militia."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/03_Diplomacy.cfg:350
+msgid ""
+"Hr, I heard your lord's lands are overrun by brigands. If Magoth wants iron, "
+"let him send his guards. I will not give away my warriors – I still have to "
+"fight with the Khaganate! So tell him that I'll give him the iron as soon, "
+"hr-r, as I see a squad of his soldiers capable of protecting the caravan. "
+"And this bearhide also. Tell him, I killed the beast!"
+msgstr ""
+
+#. [message]: speaker=envoy2
+#: scenarios/03_Diplomacy.cfg:355
+msgid "As you say, sir. I will convey your words without error."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/03_Diplomacy.cfg:367
+msgid "Next! What you got there, hr?"
+msgstr ""
+
+#. [message]: speaker=envoy3
+#: scenarios/03_Diplomacy.cfg:374
+msgid ""
+"I have a message from Sir Grakk. My lord wishes to act immediately against "
+"the Khaganate, and since the shortest route to the border lies through Your "
+"domain, he asks you to grant the right of passage to his army."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/03_Diplomacy.cfg:379
+msgid ""
+"What else, hr! I know your lord. His brother was besieging my castle. And he "
+"is just like that too! No-way. Let him lead his bandits through his own "
+"lands. Tell him exactly that. And take this hide. I killed the bear myself!"
+msgstr ""
+
+#. [message]: speaker=envoy3
+#: scenarios/03_Diplomacy.cfg:384
+msgid "It will be done."
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/03_Diplomacy.cfg:396
+msgid "My Lord! Why did you quarrel with all the neighbors?"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/03_Diplomacy.cfg:401
+msgid ""
+"Because they are thick-heads and brigands who get in my way, there is no "
+"point in wasting my resources on them."
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/03_Diplomacy.cfg:406
+msgid "But the royal decree forbids strife during war!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/03_Diplomacy.cfg:411
+msgid ""
+"But I'm not attacking them, hr. Don't be afraid. I'll deal with the "
+"Khaganate. I'll sleep for a couple of days first, hr-r, and deal with it."
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/03_Diplomacy.cfg:416
+msgid "And what is your plan?"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/03_Diplomacy.cfg:421
+msgid "Collect taxes, hr-r."
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/03_Diplomacy.cfg:426
+msgid "But we have already collected taxes this month!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/03_Diplomacy.cfg:431
+msgid ""
+"My treasury is getting empty, hr-r. I think someone is underpaying me. I'll "
+"go around my lands and sort it out. And when I get a lot of money, I'll, hr, "
+"defeat the Khaganate."
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/03_Diplomacy.cfg:436
+msgid ""
+"That makes sense, my lord. But what about our borders? Maybe we should set "
+"up watchmen? Shall we order the fortifications to be repaired?"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/03_Diplomacy.cfg:441
+msgid ""
+"It's all later, hr-r. It all requires gold. And we have little! When we "
+"collect taxes, then we'll do this rubbish. Trumpet it across all the "
+"settlements — I'm going for my money!"
+msgstr ""
+
+#. [scenario]: id=04_Taxes
+#: scenarios/04_Taxes.cfg:5
+msgid "The Second Deed"
+msgstr ""
+
+#. [part]
+#: scenarios/04_Taxes.cfg:21
+msgid ""
+"<i>Truly, the best of the best go their own way, without turning away or "
+"being distracted by anything! These words suit Sir Garka perfectly. The "
+"craven neighbors wanted to distract the knight, to disperse his forces on "
+"smaller matters, to bask in his future deeds. Sir Garka did not let this "
+"happen! The envious received only the bear hides — a proof of his valor and "
+"strength! And the knight continued his march along the path of hero... </i>"
+msgstr ""
+
+#. [part]
+#: scenarios/04_Taxes.cfg:26
+msgid ""
+"Looky here how you twisted things up! Did the lords appreciate the hides?"
+msgstr ""
+
+#. [part]
+#: scenarios/04_Taxes.cfg:30
+msgid ""
+"Haha, appreciated! Magoth laid in on the stable floor, and Grakk, as rumors "
+"say, wiped his bottom with it. The hide didn't reach Karrak, but if it did, "
+"I bet he would have done something even worse with it!"
+msgstr ""
+
+#. [part]
+#: scenarios/04_Taxes.cfg:34
+msgid ""
+"It is understandable. I myself wouldn't be happy. But really, did the "
+"neighbors offer much lesser matters, as he put it? "
+msgstr ""
+
+#. [part]
+#: scenarios/04_Taxes.cfg:38
+msgid ""
+"They offered normal matters. While Swine made his relatives shamble through "
+"the woods, the knights were preparing for war. They gathered soldiers, built "
+"fortifications, negotiated things. Someone had already fought. Everything "
+"was serious there. But that's another story."
+msgstr ""
+
+#. [part]
+#: scenarios/04_Taxes.cfg:42
+msgid ""
+"<i>... The knight had to go around his domain and once and for all eradicate "
+"treachery, cowardice and betrayal among his subjects, finish the creation of "
+"reliable rear before the war. This was Sir Garka's second deed! Listen, how "
+"it went...</i>"
+msgstr ""
+
+#. [part]
+#: scenarios/04_Taxes.cfg:46
+msgid "Now he is gonna talk about the tribute gathering."
+msgstr ""
+
+#. [part]
+#: scenarios/04_Taxes.cfg:50
+msgid "What kind of deed one can do during the tribute gathering?"
+msgstr ""
+
+#. [part]
+#: scenarios/04_Taxes.cfg:54
+msgid ""
+"You’ll find out. Swine had only his castle, but his villages as well turned "
+"into a not only turned his castle, but also all the villages into a septage "
+"pile…"
+msgstr ""
+
+#. [side]: type=Fugitive, id=rebel
+#: scenarios/04_Taxes.cfg:75
+msgid "Villagers"
+msgstr ""
+
+#. [unit]: type=Bandit
+#. [unit]: type=Outlaw
+#: scenarios/04_Taxes.cfg:98 scenarios/04_Taxes.cfg:112
+msgid "The Rebel Guardian"
+msgstr ""
+
+#. [unit]: type=Woodsman, type=Poacher
+#: scenarios/04_Taxes.cfg:126 scenarios/04_Taxes.cfg:148
+#: scenarios/04_Taxes.cfg:170 scenarios/04_Taxes.cfg:192
+#: scenarios/04_Taxes.cfg:214
+msgid "The Rebel Forester"
+msgstr ""
+
+#. [side]
+#: scenarios/04_Taxes.cfg:246
+msgid "Mercenaries"
+msgstr ""
+
+#. [unit]: id=merc1, type=Cavalryman
+#. [unit]: id=merc2, type=Cavalryman
+#: scenarios/04_Taxes.cfg:250 scenarios/04_Taxes.cfg:262
+msgid "Wesnothian mercenary"
+msgstr ""
+
+#. [unit]: id=merc3, type=Dragoon
+#: scenarios/04_Taxes.cfg:274
+msgid "Wesnothian condottiero"
+msgstr ""
+
+#. [trait]: id=veteran_mercenary
+#: scenarios/04_Taxes.cfg:281
+msgid "veteran mercenary"
+msgstr ""
+
+#. [trait]: id=veteran_mercenary
+#: scenarios/04_Taxes.cfg:282
+msgid "female^veteran mercenary"
+msgstr ""
+
+#. [trait]: id=veteran_mercenary
+#: scenarios/04_Taxes.cfg:283
+msgid "leadership ability"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/04_Taxes.cfg:325
+msgid "Capture all villages"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/04_Taxes.cfg:329
+msgid "Kill the rebel leader"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/04_Taxes.cfg:333 scenarios/05_Troll_Race.cfg:556
+#: scenarios/05_Troll_Race.cfg:957 scenarios/06_Diplomacy_pays_off.cfg:345
+#: scenarios/09_Final.cfg:354 scenarios/09_Final.cfg:488
+msgid "Death of Sir Swine"
+msgstr ""
+
+#. [note]
+#: scenarios/04_Taxes.cfg:349
+msgid "It is recommended to recruit with the Advisor and fight with Sir Swine"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/04_Taxes.cfg:360
+msgid "Why, hr, is no one greeting me?!"
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/04_Taxes.cfg:364
+msgid ""
+"I've kept our tribute gathering a secret, my lord. Otherwise, some "
+"unscrupulous subjects could have escaped."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/04_Taxes.cfg:368
+msgid ""
+"Hr, well good, even though you disobeyed me. Hey, headman! Your lord has "
+"come to your valley!"
+msgstr ""
+
+#. [message]: speaker=rebel
+#: scenarios/04_Taxes.cfg:372
+msgid "How? Swine? What do you need from us?"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/04_Taxes.cfg:376
+msgid "Hr, don't you dare call me that, villain! I came for taxes."
+msgstr ""
+
+#. [message]: speaker=rebel
+#: scenarios/04_Taxes.cfg:380
+msgid "We've already paid you all the taxes."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/04_Taxes.cfg:384
+msgid ""
+"So what? The war has started, hr, I need more gold. I am your lord, and I "
+"can take as many taxes as I want!"
+msgstr ""
+
+#. [message]: speaker=rebel
+#: scenarios/04_Taxes.cfg:388
+msgid ""
+"Well, no. You've already stopped protecting us, we're fighting off bandits "
+"on our own. You rip us off with burdensome taxes and refuse to lower them "
+"even in drought! And now you're asking for more! For the love of Light, "
+"leave us alone, or we will drive you away by force."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/04_Taxes.cfg:392
+msgid "Hr! A rebellion?! Warriors! Kill the rebels! And take my gold!"
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/04_Taxes.cfg:396
+msgid ""
+"It looks like the villagers were preparing for a rebellion, but we caught "
+"them off guard. Armed rebels hiding in the fortress, but the inhabitants of "
+"the valley are still defenseless. If we get to the villages before the "
+"rebels, we can pacify the peasants and collect taxes without any resistance."
+msgstr ""
+
+#. [message]: speaker=merc3
+#: scenarios/04_Taxes.cfg:411
+msgid ""
+"Peace be with you, Sir knight! It seems you wouldn’t mind our help? Me and "
+"my men are the best mercenary cavalrymen in the whole Wesnoth! For just 70 "
+"gold coins, we will help you pacify the filthy villeins. What do you say?"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/04_Taxes.cfg:415
+msgid "What should I do with them, hr-r…"
+msgstr ""
+
+#. [option]: speaker=Swine
+#: scenarios/04_Taxes.cfg:418
+msgid "Hire (-70 gold)"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/04_Taxes.cfg:439
+msgid "All right then! I take you, hr, but the price should be justified!"
+msgstr ""
+
+#. [message]: speaker=merc3
+#: scenarios/04_Taxes.cfg:443 scenarios/04_Taxes.cfg:478
+msgid "No problem, Sir knight."
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/04_Taxes.cfg:447 scenarios/04_Taxes.cfg:482
+msgid ""
+"It's a good thing that you those hired horsemen, my Lord. They will help us "
+"get to the villages before the rebels."
+msgstr ""
+
+#. [option]: speaker=Swine
+#: scenarios/04_Taxes.cfg:453
+msgid "Hire with debt (-70 gold, gold goes negative)"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/04_Taxes.cfg:474
+msgid ""
+"All right then! Hr, gold is a bit low for now, I will give you $swinegold | "
+"up front, you will knock out the rest from the filthy villeins!"
+msgstr ""
+
+#. [option]: speaker=Swine
+#: scenarios/04_Taxes.cfg:488
+msgid "Drive them away"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/04_Taxes.cfg:492
+msgid ""
+"Well, no! Get out of my lands, muggers! Otherwise, I'll, hr, beat you down "
+"like the rebels..!"
+msgstr ""
+
+#. [message]: speaker=merc3
+#: scenarios/04_Taxes.cfg:496
+msgid "As you will, sir knight. We don't need any problems."
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/04_Taxes.cfg:505
+msgid ""
+"Was it worth it to act so rashly, my Lord? Now it will be difficult for us "
+"to reach the villages before the rebels."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/04_Taxes.cfg:509
+msgid "Hr, what gives! My warriors will deal with it on their own."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/04_Taxes.cfg:521
+msgid "This gold is rightfully mine, hr!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/04_Taxes.cfg:529
+msgid "Get up, get up, brothers!"
+msgstr ""
+
+#. [floating_text]
+#: scenarios/04_Taxes.cfg:553
+msgid "+10 gold"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/04_Taxes.cfg:640
+msgid "Ar, damn you! You'll see what your swinishness will lead to!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/04_Taxes.cfg:644
+msgid ""
+"Tie him up! And the rest of the rebels, too. I am going to, hr, have them "
+"for dinner!"
+msgstr ""
+
+#. [scenario]: id=05_Troll_Race
+#: scenarios/05_Troll_Race.cfg:5
+msgid "The Third Deed"
+msgstr ""
+
+#. [part]
+#: scenarios/05_Troll_Race.cfg:23
+msgid ""
+"<i>…with a single strike of his lance Sir Garka was piercing a dozen of "
+"rebels; with one push his boar crushed their formation like a ram crushes "
+"gates! The knight has shown the rabble its place, and no peasant in the "
+"whole panstvo ever thought to start a rebellion! That's his second deed for "
+"the Kingdom</i>"
+msgstr ""
+
+#. [part]
+#: scenarios/05_Troll_Race.cfg:28
+msgid ""
+"Why couldn't folks stand up for themselves? In our place he would be quickly "
+"raised on spears."
+msgstr ""
+
+#. [part]
+#: scenarios/05_Troll_Race.cfg:28 scenarios/05_Troll_Race.cfg:36
+#: scenarios/05_Troll_Race.cfg:44 scenarios/05_Troll_Race.cfg:52
+#: scenarios/05_Troll_Race.cfg:60 scenarios/05_Troll_Race.cfg:76
+msgid "Northertner"
+msgstr ""
+
+#. [part]
+#: scenarios/05_Troll_Race.cfg:32
+msgid ""
+"Come on! Your people are armed and trained. And what could our paupers "
+"possibly do to ogres?"
+msgstr ""
+
+#. [part]
+#: scenarios/05_Troll_Race.cfg:36
+msgid "E-eh. I can only note the bravery of the rebelled."
+msgstr ""
+
+#. [part]
+#: scenarios/05_Troll_Race.cfg:40
+msgid ""
+"It's true. Usually our people are calm and scared. But Swine managed to piss "
+"off even them."
+msgstr ""
+
+#. [part]
+#: scenarios/05_Troll_Race.cfg:44
+msgid "What would've been if the villagers had defeated him against all odds?"
+msgstr ""
+
+#. [part]
+#: scenarios/05_Troll_Race.cfg:48
+msgid ""
+"They would've lived a week or two like free people, but then – again, back "
+"to slavery."
+msgstr ""
+
+#. [part]
+#: scenarios/05_Troll_Race.cfg:52 scenarios/07_Siega.cfg:59
+#: scenarios/10_Epilogue.cfg:81
+msgid "Why?"
+msgstr ""
+
+#. [part]
+#: scenarios/05_Troll_Race.cfg:56
+msgid ""
+"How could those paupers-serfs stay free surrounded by armed ogres? Swine's "
+"neighbours would quickly take measures. And instead of a single gang of "
+"ogres the villagers would've faced three. That's why nobody even tries. "
+"Among humans, I mean."
+msgstr ""
+
+#. [part]
+#: scenarios/05_Troll_Race.cfg:60
+msgid "And not among humans?"
+msgstr ""
+
+#. [part]
+#: scenarios/05_Troll_Race.cfg:64
+msgid ""
+"Half-ogres try, and trolls. Swine had trolls by the way. See, these guy is "
+"telling about them now..."
+msgstr ""
+
+#. [part]
+#: scenarios/05_Troll_Race.cfg:68
+msgid ""
+"<i>...Sir Garka uncovered a conspiracy of trolls: they decided to run away "
+"in order to avoid going to war. Without missing a beat, the knight rushed "
+"into the pursit. He had to accomplish the third deed: to crush cowardly "
+"conspirators and to return honour and courage in the hearts of trolls who "
+"were so important for the royal army...</i>"
+msgstr ""
+
+#. [part]
+#: scenarios/05_Troll_Race.cfg:72
+msgid ""
+"There was no conspiracy, that's nonsense. Indeed, trolls of Swine left. That "
+"was a big, strong tribe. Their chief had some special agreements with "
+"Makkord. Swine spat on them all. Trolls live simple, don't have possessions, "
+"they are easy to leave. And so they left."
+msgstr ""
+
+#. [part]
+#: scenarios/05_Troll_Race.cfg:76
+msgid "So Swine rushed after them?"
+msgstr ""
+
+#. [part]
+#: scenarios/05_Troll_Race.cfg:80
+msgid ""
+"Yeah. Was squealing and crying like a real pig. Sent scouts to all caves "
+"nearby. And damn it, he found them! They hid in an abandoned mine. Only that "
+"was not a mere escape."
+msgstr ""
+
+#. [side]: id=Shaman, type=Troll Shaman
+#: scenarios/05_Troll_Race.cfg:158
+msgid "Trolls"
+msgstr ""
+
+#. [side]: id=Shaman, type=Troll Shaman
+#: scenarios/05_Troll_Race.cfg:162
+msgid "Troll Chieftain"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/05_Troll_Race.cfg:552
+msgid "Kill troll's chief"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/05_Troll_Race.cfg:560 scenarios/06_Diplomacy_pays_off.cfg:349
+#: scenarios/07_Siega.cfg:329
+msgid "Death of Wise Advicer"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Troll_Race.cfg:597 scenarios/05_Troll_Race.cfg:640
+#: scenarios/05_Troll_Race.cfg:687 scenarios/05_Troll_Race.cfg:728
+#: scenarios/05_Troll_Race.cfg:770 scenarios/05_Troll_Race.cfg:811
+msgid "Break the support!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/05_Troll_Race.cfg:840
+msgid "Trolls! How dare you, hr, to run away from me!?"
+msgstr ""
+
+#. [message]: speaker=guard1
+#: scenarios/05_Troll_Race.cfg:844
+msgid ""
+"Chief commanded not to speak with you. Commanded to tell: go to arse, Swine! "
+"Go to arse, Swine!"
+msgstr ""
+
+#. [message]: speaker=guard2
+#: scenarios/05_Troll_Race.cfg:848
+msgid "And to beat the drum!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/05_Troll_Race.cfg:855
+msgid ""
+"So this is it! Hr! I'll show you, traitors, what happens with ones telling "
+"me to go arse! Soldiers! Storm the mine!"
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/05_Troll_Race.cfg:859
+msgid ""
+"It seems trolls were waiting for us. Is it worth it to rush to storm, my "
+"lord? We have enough gold to recruit trolls of another tribe."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/05_Troll_Race.cfg:863
+msgid ""
+"You understand nothing, hr! No servant dares to run away from me! They have "
+"to be punished severely! Attack!"
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/05_Troll_Race.cfg:881
+msgid "I thought so! That's an ambush, my lord!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/05_Troll_Race.cfg:885
+msgid "So what, hr? My warriors can handle! Continue with the storm!"
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/05_Troll_Race.cfg:889
+msgid ""
+"No, my lord, if we simply attack them, they will throw stones at us to death!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/05_Troll_Race.cfg:893
+msgid "Hr, and what do you suggest?"
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/05_Troll_Race.cfg:897
+msgid ""
+"Trolls are on the wooden constructions on the both sides of the bridge... "
+"The constructions don't look strong. We may try to break the supports and "
+"bring them down!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/05_Troll_Race.cfg:901
+msgid "Not bad, hr. But where are the supports?"
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/05_Troll_Race.cfg:905
+msgid "There they are, guarded by yound trolls."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/05_Troll_Race.cfg:945
+msgid ""
+"Hr-r, understood. Soldiers! A new plan! Order, hr, to destroy the supports! "
+"And then to storm!"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/05_Troll_Race.cfg:949
+msgid "Destroy the supports to clean the way"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/05_Troll_Race.cfg:953
+msgid "Kill the troll's chief"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/05_Troll_Race.cfg:961
+msgid "Death of Wise Advicser"
+msgstr ""
+
+#. [note]
+#: scenarios/05_Troll_Race.cfg:973
+msgid "To destroy a support, take a highlighted hex with your unit."
+msgstr ""
+
+#. [note]
+#: scenarios/05_Troll_Race.cfg:976
+msgid ""
+"After destroying a support the section will collapse into the chasm with all "
+"trolls standing on it."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/05_Troll_Race.cfg:988
+msgid "Tie him! Then, hr, we'll hang the traitor!"
+msgstr ""
+
+#. [scenario]: id=06_Diplomacy2
+#: scenarios/06_Diplomacy_pays_off.cfg:5
+msgid "The Fourth Deed"
+msgstr ""
+
+#. [part]
+#: scenarios/06_Diplomacy_pays_off.cfg:22
+msgid ""
+"<i>Like an unstoppable boulder Sir Garka rushed through the bridge knocking "
+"down trolls, parrying their attacks, catching their stones and throwing them "
+"back; amazed servants followed him. Spurring his boar with strength, the "
+"brave knight jumped over the wall and captured the cowardly chief. Then "
+"trolls started surrendering with shame. Their plot was completely crushed "
+"and no troll of the Sourthern Mark ever thought to desert from war. "
+"Furthermore, trolls wished to redeem their infamy on the battlefield. All "
+"thanks to Sir Garka! That was his third deed for the Kingdom...</i>"
+msgstr ""
+
+#. [part]
+#: scenarios/06_Diplomacy_pays_off.cfg:27
+msgid "An ambush of trolls! On the cave bridge! I wouldn't like to be there."
+msgstr ""
+
+#. [part]
+#: scenarios/06_Diplomacy_pays_off.cfg:31
+msgid ""
+"Indeed. I was there and can confirm that it was the most terrible ambush in "
+"my life. And I've seen shit in my life."
+msgstr ""
+
+#. [part]
+#: scenarios/06_Diplomacy_pays_off.cfg:35
+msgid "How  could trolls make up such a thing?"
+msgstr ""
+
+#. [part]
+#: scenarios/06_Diplomacy_pays_off.cfg:39
+msgid ""
+"Their chief was old and wise. Many a war he fought with Makkord. And, you "
+"see, learnt something. As it turned out, he wanted to kill Swine to build up "
+"the fame for his tribe and find a new lord on better terms."
+msgstr ""
+
+#. [part]
+#: scenarios/06_Diplomacy_pays_off.cfg:43
+msgid "I thought trolls are too dumb for that."
+msgstr ""
+
+#. [part]
+#: scenarios/06_Diplomacy_pays_off.cfg:47
+msgid ""
+"Trolls are not dumb. They can learn a lot. Just no good teachers out there."
+msgstr ""
+
+#. [part]
+#: scenarios/06_Diplomacy_pays_off.cfg:51
+msgid "Makkord, therefore, was a good teacher?"
+msgstr ""
+
+#. [part]
+#: scenarios/06_Diplomacy_pays_off.cfg:55
+msgid ""
+"Right! A great knight, a magnat was he. With him we crushed armies two, "
+"three times bigger! He would've surely become a Pan, had he not died from a "
+"random arrow..."
+msgstr ""
+
+#. [part]
+#: scenarios/06_Diplomacy_pays_off.cfg:59
+msgid "Did you lose many warriors on the bridge?"
+msgstr ""
+
+#. [part]
+#: scenarios/06_Diplomacy_pays_off.cfg:63
+msgid ""
+"A third of mine died. And the quarter of the whole army we lost. I don't "
+"even know if we lost so many if we fought the Khaganate from the first day."
+msgstr ""
+
+#. [part]
+#: scenarios/06_Diplomacy_pays_off.cfg:67
+msgid "Was it worth it?"
+msgstr ""
+
+#. [part]
+#: scenarios/06_Diplomacy_pays_off.cfg:71
+msgid ""
+"For Swine it was. That day he showed with whom he's ready to fight really "
+"fiercely – with rebels. He still had a lot of forces, so those mercenaries "
+"who were planning to leave abandoned the thought. Me among them."
+msgstr ""
+
+#. [part]
+#: scenarios/06_Diplomacy_pays_off.cfg:75
+msgid "Do you regret it?"
+msgstr ""
+
+#. [part]
+#: scenarios/06_Diplomacy_pays_off.cfg:79
+msgid "Maybe."
+msgstr ""
+
+#. [part]
+#: scenarios/06_Diplomacy_pays_off.cfg:83
+msgid "And what happened with the chief of trolls?"
+msgstr ""
+
+#. [part]
+#: scenarios/06_Diplomacy_pays_off.cfg:87
+msgid ""
+"Ha, that was funny. Swin really tried to hang him. Broke three gallows, none "
+"could manage the chief. Then he gave up. "
+msgstr ""
+
+#. [part]
+#: scenarios/06_Diplomacy_pays_off.cfg:91
+msgid "Quite clever."
+msgstr ""
+
+#. [part]
+#: scenarios/06_Diplomacy_pays_off.cfg:95
+msgid "The Adviser suggested it. And right he did. He needed trolls soon."
+msgstr ""
+
+#. [part]
+#: scenarios/06_Diplomacy_pays_off.cfg:99
+msgid ""
+"<i> As the day follows the morning, the fourth deed follows the third deed. "
+"Dust hadn't settled on the roads after the triumphal tribute gathering as "
+"the dark forces started to gather again around Sir Garka's castle. This time "
+"cowardice, the worst enemy of a noble knight, had struck his neighbours... </"
+"i>"
+msgstr ""
+
+#. [side]: type=Kingdom_Aristocrat, id=Grakk
+#: scenarios/06_Diplomacy_pays_off.cfg:279 scenarios/07_Siega.cfg:105
+msgid "Sir Grakk"
+msgstr ""
+
+#. [side]: type=Kingdom_Aristocrat, id=Grakk
+#: scenarios/06_Diplomacy_pays_off.cfg:283
+msgid "Grakk"
+msgstr ""
+
+#. [side]
+#: scenarios/06_Diplomacy_pays_off.cfg:299
+msgid "People of Sir Magot"
+msgstr ""
+
+#. [side]
+#: scenarios/06_Diplomacy_pays_off.cfg:312
+msgid "People of Sir Karakk"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/06_Diplomacy_pays_off.cfg:336
+msgid "Hold for 18 turns"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/06_Diplomacy_pays_off.cfg:341
+msgid "kill Sir Grakk"
+msgstr ""
+
+#. [unit]: id=Leader1, type=Kingdom_Halfogre_Landsknecht
+#: scenarios/06_Diplomacy_pays_off.cfg:372
+msgid "Kaik"
+msgstr ""
+
+#. [unit]: type=Kingdom_Halfogre_Mercenary
+#: scenarios/06_Diplomacy_pays_off.cfg:380
+msgid "Karort"
+msgstr ""
+
+#. [unit]: type=Kingdom_Halfogre_Mercenary
+#: scenarios/06_Diplomacy_pays_off.cfg:388
+msgid "Gruk"
+msgstr ""
+
+#. [unit]: type=Kingdom_Halfogre_Mercenary
+#: scenarios/06_Diplomacy_pays_off.cfg:396
+msgid "Kalrar"
+msgstr ""
+
+#. [unit]: type=Kingdom_Troll_Veteran
+#: scenarios/06_Diplomacy_pays_off.cfg:404
+msgid "Tuuk"
+msgstr ""
+
+#. [unit]: type=Kingdom_Vassal_Bandit
+#: scenarios/06_Diplomacy_pays_off.cfg:412
+msgid "Akk"
+msgstr ""
+
+#. [message]: speaker=Leader1
+#: scenarios/06_Diplomacy_pays_off.cfg:419
+msgid ""
+"We have come to get iron, Swine, as you've asked. Let's finish it fast, I "
+"don't wanna bear the stink of this hole."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/06_Diplomacy_pays_off.cfg:423
+msgid ""
+"Warriors of Maggot, hr? He's sent you after all... Fine, hr, I'll give you "
+"iron, but only if you help me to lift the siege."
+msgstr ""
+
+#. [message]: speaker=Leader1
+#: scenarios/06_Diplomacy_pays_off.cfg:427
+msgid "No way! That wasn't the deal."
+msgstr ""
+
+#. [message]: speaker=Grakk
+#: scenarios/06_Diplomacy_pays_off.cfg:431
+msgid "I see, this Swine makes troubles to you too?"
+msgstr ""
+
+#. [message]: speaker=Leader1
+#: scenarios/06_Diplomacy_pays_off.cfg:435
+msgid ""
+"This scoundrel delays with the load of iron, so my lord can't arm the "
+"militia when the war is raging!"
+msgstr ""
+
+#. [message]: speaker=Grakk
+#: scenarios/06_Diplomacy_pays_off.cfg:439
+msgid ""
+"He wanted to deny me the passage through his land, so I would be late to "
+"help Pan Tukk. And he refuses to go himself. I think it's time to slaughter "
+"this pig who sabotages our defence. Will you help me?"
+msgstr ""
+
+#. [message]: speaker=Leader1
+#: scenarios/06_Diplomacy_pays_off.cfg:443
+msgid ""
+"My lord didn't tell me to engage in heavy fighting, but I think he'll be "
+"happy if I bring the head of this bastard with the iron. Deal!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/06_Diplomacy_pays_off.cfg:447
+msgid "Traitors! Hr! Traitors! I knew it! Kill them, ou-i-i!"
+msgstr ""
+
+#. [unit]: id=Leader2, type=Kingdom_Heir
+#: scenarios/06_Diplomacy_pays_off.cfg:456
+msgid "Kingkuk"
+msgstr ""
+
+#. [unit]: type=Kingdom_Cleric
+#: scenarios/06_Diplomacy_pays_off.cfg:464
+msgid "Aknik"
+msgstr ""
+
+#. [unit]: type=Kingdom_Halfogre_Mercenary
+#: scenarios/06_Diplomacy_pays_off.cfg:472
+msgid "Korta"
+msgstr ""
+
+#. [unit]: type=Kingdom_Noble_Son
+#: scenarios/06_Diplomacy_pays_off.cfg:480
+msgid "Kalkak"
+msgstr ""
+
+#. [unit]: type=Kingdom_Noble_Son
+#: scenarios/06_Diplomacy_pays_off.cfg:488
+msgid "Kairar"
+msgstr ""
+
+#. [unit]: type=Kingdom_Halfogre_Outlaw
+#: scenarios/06_Diplomacy_pays_off.cfg:496
+msgid "Gnuarm"
+msgstr ""
+
+#. [unit]: type=Kingdom_Halfogre_Outlaw
+#: scenarios/06_Diplomacy_pays_off.cfg:504
+msgid "Kingkak"
+msgstr ""
+
+#. [unit]: type=Kingdom_Halfogre_Outlaw
+#: scenarios/06_Diplomacy_pays_off.cfg:512
+msgid "Urkkuk"
+msgstr ""
+
+#. [unit]: type=Kingdom_Runner
+#: scenarios/06_Diplomacy_pays_off.cfg:520
+msgid "Ovreddir"
+msgstr ""
+
+#. [unit]: type=Kingdom_Runner
+#: scenarios/06_Diplomacy_pays_off.cfg:528
+msgid "Cercic"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/06_Diplomacy_pays_off.cfg:535
+msgid "Who the hell are you?"
+msgstr ""
+
+#. [message]: speaker=Leader2
+#: scenarios/06_Diplomacy_pays_off.cfg:539
+msgid ""
+"We are the last survivors of Sir Karakk's people. The Khaganate is stepping "
+"on our toes, we seek shelter. Let us in your castle."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/06_Diplomacy_pays_off.cfg:543
+msgid "Hr, I'll let you in if you help me to lift the siege."
+msgstr ""
+
+#. [message]: speaker=Leader2
+#: scenarios/06_Diplomacy_pays_off.cfg:547
+msgid ""
+"Why should we!? You didn't help us when the castle of my father was sieged."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/06_Diplomacy_pays_off.cfg:551
+msgid "It's not my fault your father's such a weakling. Get out!"
+msgstr ""
+
+#. [message]: speaker=Leader2
+#: scenarios/06_Diplomacy_pays_off.cfg:555
+msgid ""
+"Dare not say this about him, bastard. He fought as a knight while you were "
+"eating and sleeping."
+msgstr ""
+
+#. [message]: speaker=Grakk
+#: scenarios/06_Diplomacy_pays_off.cfg:559
+msgid ""
+"My army together with the platoon of Sir Magot is now sieging Swine's "
+"castle. All of us have a reason to punish him. Join us. After the battle I "
+"will provide you with all you need from Swine's resources."
+msgstr ""
+
+#. [message]: speaker=Leader2
+#: scenarios/06_Diplomacy_pays_off.cfg:563
+msgid ""
+"Better late than never. The last fight, warriors! Slaughter the Pig for our "
+"lord!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/06_Diplomacy_pays_off.cfg:567
+msgid "You see! What did I tell you, hr! All of them are traitors!"
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/06_Diplomacy_pays_off.cfg:571
+msgid "Well, well. How come all of them are so angry with you?"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/06_Diplomacy_pays_off.cfg:575
+msgid "Shut up, hr, better figure out how to lift the siege!"
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/06_Diplomacy_pays_off.cfg:579
+msgid "Probably, we should stop them from uniting into a single fist."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/06_Diplomacy_pays_off.cfg:583
+msgid "Then stop them!"
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/06_Diplomacy_pays_off.cfg:590
+msgid ""
+"M'lord, troops of Sir Grakk have been staying for several days already "
+"around our castle."
+msgstr ""
+
+#. [message]: speaker=Grakk
+#: scenarios/06_Diplomacy_pays_off.cfg:594
+msgid ""
+"Finally you've returned, Swine. I've been waiting for you for two days. Our "
+"Pan has sent the orders! He commanded to move forward to the neighbouring "
+"panstvo as soon as possible to lift the siege of the castle of Pan Tukk. I "
+"propose you to join our forces and move together. This way our strike will "
+"be much stronger and we surely defeat the troops of the Khaganate."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/06_Diplomacy_pays_off.cfg:598
+msgid ""
+"I specifically forbade you, hr, to trespass on my lands with your army..."
+msgstr ""
+
+#. [message]: speaker=Grakk
+#: scenarios/06_Diplomacy_pays_off.cfg:602
+msgid ""
+"I remember. As well as the giant hide that my envoy delivered to me. Your "
+"deeds are really impressive. But the Pan has ordered to act fast, I don't "
+"have time to bypass your lands. Besides, I thought you would join me."
+msgstr ""
+
+#. [message]: speaker=Clerik
+#: scenarios/06_Diplomacy_pays_off.cfg:606
+msgid "M'lord, please, don't do another folly."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/06_Diplomacy_pays_off.cfg:610
+msgid "Hr, fine. Go to the rescue to this Pan. I join later."
+msgstr ""
+
+#. [message]: speaker=Grakk
+#: scenarios/06_Diplomacy_pays_off.cfg:614
+msgid "Are you going to spit upon the order of our Pan?"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/06_Diplomacy_pays_off.cfg:618
+msgid ""
+"No, hr-r, I will fulfill his will. But first I have to finish some things."
+msgstr ""
+
+#. [message]: speaker=Grakk
+#: scenarios/06_Diplomacy_pays_off.cfg:622
+msgid "Which things can be more important than war!?"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/06_Diplomacy_pays_off.cfg:626
+msgid "None of your business! I said – go, I'll join later."
+msgstr ""
+
+#. [message]: speaker=Grakk
+#: scenarios/06_Diplomacy_pays_off.cfg:630
+msgid ""
+"I lost the whole day in order to boost our flank attack! Do not dare to ruin "
+"plans of Pan when the Kingdom is in danger!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/06_Diplomacy_pays_off.cfg:634
+msgid ""
+"Ah, he keeps saying! I will go to war, he, when I wish. Go away, Grakk, or I "
+"will drive you away by force!"
+msgstr ""
+
+#. [message]: speaker=Grakk
+#: scenarios/06_Diplomacy_pays_off.cfg:638
+msgid ""
+"Ar, what a pig you are! Enough! It doesn't befit this army to have such a "
+"worthless commander. If you fear to lead your people in battle, I will do "
+"this. But first I'll cut your head."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/06_Diplomacy_pays_off.cfg:642
+msgid ""
+"Aha! Hr, there you showed your true face, traitor. I knew it! Hr! Knew it!"
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/06_Diplomacy_pays_off.cfg:646
+msgid "Noble knights, it's not the time for the strife! By the Light!"
+msgstr ""
+
+#. [message]: speaker=Grakk
+#: scenarios/06_Diplomacy_pays_off.cfg:650
+msgid ""
+"Tell that to your Swine, advisor! He keeps on ruining our plans and helping "
+"the enemy. It is high time to remove him from the undeserved throne. If you "
+"are so wise, help me, kill Swine."
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/06_Diplomacy_pays_off.cfg:654
+msgid ""
+"If you start the siege, Grakk, you'll break the royal law of peace between "
+"the knights during the greater war. Go in peace to the rescue of the Pan."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/06_Diplomacy_pays_off.cfg:658
+msgid "No, hr, hr must turn back. Now I'll not let him through!"
+msgstr ""
+
+#. [message]: speaker=Grakk
+#: scenarios/06_Diplomacy_pays_off.cfg:662
+msgid ""
+"You see, advisor, Swine left me no choice. That's for a noble cause. Now "
+"work! Soldiers! Let's start the siege!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/06_Diplomacy_pays_off.cfg:667
+msgid "Now you can recruit trolls."
+msgstr ""
+
+#. [message]: speaker=Grakk
+#: scenarios/06_Diplomacy_pays_off.cfg:719
+msgid "Blasted Swine! We lost too many warriors. Retreat!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/06_Diplomacy_pays_off.cfg:729
+msgid "So, tough luck, hr, traitors! Chase them! Finish them!"
+msgstr ""
+
+#. [scenario]: id=07_Siega
+#: scenarios/07_Siega.cfg:5
+msgid "The Fifth Deed"
+msgstr ""
+
+#. [part]
+#: scenarios/07_Siega.cfg:22
+msgid ""
+"<i>… the traitors' siege failed, their leader Sir Grakk shamefully fled the "
+"battlefield. Sir Garka gave chase. He had to accomplish the fifth deed – to "
+"snatch people and resources from the hands of the traitor in order to finish "
+"cleansing the rear and finally defeat the Khaganate...</i>"
+msgstr ""
+
+#. [part]
+#: scenarios/07_Siega.cfg:27
+msgid ""
+"I still don't understand, why didn't he go with Grakk? Pan had ordered after "
+"all..."
+msgstr ""
+
+#. [part]
+#: scenarios/07_Siega.cfg:31
+msgid ""
+"Knights can understand Pan's orders differently. Seems Swine was scared that "
+"Grakk would capture him in the camp, that's why he didn't want to join their "
+"forces. While Grakk understood that Swine wouldn't go to war by himself and "
+"tried to encourage him in person."
+msgstr ""
+
+#. [part]
+#: scenarios/07_Siega.cfg:35
+msgid "Why didn't you turn to Grakk's side?"
+msgstr ""
+
+#. [part]
+#: scenarios/07_Siega.cfg:39
+msgid ""
+"Because he attacked first, so by law he became a traitor with whole his "
+"army. There he was foolish. He should've forces Swine to strike first. But "
+"he didn't have the nerve. His temper doomed him."
+msgstr ""
+
+#. [part]
+#: scenarios/07_Siega.cfg:43
+msgid "What about a noble cause and all that stuff?"
+msgstr ""
+
+#. [part]
+#: scenarios/07_Siega.cfg:47
+msgid ""
+"Nah, dude, big ogres don't give a damn. A knight broke the law – off with "
+"his head. That's because a single knight is nothing for them, they have a "
+"dozen of those at hand."
+msgstr ""
+
+#. [part]
+#: scenarios/07_Siega.cfg:51
+msgid "So, you went to siege the castle of Grakk?"
+msgstr ""
+
+#. [part]
+#: scenarios/07_Siega.cfg:55
+msgid "Yeah. But that was a mistake too."
+msgstr ""
+
+#. [part]
+#: scenarios/07_Siega.cfg:63
+msgid "Listen about the siege first, then you'll learn."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/07_Siega.cfg:321
+msgid "Kill Sir Grakk"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/07_Siega.cfg:325
+msgid "Deatrh of Sir Swine"
+msgstr ""
+
+#. [message]: speaker=Grakk
+#: scenarios/07_Siega.cfg:349
+msgid "Hold on, Swine! You're helping our enemies!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/07_Siega.cfg:353
+msgid ""
+"Hr, no way! You became my enemy when you sieged my castle, and now I'll "
+"destroy you!"
+msgstr ""
+
+#. [message]: speaker=Grakk
+#: scenarios/07_Siega.cfg:357
+msgid ""
+"I wanted to protect the Kingdom but you stood in my way. But we must not "
+"fight each other! It's possible that the Khaganate has already taken the "
+"Panstvo of Tuuk and is marching there. Hold on, Swine. I'll pay you a "
+"tribute, just not ruin the defense of the Southern Mark."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/07_Siega.cfg:361
+msgid ""
+"You should've thought earlier! You attacked my castle, hr! You're an enemy! "
+"And coward! I don't fear the Khaganate and deal with it right after I cut "
+"your head. I AM the defence of the Southern Mark!"
+msgstr ""
+
+#. [message]: speaker=Grakk
+#: scenarios/07_Siega.cfg:365
+msgid "You are an idiot! Our Pan will come soon, he'll show you."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/07_Siega.cfg:369
+msgid ""
+"Ha-ha. You have broken the law, Pan will be glad if I deal with you instead "
+"of him! Soldiers! Storm!"
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/07_Siega.cfg:373
+msgid ""
+"My lord, why have you refused to join Grakk? Which things have you talked "
+"about?"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/07_Siega.cfg:377
+msgid ""
+"I wanted, hr-r, to celebrate my triumph over the trolls with three days of "
+"revelry. And this traitor stopped me."
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/07_Siega.cfg:381
+msgid ""
+"Is it worth it to unleash a war against neighbours because of a revelry?"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/07_Siega.cfg:385
+msgid ""
+"It's not me who unleashed a war, hr-r. And rebels are worse than external "
+"enemies. My father said so, hr-r."
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/07_Siega.cfg:389
+msgid ""
+"Pity you didn't remember his other words... Anyway, if Pan is going there, "
+"we have to crush Grakk fast. I don't think he'll like the strife of his "
+"knights."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/07_Siega.cfg:393
+msgid ""
+"Then what are you waiting for? Run, hr, organize an attack, as you always do!"
+msgstr ""
+
+#. [message]: speaker=Grakk
+#: scenarios/07_Siega.cfg:403
+msgid "Curse you! Because of you, khr-r, we'll lose the war..."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/07_Siega.cfg:407
+msgid "Cut his head!"
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/07_Siega.cfg:415
+msgid "Grakk crushed. Now we have to fulfill Pan's order as soon as possible."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/07_Siega.cfg:419
+msgid ""
+"First we need to gather tributes from Grakk's lands and, hr-r, replenish the "
+"army..."
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/07_Siega.cfg:423
+msgid ""
+"My lord, we have no time for that! The army of the Khaganate is going there, "
+"as well as Pan, who will surely execute you if catch you gathering tributes. "
+"I think this: take the army and hurry to your castle. Take up the defense. I "
+"will stay here and will be sending you reinforcememnts from resources of Sir "
+"Grakk. This way we'll kill two hares with a single arrow."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/07_Siega.cfg:427
+msgid ""
+"Hr-r, you should've said earlier that you were scared of the Khaganate, ha-"
+"ha! Fine. Your plan, hr-r, makes sense. I will do as you have said. Just "
+"rest a day. We need to check Grakk's barns..."
+msgstr ""
+
+#. [scenario]: id=08_Battle
+#: scenarios/08_Battle.cfg:5
+msgid "The True War"
+msgstr ""
+
+#. [part]
+#: scenarios/08_Battle.cfg:24
+msgid ""
+"<i>The traitor's head was raised on a pike and marked the accomplishment of "
+"the fifth feat. Now the rear of the South Mark was strong as steel, and Sir "
+"Garka could finally begin the sixth feat - to fight against countless "
+"serpent hordes!</i>"
+msgstr ""
+
+#. [part]
+#: scenarios/08_Battle.cfg:29
+msgid ""
+"Listen. While he spouts his nonsense, let me tell you what happened to the "
+"other ogres."
+msgstr ""
+
+#. [part]
+#: scenarios/08_Battle.cfg:33
+msgid "Alright."
+msgstr ""
+
+#. [part]
+#: scenarios/08_Battle.cfg:37
+msgid ""
+"The Khaganate brought a really huge army. Twenty thousand warriors, at "
+"least! This horde broke through the border in the southeast, then split in "
+"two. One part of it went around the Southern Mark from the West, the other "
+"from the East. This is because we have strengthened the main road in several "
+"wars so much that not a single army will break through it head-on. The part "
+"that went to the East was smaller. Pan Barot sent the main forces to the "
+"West. Ironically, in the east, of his knights, only Grakk, Magot and Swine "
+"could help..."
+msgstr ""
+
+#. [part]
+#: scenarios/08_Battle.cfg:41
+msgid "Uh huh. And how did things turn out?"
+msgstr ""
+
+#. [part]
+#: scenarios/08_Battle.cfg:45
+msgid ""
+"Pan Tukk ended up fighting one-on-one with the horde. He could not smash it "
+"head-on, and our trio did not hit the flank. As a result, the Khaganate "
+"drove the Pan into his own castle and began a siege."
+msgstr ""
+
+#. [part]
+#: scenarios/08_Battle.cfg:49
+msgid "And Swine fought Grakk at that time?"
+msgstr ""
+
+#. [part]
+#: scenarios/08_Battle.cfg:53
+msgid ""
+"Yes, right at that moment. But even then the situation was not hopeless. "
+"Magot hastened to help. If just one more - Swine or Grakk, it doesn't matter "
+"who - joined, Tukk would have a chance. And so... a heroic, but pointless "
+"defense from a tactical point of view began..."
+msgstr ""
+
+#. [side]: id=Khaganate_1, type=Khaganate_Serpenthead_Tarhan
+#. [side]: id=Khaganate_2, type=Khaganate_Naga_General
+#. [side]: id=Khaganate_3, type=Khaganate_Naga_General
+#: scenarios/08_Battle.cfg:62 scenarios/08_Battle.cfg:151
+#: scenarios/08_Battle.cfg:398 scenarios/09_Final.cfg:173
+#: scenarios/09_Final.cfg:257
+msgid "Serpent Khaganate"
+msgstr ""
+
+#. [side]: id=Khaganate_1, type=Khaganate_Serpenthead_Tarhan
+#: scenarios/08_Battle.cfg:66
+msgid "Serpent Strategist"
+msgstr ""
+
+#. [side]: id=Khaganate_2, type=Khaganate_Naga_General
+#. [side]: id=Khaganate_3, type=Khaganate_Naga_General
+#: scenarios/08_Battle.cfg:155 scenarios/08_Battle.cfg:402
+#: scenarios/09_Final.cfg:176 scenarios/09_Final.cfg:261
+msgid "Serpent General"
+msgstr ""
+
+#. [side]: type=Kingdom_Pan, id=Tukk
+#: scenarios/08_Battle.cfg:513
+msgid "Тукк"
+msgstr ""
+
+#. [side]: type=Kingdom_Aristocrat, id=Knyght1
+#. [side]: type=Kingdom_Aristocrat, id=Knyght2
+#. [side]: type=Kingdom_Pan, id=Tukk
+#: scenarios/08_Battle.cfg:515 scenarios/08_Battle.cfg:755
+#: scenarios/08_Battle.cfg:841
+msgid "Pan Tukk"
+msgstr ""
+
+#. [side]
+#: scenarios/08_Battle.cfg:743
+msgid "Sir Magot"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/08_Battle.cfg:990
+msgid "Survive until reinforcements arrive"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/08_Battle.cfg:994
+msgid "Death of Pan Tukk"
+msgstr ""
+
+#. [note]
+#: scenarios/08_Battle.cfg:998 scenarios/08_Battle.cfg:1227
+msgid "units from this scenario do not carry over to the next"
+msgstr ""
+
+#. [message]: speaker=Knyght2
+#: scenarios/08_Battle.cfg:1042
+msgid "They are attacking!"
+msgstr ""
+
+#. [message]: speaker=Tukk
+#: scenarios/08_Battle.cfg:1055
+msgid ""
+"Don't despair, warriors! The knights of Pan Barot are already coming to our "
+"aid! Hold back the dark hordes until they arrive."
+msgstr ""
+
+#. [unit]: type=Kingdom_Aristocrat, id=Magot
+#: scenarios/08_Battle.cfg:1069
+msgid "Магот"
+msgstr ""
+
+#. [message]: speaker=Magot
+#: scenarios/08_Battle.cfg:1191
+msgid "Sir Magot has come to the rescue, noble Pan!"
+msgstr ""
+
+#. [message]: speaker=Tukk
+#: scenarios/08_Battle.cfg:1195
+msgid ""
+"Just you? Where are the rest of the knights? And what is thisrabble you "
+"brought?"
+msgstr ""
+
+#. [message]: speaker=Magot
+#: scenarios/08_Battle.cfg:1199
+msgid ""
+"That dirty Swine did not give me the iron to arm the militia, noble Pan. And "
+"then he even started a war with Sir Grakk."
+msgstr ""
+
+#. [message]: speaker=Tukk
+#: scenarios/08_Battle.cfg:1203
+msgid ""
+"Are you saying that the Knights of Barort are now fighting among "
+"themselves?! During a war?!"
+msgstr ""
+
+#. [message]: speaker=Magot
+#: scenarios/08_Battle.cfg:1207
+msgid "It's all the fault of that idiot Swine, noble Pan."
+msgstr ""
+
+#. [message]: speaker=Tukk
+#: scenarios/08_Battle.cfg:1211
+msgid "Ar, shit! And where is Barot himself?"
+msgstr ""
+
+#. [message]: speaker=Magot
+#: scenarios/08_Battle.cfg:1215
+msgid ""
+"His messenger said that he is coming with his army. But because of Swine, "
+"likely, he’ll be delayed."
+msgstr ""
+
+#. [message]: speaker=Tukk
+#: scenarios/08_Battle.cfg:1219
+msgid ""
+"Bastards! I swear, at the Sejm I will break Barot's face! Arrr, okay, help "
+"me defend the pandom."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/08_Battle.cfg:1223
+msgid "Fight back as long as you can"
+msgstr ""
+
+#. [message]: speaker=Tukk
+#: scenarios/08_Battle.cfg:1238
+msgid "Curse that damn Swine! Because of him, kh, we lost… the pandom..."
+msgstr ""
+
+#. [message]: speaker=Tukk
+#: scenarios/08_Battle.cfg:1258
+msgid "Curse that damn Swine! Because of him we lost almost all our army!"
+msgstr ""
+
+#. [scenario]: id=09_Final
+#: scenarios/09_Final.cfg:5
+msgid "Sixth Deed"
+msgstr ""
+
+#. [part]
+#: scenarios/09_Final.cfg:22
+msgid ""
+"</i>Having gatheredunder his bannerswarriors of sir Grakk, the noble "
+"knightboldly went against the Serpent Khaganate. The dark hordes passed near "
+"his castle and ambushed him on the mountain path; they had hoped to convince "
+"Sir Garka that the defenders had surrendered the castle to confuse him. But "
+"the knight was unwavering. Having lined up his soldiers in battle "
+"formations, he made this speech in front of them ...</i>"
+msgstr ""
+
+#. [part]
+#: scenarios/09_Final.cfg:27
+msgid "So why was it a mistake to siege Grakk?"
+msgstr ""
+
+#. [part]
+#: scenarios/09_Final.cfg:31
+msgid "Because Pan considered us to be as much traitors as Swine."
+msgstr ""
+
+#. [part]
+#: scenarios/09_Final.cfg:35
+msgid "What about the law?"
+msgstr ""
+
+#. [part]
+#: scenarios/09_Final.cfg:39
+msgid ""
+"What the law is for? Swine had already done enough to make Pan go berserk. "
+"And this siege was the last straw."
+msgstr ""
+
+#. [part]
+#: scenarios/09_Final.cfg:43
+msgid "And what came of it?"
+msgstr ""
+
+#. [part]
+#: scenarios/09_Final.cfg:47
+msgid "What came of it is that we were caught between a rock and a hard place."
+msgstr ""
+
+#. [part]
+#: scenarios/09_Final.cfg:51
+msgid ""
+"<i>...drums boomed, trumpets howled, the furious attack was the beginning of "
+"Sir Garka's sixth deed...</i>"
+msgstr ""
+
+#. [side]: type=Kingdom_Pan, id=Barot
+#: scenarios/09_Final.cfg:131
+msgid "Барот"
+msgstr ""
+
+#. [side]: type=Kingdom_Pan, id=Barot
+#: scenarios/09_Final.cfg:133
+msgid "Pan Barot"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/09_Final.cfg:350
+msgid "Kill 20 Khaganate units"
+msgstr ""
+
+#. [message]
+#: scenarios/09_Final.cfg:369
+msgid "My Lord! The Khaganate army has blocked the way to our castle!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/09_Final.cfg:380
+msgid ""
+"How is that?! Who, hr, let them in here?! Weaklings! Warriors, listen to my "
+"com-!"
+msgstr ""
+
+#. [message]: speaker=Barot
+#: scenarios/09_Final.cfg:384
+msgid "I've finally caught up with you, you filthy scum!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/09_Final.cfg:388
+msgid "Pan Barot! Hr, huzzah! Help me, hr, to recapture my cas-"
+msgstr ""
+
+#. [message]: speaker=Barot
+#: scenarios/09_Final.cfg:392
+msgid ""
+"Shut up! I know all about your crimes,bastard knight. You ignored the "
+"protection of the border, refused to help your allies and killed Sir Grakk. "
+"You betrayed the Kingdom and disgraced me. I'll string you up for this!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/09_Final.cfg:396
+msgid "But my lord! The vile Grakk himselfattacked me first!"
+msgstr ""
+
+#. [message]: speaker=Barot
+#: scenarios/09_Final.cfg:400
+msgid ""
+"And you, having imagined yourself a Pan, began to judge him, instead of "
+"following my order?!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/09_Final.cfg:404
+msgid "Wha-a-at?! No! Ah! Got it! It was you who slandered me, traitor!"
+msgstr ""
+
+#. [message]: speaker=Cleric
+#: scenarios/09_Final.cfg:408
+msgid ""
+"I have told the Pan the whole truth about your deeds, my Lord. I’m sorry, "
+"but it would be better if the throne of Makkord was occupied by a more "
+"worthy ogre."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/09_Final.cfg:412
+msgid ""
+"I knew! I knew! Hr! Squeak! You want to take my throne! Ar-r! I'll deal with "
+"you later... Noble Pan, it is a lie! I'm following your order! I'm attacking "
+"the Khaganate! He lied about me! Look, look!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/09_Final.cfg:416
+msgid ""
+"Warriors! Listen to my command! To break the Khaganate before the arrival of "
+"the noble Pan! (maybeat least this way he’ll spare me, squeak)"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/09_Final.cfg:429
+msgid ""
+"Sir, why, hr, are your people attacking me? I'm attacking the Khaganate!"
+msgstr ""
+
+#. [message]: speaker=Barot
+#: scenarios/09_Final.cfg:433
+msgid "Do whatever you want, Swine. I am adamant in my decision."
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/09_Final.cfg:437
+msgid "Squeak, hr!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/09_Final.cfg:460
+msgid ""
+"Here, noble sir! My people, hr, inflicted heavy losses to the Khaganate! "
+"Let’s finish them off?"
+msgstr ""
+
+#. [message]: speaker=Barot
+#: scenarios/09_Final.cfg:464
+msgid "You're really thick-skulled. I said I'll string you up!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/09_Final.cfg:468
+msgid "Squeak! It's bad, very bad. We gotta, uh, get out of here!"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/09_Final.cfg:484
+msgid "Run along the mountain trail!"
+msgstr ""
+
+#. [message]: speaker=Swine
+#: scenarios/09_Final.cfg:507
+msgid ""
+"Let these traitors themselves, hr-r, fightthe Khaganate. And Swine won't "
+"die, hr-r. Swine must not die..."
+msgstr ""
+
+#. [scenario]: id=10_Epilogue
+#: scenarios/10_Epilogue.cfg:4
+msgid "Epilogue"
+msgstr ""
+
+#. [part]
+#: scenarios/10_Epilogue.cfg:26
+msgid ""
+"<i>... The warriors roared with a fierce cry, a terrible crunch, ringing, "
+"quakes shook the mountains. In the heat of the battle, a ray of Light "
+"illuminated Sir Garka, who fought in the front ranks and broke the formation "
+"of the Serpent Khaganate time after time. Nearly three hundred barbarians "
+"fell by his hand that day! Having pierced the Snake General with his pike, "
+"the brave knight tore off his head and raised it above the combatants. "
+"Seeing this, Sir Garka's men cheered, and the barbarians were horrified and "
+"rushed to run, flashing heels. But Sir Harka had one more feature that "
+"distinguishes him from other heroes - modesty. Putting the barbarians to "
+"flight, he considered his duty fulfilled and quietly left the battlefield, "
+"allowing the Pan and the soldiers to take the triumph ...</i>"
+msgstr ""
+
+#. [part]
+#: scenarios/10_Epilogue.cfg:31
+msgid "Now this too damn much! Hey, stop lying dammit!"
+msgstr ""
+
+#. [part]
+#: scenarios/10_Epilogue.cfg:35
+msgid "What do you mean “lying”? I'm retelling you a literary work!"
+msgstr ""
+
+#. [part]
+#: scenarios/10_Epilogue.cfg:39
+msgid "Literary work, you say?! I’ll show you a literary work, you bastard!"
+msgstr ""
+
+#. [part]
+#: scenarios/10_Epilogue.cfg:44
+msgid "O-ouch!"
+msgstr ""
+
+#. [part]
+#: scenarios/10_Epilogue.cfg:48
+msgid "Why did you hit him?"
+msgstr ""
+
+#. [part]
+#: scenarios/10_Epilogue.cfg:52
+msgid ""
+"For the fact that in the battle Swine sent the entire army on a suicidal "
+"attack, and he cowardly fled, leaving us to the mercy of fate!"
+msgstr ""
+
+#. [part]
+#: scenarios/10_Epilogue.cfg:56
+msgid ""
+"But how would I know that, I just learned the legend as it was told… Ouch!"
+msgstr ""
+
+#. [part]
+#: scenarios/10_Epilogue.cfg:60
+msgid ""
+"Legend?! If I hear that damned legend ever again, I swear to the Light, I "
+"will kill you. And you, good people! If anyone ever tells the legend of sir "
+"Garka, beat him up and chase him away!"
+msgstr ""
+
+#. [part]
+#: scenarios/10_Epilogue.cfg:65
+msgid "You’re quite angry, huh..."
+msgstr ""
+
+#. [part]
+#: scenarios/10_Epilogue.cfg:69
+msgid ""
+"Of course I am! I lost my entire squad in that battle. Out of a few hundred "
+"only a few survived. And even they got finished off by the Pan’s troops..."
+msgstr ""
+
+#. [part]
+#: scenarios/10_Epilogue.cfg:73
+msgid "Damn. But did you at least defeat the Khaganate?"
+msgstr ""
+
+#. [part]
+#: scenarios/10_Epilogue.cfg:77
+msgid ""
+"Pfff, no. Senselessly rammed against its hordes, until the King arrived with "
+"Pans from the north. But  I already fled by then, so I don’t know how they "
+"beaten the Khaganate."
+msgstr ""
+
+#. [part]
+#: scenarios/10_Epilogue.cfg:85
+msgid ""
+"Because I lost my reputation. Now any knight will consider it his duty to "
+"kill me, should I gather as much as a single band. That’s why I just sit "
+"here these days."
+msgstr ""
+
+#. [part]
+#: scenarios/10_Epilogue.cfg:89
+msgid "Right… And what do you plan to do?"
+msgstr ""
+
+#. [part]
+#: scenarios/10_Epilogue.cfg:93
+msgid ""
+"Eh, who knows. I am a Landsknecht, the only thing I am good at is fighting. "
+"They say Swine fled somewhere to Wesnoth, and is living in a forest with "
+"boars. Maybe I can find him, bring back his head and restore my reputation… "
+"Fine, let’s continue about the armors..."
+msgstr ""
+
+#. [part]
+#: scenarios/10_Epilogue.cfg:97
+msgid ""
+"If you go, I’ll go with you. Wanna see this Swine with my own eyes. And our "
+"armors are better because..."
+msgstr ""
+
+#. [trait]: id=beefy
+#: utils/characters.cfg:12
+msgid "beefy"
+msgstr ""
+
+#. [trait]: id=beefy
+#: utils/characters.cfg:13
+msgid "female^beefy"
+msgstr ""
