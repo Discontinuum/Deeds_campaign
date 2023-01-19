@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-01-20 01:43+0400\n"
-"PO-Revision-Date: 2023-01-20 01:47+0400\n"
+"POT-Creation-Date: 2023-01-20 03:01+0400\n"
+"PO-Revision-Date: 2023-01-20 03:02+0400\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -33,14 +33,8 @@ msgid ""
 "\n"
 "(Pig level of difficulty, 9 scenarios)\n"
 "\n"
-"<span size='small'>This campaign was made with the support of the Wesnoth "
-"Modders Guild. If you want to join the modding community, go addons/"
-"Deeds_of_Sir_Swine/discord.txt</span>"
-msgstr ""
-
-#. [campaign]: id=Deeds_of_Sir_Swine
-#: _main.cfg:23
-msgid "Piglet"
+"<span size='small'>Wesnoth Modders Guild Discord: https://discord.gg/"
+"rsePgjHRPA</span>"
 msgstr ""
 
 #. [campaign]: id=Deeds_of_Sir_Swine
@@ -49,13 +43,18 @@ msgid "Easy"
 msgstr ""
 
 #. [campaign]: id=Deeds_of_Sir_Swine
-#: _main.cfg:24 utils/characters.cfg:6
-msgid "Swine"
+#: _main.cfg:23
+msgid "Piglet"
 msgstr ""
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:24
 msgid "Hard"
+msgstr ""
+
+#. [campaign]: id=Deeds_of_Sir_Swine
+#: _main.cfg:24 utils/characters.cfg:6
+msgid "Swine"
 msgstr ""
 
 #. [about]
@@ -78,6 +77,11 @@ msgstr ""
 msgid "Translators"
 msgstr ""
 
+#. [about]
+#: _main.cfg:51
+msgid "Special Thanks"
+msgstr ""
+
 #. [scenario]: id=01_The_Hunt
 #: scenarios/01_The_Hunt.cfg:5
 msgid "Hunting"
@@ -91,11 +95,18 @@ msgid ""
 msgstr ""
 
 #. [part]
+#: scenarios/01_The_Hunt.cfg:26
+msgid ""
+"<i>Dear guests! Thugs and murderers of all shapes and forms! Listen to the "
+"story of the six deeds of Sir Garka! For just three minted coins!</i>"
+msgstr ""
+
+#. [part]
 #: scenarios/01_The_Hunt.cfg:26 scenarios/01_The_Hunt.cfg:43
 #: scenarios/01_The_Hunt.cfg:51 scenarios/01_The_Hunt.cfg:59
 #: scenarios/01_The_Hunt.cfg:91 scenarios/01_The_Hunt.cfg:107
-#: scenarios/02_The_Monster.cfg:21 scenarios/03_Diplomacy.cfg:20
-#: scenarios/03_Diplomacy.cfg:65 scenarios/04_Taxes.cfg:21
+#: scenarios/02_The_Monster.cfg:21 scenarios/03_Diplomacy.cfg:21
+#: scenarios/03_Diplomacy.cfg:66 scenarios/04_Taxes.cfg:21
 #: scenarios/04_Taxes.cfg:42 scenarios/05_Troll_Race.cfg:23
 #: scenarios/05_Troll_Race.cfg:68 scenarios/06_Diplomacy_pays_off.cfg:22
 #: scenarios/06_Diplomacy_pays_off.cfg:99 scenarios/07_Siega.cfg:22
@@ -107,22 +118,15 @@ msgid "Bard"
 msgstr ""
 
 #. [part]
-#: scenarios/01_The_Hunt.cfg:26
-msgid ""
-"<i>Dear guests! Thugs and murderers of all shapes and forms! Listen to the "
-"story of the six deeds of Sir Garka! For just three minted coins!</i>"
-msgstr ""
-
-#. [part]
 #: scenarios/01_The_Hunt.cfg:30 scenarios/01_The_Hunt.cfg:38
 #: scenarios/01_The_Hunt.cfg:67 scenarios/01_The_Hunt.cfg:75
 #: scenarios/01_The_Hunt.cfg:83 scenarios/01_The_Hunt.cfg:99
 #: scenarios/01_The_Hunt.cfg:111 scenarios/02_The_Monster.cfg:26
 #: scenarios/02_The_Monster.cfg:34 scenarios/02_The_Monster.cfg:42
 #: scenarios/02_The_Monster.cfg:50 scenarios/02_The_Monster.cfg:58
-#: scenarios/03_Diplomacy.cfg:25 scenarios/03_Diplomacy.cfg:33
-#: scenarios/03_Diplomacy.cfg:41 scenarios/03_Diplomacy.cfg:49
-#: scenarios/03_Diplomacy.cfg:57 scenarios/04_Taxes.cfg:26
+#: scenarios/03_Diplomacy.cfg:26 scenarios/03_Diplomacy.cfg:34
+#: scenarios/03_Diplomacy.cfg:42 scenarios/03_Diplomacy.cfg:50
+#: scenarios/03_Diplomacy.cfg:58 scenarios/04_Taxes.cfg:26
 #: scenarios/04_Taxes.cfg:34 scenarios/04_Taxes.cfg:50
 #: scenarios/06_Diplomacy_pays_off.cfg:27
 #: scenarios/06_Diplomacy_pays_off.cfg:35
@@ -150,6 +154,13 @@ msgid "Who is this?"
 msgstr ""
 
 #. [part]
+#: scenarios/01_The_Hunt.cfg:34
+msgid ""
+"Local idiot. He's selling his lies again. Don’t you get yourself distracted. "
+"In what way are you saying your chain mails are better?"
+msgstr ""
+
+#. [part]
 #: scenarios/01_The_Hunt.cfg:34 scenarios/01_The_Hunt.cfg:47
 #: scenarios/01_The_Hunt.cfg:55 scenarios/01_The_Hunt.cfg:63
 #: scenarios/01_The_Hunt.cfg:71 scenarios/01_The_Hunt.cfg:79
@@ -157,10 +168,10 @@ msgstr ""
 #: scenarios/01_The_Hunt.cfg:103 scenarios/01_The_Hunt.cfg:115
 #: scenarios/02_The_Monster.cfg:30 scenarios/02_The_Monster.cfg:38
 #: scenarios/02_The_Monster.cfg:46 scenarios/02_The_Monster.cfg:54
-#: scenarios/02_The_Monster.cfg:62 scenarios/03_Diplomacy.cfg:29
-#: scenarios/03_Diplomacy.cfg:37 scenarios/03_Diplomacy.cfg:45
-#: scenarios/03_Diplomacy.cfg:53 scenarios/03_Diplomacy.cfg:61
-#: scenarios/03_Diplomacy.cfg:69 scenarios/04_Taxes.cfg:30
+#: scenarios/02_The_Monster.cfg:62 scenarios/03_Diplomacy.cfg:30
+#: scenarios/03_Diplomacy.cfg:38 scenarios/03_Diplomacy.cfg:46
+#: scenarios/03_Diplomacy.cfg:54 scenarios/03_Diplomacy.cfg:62
+#: scenarios/03_Diplomacy.cfg:70 scenarios/04_Taxes.cfg:30
 #: scenarios/04_Taxes.cfg:38 scenarios/04_Taxes.cfg:46
 #: scenarios/04_Taxes.cfg:54 scenarios/05_Troll_Race.cfg:32
 #: scenarios/05_Troll_Race.cfg:40 scenarios/05_Troll_Race.cfg:48
@@ -186,13 +197,6 @@ msgstr ""
 #: scenarios/10_Epilogue.cfg:77 scenarios/10_Epilogue.cfg:85
 #: scenarios/10_Epilogue.cfg:93
 msgid "Soldier"
-msgstr ""
-
-#. [part]
-#: scenarios/01_The_Hunt.cfg:34
-msgid ""
-"Local idiot. He's selling his lies again. Don’t you get yourself distracted. "
-"In what way are you saying your chain mails are better?"
 msgstr ""
 
 #. [part]
@@ -335,9 +339,9 @@ msgstr ""
 
 #. [side]
 #: scenarios/01_The_Hunt.cfg:149 scenarios/02_The_Monster.cfg:72
-#: scenarios/03_Diplomacy.cfg:150 scenarios/04_Taxes.cfg:65
+#: scenarios/03_Diplomacy.cfg:151 scenarios/04_Taxes.cfg:65
 #: scenarios/05_Troll_Race.cfg:125 scenarios/06_Diplomacy_pays_off.cfg:181
-#: scenarios/07_Siega.cfg:73 scenarios/09_Final.cfg:87
+#: scenarios/07_Siega.cfg:73 scenarios/09_Final.cfg:88
 #: scenarios/10_Epilogue.cfg:18
 msgid "Sir Garka"
 msgstr ""
@@ -371,9 +375,9 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: scenarios/01_The_Hunt.cfg:351 scenarios/02_The_Monster.cfg:229
-#: scenarios/04_Taxes.cfg:314 scenarios/05_Troll_Race.cfg:542
-#: scenarios/06_Diplomacy_pays_off.cfg:325 scenarios/07_Siega.cfg:310
-#: scenarios/08_Battle.cfg:979
+#: scenarios/04_Taxes.cfg:314 scenarios/05_Troll_Race.cfg:546
+#: scenarios/06_Diplomacy_pays_off.cfg:328 scenarios/07_Siega.cfg:310
+#: scenarios/08_Battle.cfg:989
 msgid "No!"
 msgstr ""
 
@@ -447,8 +451,8 @@ msgstr ""
 #: scenarios/01_The_Hunt.cfg:415 scenarios/01_The_Hunt.cfg:531
 #: scenarios/02_The_Monster.cfg:301 scenarios/02_The_Monster.cfg:379
 #: scenarios/02_The_Monster.cfg:446 scenarios/02_The_Monster.cfg:560
-#: scenarios/04_Taxes.cfg:341 scenarios/05_Troll_Race.cfg:564
-#: scenarios/05_Troll_Race.cfg:965
+#: scenarios/04_Taxes.cfg:341 scenarios/05_Troll_Race.cfg:568
+#: scenarios/05_Troll_Race.cfg:969
 msgid "Turns run out"
 msgstr ""
 
@@ -732,7 +736,7 @@ msgstr ""
 
 #. [message]
 #: scenarios/02_The_Monster.cfg:359
-msgid "As you command, Your Highness"
+msgid "As you command, Your Highness."
 msgstr ""
 
 #. [objective]: condition=win
@@ -829,12 +833,12 @@ msgid ""
 msgstr ""
 
 #. [scenario]: id=03_Swine_Diplomacy
-#: scenarios/03_Diplomacy.cfg:5
+#: scenarios/03_Diplomacy.cfg:6
 msgid "Swine Diplomacy"
 msgstr ""
 
 #. [part]
-#: scenarios/03_Diplomacy.cfg:20
+#: scenarios/03_Diplomacy.cfg:21
 msgid ""
 "<i>...In one fell swoop, Sir Garka's hog jumped over the spring, and the "
 "brave knight pierced the bear's throat on the fly with his spear. It dived "
@@ -843,24 +847,24 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: scenarios/03_Diplomacy.cfg:25
+#: scenarios/03_Diplomacy.cfg:26
 msgid "That doesn't sound very realistic."
 msgstr ""
 
 #. [part]
-#: scenarios/03_Diplomacy.cfg:29
+#: scenarios/03_Diplomacy.cfg:30
 msgid ""
 "Yeah. In reality, they just shot down the bears with crossbows, and that's "
 "the whole deed."
 msgstr ""
 
 #. [part]
-#: scenarios/03_Diplomacy.cfg:33
+#: scenarios/03_Diplomacy.cfg:34
 msgid "Are there any rules for these deeds of yours?"
 msgstr ""
 
 #. [part]
-#: scenarios/03_Diplomacy.cfg:37
+#: scenarios/03_Diplomacy.cfg:38
 msgid ""
 "There are some. A knight has to venture alone, introduce himself, greet the "
 "beast, and, then, kill it with his own hands. It is important to say "
@@ -868,12 +872,12 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: scenarios/03_Diplomacy.cfg:41
+#: scenarios/03_Diplomacy.cfg:42
 msgid "Why so much hassle?"
 msgstr ""
 
 #. [part]
-#: scenarios/03_Diplomacy.cfg:45
+#: scenarios/03_Diplomacy.cfg:46
 msgid ""
 "Because for ogres it’s important. By performing deeds, they save their souls "
 "from oblivion. That's taught by our priests. And it all goes back to ancient "
@@ -886,31 +890,31 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: scenarios/03_Diplomacy.cfg:49
+#: scenarios/03_Diplomacy.cfg:50
 msgid "What is that Avanque-King?"
 msgstr ""
 
 #. [part]
-#: scenarios/03_Diplomacy.cfg:53
+#: scenarios/03_Diplomacy.cfg:54
 msgid ""
 "There was such a beaver, the biggest and the baddest. The king of all "
 "beavers. Since Yatuk cut him down, the beavers have been serving ogres."
 msgstr ""
 
 #. [part]
-#: scenarios/03_Diplomacy.cfg:57
+#: scenarios/03_Diplomacy.cfg:58
 msgid "And do you also have the fire of soul, then?"
 msgstr ""
 
 #. [part]
-#: scenarios/03_Diplomacy.cfg:61
+#: scenarios/03_Diplomacy.cfg:62
 msgid ""
 "Sort of. But all of it applies to half-ogres in a different way somewhat, so "
 "I screwed it all."
 msgstr ""
 
 #. [part]
-#: scenarios/03_Diplomacy.cfg:65
+#: scenarios/03_Diplomacy.cfg:66
 msgid ""
 "<i>...Returning to his castle, Sir Garka found ambassadors from neighboring "
 "lords. Before accepting them, he demonstrated great generosity and arranged "
@@ -918,7 +922,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: scenarios/03_Diplomacy.cfg:69
+#: scenarios/03_Diplomacy.cfg:70
 msgid ""
 "Ha ha! The ambassadors had only been sitting in the room for skivvies all "
 "this time. So much for swinish generosity! Only when the castle ran out of "
@@ -927,40 +931,40 @@ msgid ""
 msgstr ""
 
 #. [side]
-#: scenarios/03_Diplomacy.cfg:251 scenarios/03_Diplomacy.cfg:272
-#: scenarios/03_Diplomacy.cfg:293
+#: scenarios/03_Diplomacy.cfg:252 scenarios/03_Diplomacy.cfg:273
+#: scenarios/03_Diplomacy.cfg:294
 msgid "Envoys"
 msgstr ""
 
 #. [unit]: id=envoy1, type=Kingdom_Messenger
-#: scenarios/03_Diplomacy.cfg:255
+#: scenarios/03_Diplomacy.cfg:256
 msgid "Lord Karrok's Envoy"
 msgstr ""
 
 #. [unit]: id=envoy2, type=Kingdom_Messenger
-#: scenarios/03_Diplomacy.cfg:276
+#: scenarios/03_Diplomacy.cfg:277
 msgid "Lord Magot's Envoy"
 msgstr ""
 
 #. [unit]: id=envoy3, type=Kingdom_Messenger
-#: scenarios/03_Diplomacy.cfg:297
+#: scenarios/03_Diplomacy.cfg:298
 msgid "Lord Grakk's Envoy"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/03_Diplomacy.cfg:315
+#: scenarios/03_Diplomacy.cfg:316
 msgid "Well, hr-r, tell me what you have there!"
 msgstr ""
 
 #. [message]: speaker=envoy1
-#: scenarios/03_Diplomacy.cfg:319
+#: scenarios/03_Diplomacy.cfg:320
 msgid ""
 "I have a message from Sir Karakk. He reports that the army of the Serpent "
 "Khaganate is going to besiege his castle. He asks you to send reinforcements."
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/03_Diplomacy.cfg:323
+#: scenarios/03_Diplomacy.cfg:324
 msgid ""
 "What a weakling! Less than a week has passed, hr, and he has already let the "
 "enemy near the castle. It’s no use on my part to send help. When they get "
@@ -969,17 +973,17 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=envoy1
-#: scenarios/03_Diplomacy.cfg:327
+#: scenarios/03_Diplomacy.cfg:328
 msgid "As you command, noble Lord."
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/03_Diplomacy.cfg:338
+#: scenarios/03_Diplomacy.cfg:339
 msgid "Next!"
 msgstr ""
 
 #. [message]: speaker=envoy2
-#: scenarios/03_Diplomacy.cfg:345
+#: scenarios/03_Diplomacy.cfg:346
 msgid ""
 "I have a message from Sir Magoth. My lord is raising a great army and asks "
 "you to send him a shipment of iron so that the blacksmiths could make "
@@ -987,7 +991,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/03_Diplomacy.cfg:350
+#: scenarios/03_Diplomacy.cfg:351
 msgid ""
 "Hr, I heard your lord's lands are overrun by brigands. If Magoth wants iron, "
 "let him send his guards. I will not give away my warriors – I still have to "
@@ -997,17 +1001,17 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=envoy2
-#: scenarios/03_Diplomacy.cfg:355
+#: scenarios/03_Diplomacy.cfg:356
 msgid "As you say, sir. I will convey your words without error."
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/03_Diplomacy.cfg:367
+#: scenarios/03_Diplomacy.cfg:368
 msgid "Next! What you got there, hr?"
 msgstr ""
 
 #. [message]: speaker=envoy3
-#: scenarios/03_Diplomacy.cfg:374
+#: scenarios/03_Diplomacy.cfg:375
 msgid ""
 "I have a message from Sir Grakk. My lord wishes to act immediately against "
 "the Khaganate, and since the shortest route to the border lies through Your "
@@ -1015,7 +1019,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/03_Diplomacy.cfg:379
+#: scenarios/03_Diplomacy.cfg:380
 msgid ""
 "What else, hr! I know your lord. His brother was besieging my castle. And he "
 "is just like that too! No-way. Let him lead his bandits through his own "
@@ -1023,51 +1027,51 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=envoy3
-#: scenarios/03_Diplomacy.cfg:384
+#: scenarios/03_Diplomacy.cfg:385
 msgid "It will be done."
 msgstr ""
 
 #. [message]: speaker=Cleric
-#: scenarios/03_Diplomacy.cfg:396
+#: scenarios/03_Diplomacy.cfg:397
 msgid "My Lord! Why did you quarrel with all the neighbors?"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/03_Diplomacy.cfg:401
+#: scenarios/03_Diplomacy.cfg:402
 msgid ""
 "Because they are thick-heads and brigands who get in my way, there is no "
 "point in wasting my resources on them."
 msgstr ""
 
 #. [message]: speaker=Cleric
-#: scenarios/03_Diplomacy.cfg:406
+#: scenarios/03_Diplomacy.cfg:407
 msgid "But the royal decree forbids strife during war!"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/03_Diplomacy.cfg:411
+#: scenarios/03_Diplomacy.cfg:412
 msgid ""
 "But I'm not attacking them, hr. Don't be afraid. I'll deal with the "
 "Khaganate. I'll sleep for a couple of days first, hr-r, and deal with it."
 msgstr ""
 
 #. [message]: speaker=Cleric
-#: scenarios/03_Diplomacy.cfg:416
+#: scenarios/03_Diplomacy.cfg:417
 msgid "And what is your plan?"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/03_Diplomacy.cfg:421
+#: scenarios/03_Diplomacy.cfg:422
 msgid "Collect taxes, hr-r."
 msgstr ""
 
 #. [message]: speaker=Cleric
-#: scenarios/03_Diplomacy.cfg:426
+#: scenarios/03_Diplomacy.cfg:427
 msgid "But we have already collected taxes this month!"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/03_Diplomacy.cfg:431
+#: scenarios/03_Diplomacy.cfg:432
 msgid ""
 "My treasury is getting empty, hr-r. I think someone is underpaying me. I'll "
 "go around my lands and sort it out. And when I get a lot of money, I'll, hr, "
@@ -1075,14 +1079,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Cleric
-#: scenarios/03_Diplomacy.cfg:436
+#: scenarios/03_Diplomacy.cfg:437
 msgid ""
 "That makes sense, my lord. But what about our borders? Maybe we should set "
 "up watchmen? Shall we order the fortifications to be repaired?"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/03_Diplomacy.cfg:441
+#: scenarios/03_Diplomacy.cfg:442
 msgid ""
 "It's all later, hr-r. It all requires gold. And we have little! When we "
 "collect taxes, then we'll do this rubbish. Trumpet it across all the "
@@ -1222,9 +1226,10 @@ msgid "Kill the rebel leader"
 msgstr ""
 
 #. [objective]: condition=lose
-#: scenarios/04_Taxes.cfg:333 scenarios/05_Troll_Race.cfg:556
-#: scenarios/05_Troll_Race.cfg:957 scenarios/06_Diplomacy_pays_off.cfg:345
-#: scenarios/09_Final.cfg:354 scenarios/09_Final.cfg:488
+#: scenarios/04_Taxes.cfg:333 scenarios/05_Troll_Race.cfg:560
+#: scenarios/05_Troll_Race.cfg:961 scenarios/06_Diplomacy_pays_off.cfg:348
+#: scenarios/09_Final.cfg:357 scenarios/09_Final.cfg:461
+#: scenarios/09_Final.cfg:491
 msgid "Death of Sir Swine"
 msgstr ""
 
@@ -1412,7 +1417,7 @@ msgid ""
 "rebels; with one push his boar crushed their formation like a ram crushes "
 "gates! The knight has shown the rabble its place, and no peasant in the "
 "whole panstvo ever thought to start a rebellion! That's his second deed for "
-"the Kingdom</i>"
+"the Kingdom.</i>"
 msgstr ""
 
 #. [part]
@@ -1483,7 +1488,7 @@ msgstr ""
 #. [part]
 #: scenarios/05_Troll_Race.cfg:64
 msgid ""
-"Half-ogres try, and trolls. Swine had trolls by the way. See, these guy is "
+"Half-ogres try, and trolls. Swine had trolls by the way. See, this guy is "
 "telling about them now..."
 msgstr ""
 
@@ -1493,7 +1498,7 @@ msgid ""
 "<i>...Sir Garka uncovered a conspiracy of trolls: they decided to run away "
 "in order to avoid going to war. Without missing a beat, the knight rushed "
 "into the pursit. He had to accomplish the third deed: to crush cowardly "
-"conspirators and to return honour and courage in the hearts of trolls who "
+"conspirators and to return honour and courage to the hearts of trolls who "
 "were so important for the royal army...</i>"
 msgstr ""
 
@@ -1503,7 +1508,7 @@ msgid ""
 "There was no conspiracy, that's nonsense. Indeed, trolls of Swine left. That "
 "was a big, strong tribe. Their chief had some special agreements with "
 "Makkord. Swine spat on them all. Trolls live simple, don't have possessions, "
-"they are easy to leave. And so they left."
+"they can easily leave. And so they left."
 msgstr ""
 
 #. [part]
@@ -1530,84 +1535,84 @@ msgid "Troll Chieftain"
 msgstr ""
 
 #. [objective]: condition=win
-#: scenarios/05_Troll_Race.cfg:552
+#: scenarios/05_Troll_Race.cfg:556
 msgid "Kill troll's chief"
 msgstr ""
 
 #. [objective]: condition=lose
-#: scenarios/05_Troll_Race.cfg:560 scenarios/06_Diplomacy_pays_off.cfg:349
+#: scenarios/05_Troll_Race.cfg:564 scenarios/06_Diplomacy_pays_off.cfg:352
 #: scenarios/07_Siega.cfg:329
 msgid "Death of Wise Advicer"
 msgstr ""
 
 #. [message]: speaker=unit
-#: scenarios/05_Troll_Race.cfg:597 scenarios/05_Troll_Race.cfg:640
-#: scenarios/05_Troll_Race.cfg:687 scenarios/05_Troll_Race.cfg:728
-#: scenarios/05_Troll_Race.cfg:770 scenarios/05_Troll_Race.cfg:811
+#: scenarios/05_Troll_Race.cfg:601 scenarios/05_Troll_Race.cfg:644
+#: scenarios/05_Troll_Race.cfg:691 scenarios/05_Troll_Race.cfg:732
+#: scenarios/05_Troll_Race.cfg:774 scenarios/05_Troll_Race.cfg:815
 msgid "Break the support!"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/05_Troll_Race.cfg:840
+#: scenarios/05_Troll_Race.cfg:844
 msgid "Trolls! How dare you, hr, to run away from me!?"
 msgstr ""
 
 #. [message]: speaker=guard1
-#: scenarios/05_Troll_Race.cfg:844
+#: scenarios/05_Troll_Race.cfg:848
 msgid ""
 "Chief commanded not to speak with you. Commanded to tell: go to arse, Swine! "
 "Go to arse, Swine!"
 msgstr ""
 
 #. [message]: speaker=guard2
-#: scenarios/05_Troll_Race.cfg:848
+#: scenarios/05_Troll_Race.cfg:852
 msgid "And to beat the drum!"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/05_Troll_Race.cfg:855
+#: scenarios/05_Troll_Race.cfg:859
 msgid ""
 "So this is it! Hr! I'll show you, traitors, what happens with ones telling "
 "me to go arse! Soldiers! Storm the mine!"
 msgstr ""
 
 #. [message]: speaker=Cleric
-#: scenarios/05_Troll_Race.cfg:859
+#: scenarios/05_Troll_Race.cfg:863
 msgid ""
 "It seems trolls were waiting for us. Is it worth it to rush to storm, my "
 "lord? We have enough gold to recruit trolls of another tribe."
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/05_Troll_Race.cfg:863
+#: scenarios/05_Troll_Race.cfg:867
 msgid ""
 "You understand nothing, hr! No servant dares to run away from me! They have "
 "to be punished severely! Attack!"
 msgstr ""
 
 #. [message]: speaker=Cleric
-#: scenarios/05_Troll_Race.cfg:881
+#: scenarios/05_Troll_Race.cfg:885
 msgid "I thought so! That's an ambush, my lord!"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/05_Troll_Race.cfg:885
+#: scenarios/05_Troll_Race.cfg:889
 msgid "So what, hr? My warriors can handle! Continue with the storm!"
 msgstr ""
 
 #. [message]: speaker=Cleric
-#: scenarios/05_Troll_Race.cfg:889
+#: scenarios/05_Troll_Race.cfg:893
 msgid ""
 "No, my lord, if we simply attack them, they will throw stones at us to death!"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/05_Troll_Race.cfg:893
+#: scenarios/05_Troll_Race.cfg:897
 msgid "Hr, and what do you suggest?"
 msgstr ""
 
 #. [message]: speaker=Cleric
-#: scenarios/05_Troll_Race.cfg:897
+#: scenarios/05_Troll_Race.cfg:901
 msgid ""
 "Trolls are on the wooden constructions on the both sides of the bridge... "
 "The constructions don't look strong. We may try to break the supports and "
@@ -1615,51 +1620,51 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/05_Troll_Race.cfg:901
+#: scenarios/05_Troll_Race.cfg:905
 msgid "Not bad, hr. But where are the supports?"
 msgstr ""
 
 #. [message]: speaker=Cleric
-#: scenarios/05_Troll_Race.cfg:905
+#: scenarios/05_Troll_Race.cfg:909
 msgid "There they are, guarded by yound trolls."
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/05_Troll_Race.cfg:945
+#: scenarios/05_Troll_Race.cfg:949
 msgid ""
 "Hr-r, understood. Soldiers! A new plan! Order, hr, to destroy the supports! "
 "And then to storm!"
 msgstr ""
 
 #. [objective]: condition=win
-#: scenarios/05_Troll_Race.cfg:949
+#: scenarios/05_Troll_Race.cfg:953
 msgid "Destroy the supports to clean the way"
 msgstr ""
 
 #. [objective]: condition=win
-#: scenarios/05_Troll_Race.cfg:953
+#: scenarios/05_Troll_Race.cfg:957
 msgid "Kill the troll's chief"
 msgstr ""
 
 #. [objective]: condition=lose
-#: scenarios/05_Troll_Race.cfg:961
+#: scenarios/05_Troll_Race.cfg:965
 msgid "Death of Wise Advicser"
 msgstr ""
 
 #. [note]
-#: scenarios/05_Troll_Race.cfg:973
+#: scenarios/05_Troll_Race.cfg:977
 msgid "To destroy a support, take a highlighted hex with your unit."
 msgstr ""
 
 #. [note]
-#: scenarios/05_Troll_Race.cfg:976
+#: scenarios/05_Troll_Race.cfg:980
 msgid ""
 "After destroying a support the section will collapse into the chasm with all "
 "trolls standing on it."
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/05_Troll_Race.cfg:988
+#: scenarios/05_Troll_Race.cfg:992
 msgid "Tie him! Then, hr, we'll hang the traitor!"
 msgstr ""
 
@@ -1739,7 +1744,8 @@ msgstr ""
 #: scenarios/06_Diplomacy_pays_off.cfg:63
 msgid ""
 "A third of mine died. And the quarter of the whole army we lost. I don't "
-"even know if we lost so many if we fought the Khaganate from the first day."
+"even know  if we would have lost so many if we fought the Khaganate from the "
+"first day."
 msgstr ""
 
 #. [part]
@@ -1803,93 +1809,93 @@ msgid "Sir Grakk"
 msgstr ""
 
 #. [side]: type=Kingdom_Aristocrat, id=Grakk
-#: scenarios/06_Diplomacy_pays_off.cfg:283
+#: scenarios/06_Diplomacy_pays_off.cfg:286
 msgid "Grakk"
 msgstr ""
 
 #. [side]
-#: scenarios/06_Diplomacy_pays_off.cfg:299
+#: scenarios/06_Diplomacy_pays_off.cfg:302
 msgid "People of Sir Magot"
 msgstr ""
 
 #. [side]
-#: scenarios/06_Diplomacy_pays_off.cfg:312
+#: scenarios/06_Diplomacy_pays_off.cfg:315
 msgid "People of Sir Karakk"
 msgstr ""
 
 #. [objective]: condition=win
-#: scenarios/06_Diplomacy_pays_off.cfg:336
+#: scenarios/06_Diplomacy_pays_off.cfg:339
 msgid "Hold for 18 turns"
 msgstr ""
 
 #. [objective]: condition=win
-#: scenarios/06_Diplomacy_pays_off.cfg:341
+#: scenarios/06_Diplomacy_pays_off.cfg:344
 msgid "kill Sir Grakk"
 msgstr ""
 
 #. [unit]: id=Leader1, type=Kingdom_Halfogre_Landsknecht
-#: scenarios/06_Diplomacy_pays_off.cfg:372
+#: scenarios/06_Diplomacy_pays_off.cfg:375
 msgid "Kaik"
 msgstr ""
 
 #. [unit]: type=Kingdom_Halfogre_Mercenary
-#: scenarios/06_Diplomacy_pays_off.cfg:380
+#: scenarios/06_Diplomacy_pays_off.cfg:383
 msgid "Karort"
 msgstr ""
 
 #. [unit]: type=Kingdom_Halfogre_Mercenary
-#: scenarios/06_Diplomacy_pays_off.cfg:388
+#: scenarios/06_Diplomacy_pays_off.cfg:391
 msgid "Gruk"
 msgstr ""
 
 #. [unit]: type=Kingdom_Halfogre_Mercenary
-#: scenarios/06_Diplomacy_pays_off.cfg:396
+#: scenarios/06_Diplomacy_pays_off.cfg:399
 msgid "Kalrar"
 msgstr ""
 
 #. [unit]: type=Kingdom_Troll_Veteran
-#: scenarios/06_Diplomacy_pays_off.cfg:404
+#: scenarios/06_Diplomacy_pays_off.cfg:407
 msgid "Tuuk"
 msgstr ""
 
 #. [unit]: type=Kingdom_Vassal_Bandit
-#: scenarios/06_Diplomacy_pays_off.cfg:412
+#: scenarios/06_Diplomacy_pays_off.cfg:415
 msgid "Akk"
 msgstr ""
 
 #. [message]: speaker=Leader1
-#: scenarios/06_Diplomacy_pays_off.cfg:419
+#: scenarios/06_Diplomacy_pays_off.cfg:422
 msgid ""
 "We have come to get iron, Swine, as you've asked. Let's finish it fast, I "
 "don't wanna bear the stink of this hole."
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/06_Diplomacy_pays_off.cfg:423
+#: scenarios/06_Diplomacy_pays_off.cfg:426
 msgid ""
 "Warriors of Maggot, hr? He's sent you after all... Fine, hr, I'll give you "
 "iron, but only if you help me to lift the siege."
 msgstr ""
 
 #. [message]: speaker=Leader1
-#: scenarios/06_Diplomacy_pays_off.cfg:427
+#: scenarios/06_Diplomacy_pays_off.cfg:430
 msgid "No way! That wasn't the deal."
 msgstr ""
 
 #. [message]: speaker=Grakk
-#: scenarios/06_Diplomacy_pays_off.cfg:431
+#: scenarios/06_Diplomacy_pays_off.cfg:434
 msgid "I see, this Swine makes troubles to you too?"
 msgstr ""
 
 #. [message]: speaker=Leader1
-#: scenarios/06_Diplomacy_pays_off.cfg:435
+#: scenarios/06_Diplomacy_pays_off.cfg:438
 msgid ""
 "This scoundrel delays with the load of iron, so my lord can't arm the "
 "militia when the war is raging!"
 msgstr ""
 
 #. [message]: speaker=Grakk
-#: scenarios/06_Diplomacy_pays_off.cfg:439
+#: scenarios/06_Diplomacy_pays_off.cfg:442
 msgid ""
 "He wanted to deny me the passage through his land, so I would be late to "
 "help Pan Tukk. And he refuses to go himself. I think it's time to slaughter "
@@ -1897,104 +1903,104 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Leader1
-#: scenarios/06_Diplomacy_pays_off.cfg:443
+#: scenarios/06_Diplomacy_pays_off.cfg:446
 msgid ""
 "My lord didn't tell me to engage in heavy fighting, but I think he'll be "
 "happy if I bring the head of this bastard with the iron. Deal!"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/06_Diplomacy_pays_off.cfg:447
+#: scenarios/06_Diplomacy_pays_off.cfg:450
 msgid "Traitors! Hr! Traitors! I knew it! Kill them, ou-i-i!"
 msgstr ""
 
 #. [unit]: id=Leader2, type=Kingdom_Heir
-#: scenarios/06_Diplomacy_pays_off.cfg:456
+#: scenarios/06_Diplomacy_pays_off.cfg:459
 msgid "Kingkuk"
 msgstr ""
 
 #. [unit]: type=Kingdom_Cleric
-#: scenarios/06_Diplomacy_pays_off.cfg:464
+#: scenarios/06_Diplomacy_pays_off.cfg:467
 msgid "Aknik"
 msgstr ""
 
 #. [unit]: type=Kingdom_Halfogre_Mercenary
-#: scenarios/06_Diplomacy_pays_off.cfg:472
+#: scenarios/06_Diplomacy_pays_off.cfg:475
 msgid "Korta"
 msgstr ""
 
 #. [unit]: type=Kingdom_Noble_Son
-#: scenarios/06_Diplomacy_pays_off.cfg:480
+#: scenarios/06_Diplomacy_pays_off.cfg:483
 msgid "Kalkak"
 msgstr ""
 
 #. [unit]: type=Kingdom_Noble_Son
-#: scenarios/06_Diplomacy_pays_off.cfg:488
+#: scenarios/06_Diplomacy_pays_off.cfg:491
 msgid "Kairar"
 msgstr ""
 
 #. [unit]: type=Kingdom_Halfogre_Outlaw
-#: scenarios/06_Diplomacy_pays_off.cfg:496
+#: scenarios/06_Diplomacy_pays_off.cfg:499
 msgid "Gnuarm"
 msgstr ""
 
 #. [unit]: type=Kingdom_Halfogre_Outlaw
-#: scenarios/06_Diplomacy_pays_off.cfg:504
+#: scenarios/06_Diplomacy_pays_off.cfg:507
 msgid "Kingkak"
 msgstr ""
 
 #. [unit]: type=Kingdom_Halfogre_Outlaw
-#: scenarios/06_Diplomacy_pays_off.cfg:512
+#: scenarios/06_Diplomacy_pays_off.cfg:515
 msgid "Urkkuk"
 msgstr ""
 
 #. [unit]: type=Kingdom_Runner
-#: scenarios/06_Diplomacy_pays_off.cfg:520
+#: scenarios/06_Diplomacy_pays_off.cfg:523
 msgid "Ovreddir"
 msgstr ""
 
 #. [unit]: type=Kingdom_Runner
-#: scenarios/06_Diplomacy_pays_off.cfg:528
+#: scenarios/06_Diplomacy_pays_off.cfg:531
 msgid "Cercic"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/06_Diplomacy_pays_off.cfg:535
+#: scenarios/06_Diplomacy_pays_off.cfg:538
 msgid "Who the hell are you?"
 msgstr ""
 
 #. [message]: speaker=Leader2
-#: scenarios/06_Diplomacy_pays_off.cfg:539
+#: scenarios/06_Diplomacy_pays_off.cfg:542
 msgid ""
 "We are the last survivors of Sir Karakk's people. The Khaganate is stepping "
 "on our toes, we seek shelter. Let us in your castle."
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/06_Diplomacy_pays_off.cfg:543
+#: scenarios/06_Diplomacy_pays_off.cfg:546
 msgid "Hr, I'll let you in if you help me to lift the siege."
 msgstr ""
 
 #. [message]: speaker=Leader2
-#: scenarios/06_Diplomacy_pays_off.cfg:547
+#: scenarios/06_Diplomacy_pays_off.cfg:550
 msgid ""
 "Why should we!? You didn't help us when the castle of my father was sieged."
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/06_Diplomacy_pays_off.cfg:551
+#: scenarios/06_Diplomacy_pays_off.cfg:554
 msgid "It's not my fault your father's such a weakling. Get out!"
 msgstr ""
 
 #. [message]: speaker=Leader2
-#: scenarios/06_Diplomacy_pays_off.cfg:555
+#: scenarios/06_Diplomacy_pays_off.cfg:558
 msgid ""
 "Dare not say this about him, bastard. He fought as a knight while you were "
 "eating and sleeping."
 msgstr ""
 
 #. [message]: speaker=Grakk
-#: scenarios/06_Diplomacy_pays_off.cfg:559
+#: scenarios/06_Diplomacy_pays_off.cfg:562
 msgid ""
 "My army together with the platoon of Sir Magot is now sieging Swine's "
 "castle. All of us have a reason to punish him. Join us. After the battle I "
@@ -2002,46 +2008,46 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Leader2
-#: scenarios/06_Diplomacy_pays_off.cfg:563
+#: scenarios/06_Diplomacy_pays_off.cfg:566
 msgid ""
 "Better late than never. The last fight, warriors! Slaughter the Pig for our "
 "lord!"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/06_Diplomacy_pays_off.cfg:567
+#: scenarios/06_Diplomacy_pays_off.cfg:570
 msgid "You see! What did I tell you, hr! All of them are traitors!"
 msgstr ""
 
 #. [message]: speaker=Cleric
-#: scenarios/06_Diplomacy_pays_off.cfg:571
+#: scenarios/06_Diplomacy_pays_off.cfg:574
 msgid "Well, well. How come all of them are so angry with you?"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/06_Diplomacy_pays_off.cfg:575
+#: scenarios/06_Diplomacy_pays_off.cfg:578
 msgid "Shut up, hr, better figure out how to lift the siege!"
 msgstr ""
 
 #. [message]: speaker=Cleric
-#: scenarios/06_Diplomacy_pays_off.cfg:579
+#: scenarios/06_Diplomacy_pays_off.cfg:582
 msgid "Probably, we should stop them from uniting into a single fist."
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/06_Diplomacy_pays_off.cfg:583
+#: scenarios/06_Diplomacy_pays_off.cfg:586
 msgid "Then stop them!"
 msgstr ""
 
 #. [message]: speaker=Cleric
-#: scenarios/06_Diplomacy_pays_off.cfg:590
+#: scenarios/06_Diplomacy_pays_off.cfg:593
 msgid ""
 "M'lord, troops of Sir Grakk have been staying for several days already "
 "around our castle."
 msgstr ""
 
 #. [message]: speaker=Grakk
-#: scenarios/06_Diplomacy_pays_off.cfg:594
+#: scenarios/06_Diplomacy_pays_off.cfg:597
 msgid ""
 "Finally you've returned, Swine. I've been waiting for you for two days. Our "
 "Pan has sent the orders! He commanded to move forward to the neighbouring "
@@ -2051,13 +2057,13 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/06_Diplomacy_pays_off.cfg:598
+#: scenarios/06_Diplomacy_pays_off.cfg:601
 msgid ""
 "I specifically forbade you, hr, to trespass on my lands with your army..."
 msgstr ""
 
 #. [message]: speaker=Grakk
-#: scenarios/06_Diplomacy_pays_off.cfg:602
+#: scenarios/06_Diplomacy_pays_off.cfg:605
 msgid ""
 "I remember. As well as the giant hide that my envoy delivered to me. Your "
 "deeds are really impressive. But the Pan has ordered to act fast, I don't "
@@ -2065,52 +2071,52 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clerik
-#: scenarios/06_Diplomacy_pays_off.cfg:606
+#: scenarios/06_Diplomacy_pays_off.cfg:609
 msgid "M'lord, please, don't do another folly."
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/06_Diplomacy_pays_off.cfg:610
+#: scenarios/06_Diplomacy_pays_off.cfg:613
 msgid "Hr, fine. Go to the rescue to this Pan. I join later."
 msgstr ""
 
 #. [message]: speaker=Grakk
-#: scenarios/06_Diplomacy_pays_off.cfg:614
+#: scenarios/06_Diplomacy_pays_off.cfg:617
 msgid "Are you going to spit upon the order of our Pan?"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/06_Diplomacy_pays_off.cfg:618
+#: scenarios/06_Diplomacy_pays_off.cfg:621
 msgid ""
 "No, hr-r, I will fulfill his will. But first I have to finish some things."
 msgstr ""
 
 #. [message]: speaker=Grakk
-#: scenarios/06_Diplomacy_pays_off.cfg:622
+#: scenarios/06_Diplomacy_pays_off.cfg:625
 msgid "Which things can be more important than war!?"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/06_Diplomacy_pays_off.cfg:626
+#: scenarios/06_Diplomacy_pays_off.cfg:629
 msgid "None of your business! I said – go, I'll join later."
 msgstr ""
 
 #. [message]: speaker=Grakk
-#: scenarios/06_Diplomacy_pays_off.cfg:630
+#: scenarios/06_Diplomacy_pays_off.cfg:633
 msgid ""
 "I lost the whole day in order to boost our flank attack! Do not dare to ruin "
 "plans of Pan when the Kingdom is in danger!"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/06_Diplomacy_pays_off.cfg:634
+#: scenarios/06_Diplomacy_pays_off.cfg:637
 msgid ""
 "Ah, he keeps saying! I will go to war, he, when I wish. Go away, Grakk, or I "
 "will drive you away by force!"
 msgstr ""
 
 #. [message]: speaker=Grakk
-#: scenarios/06_Diplomacy_pays_off.cfg:638
+#: scenarios/06_Diplomacy_pays_off.cfg:641
 msgid ""
 "Ar, what a pig you are! Enough! It doesn't befit this army to have such a "
 "worthless commander. If you fear to lead your people in battle, I will do "
@@ -2118,18 +2124,18 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/06_Diplomacy_pays_off.cfg:642
+#: scenarios/06_Diplomacy_pays_off.cfg:645
 msgid ""
 "Aha! Hr, there you showed your true face, traitor. I knew it! Hr! Knew it!"
 msgstr ""
 
 #. [message]: speaker=Cleric
-#: scenarios/06_Diplomacy_pays_off.cfg:646
+#: scenarios/06_Diplomacy_pays_off.cfg:649
 msgid "Noble knights, it's not the time for the strife! By the Light!"
 msgstr ""
 
 #. [message]: speaker=Grakk
-#: scenarios/06_Diplomacy_pays_off.cfg:650
+#: scenarios/06_Diplomacy_pays_off.cfg:653
 msgid ""
 "Tell that to your Swine, advisor! He keeps on ruining our plans and helping "
 "the enemy. It is high time to remove him from the undeserved throne. If you "
@@ -2137,36 +2143,36 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Cleric
-#: scenarios/06_Diplomacy_pays_off.cfg:654
+#: scenarios/06_Diplomacy_pays_off.cfg:657
 msgid ""
 "If you start the siege, Grakk, you'll break the royal law of peace between "
 "the knights during the greater war. Go in peace to the rescue of the Pan."
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/06_Diplomacy_pays_off.cfg:658
+#: scenarios/06_Diplomacy_pays_off.cfg:661
 msgid "No, hr, hr must turn back. Now I'll not let him through!"
 msgstr ""
 
 #. [message]: speaker=Grakk
-#: scenarios/06_Diplomacy_pays_off.cfg:662
+#: scenarios/06_Diplomacy_pays_off.cfg:665
 msgid ""
 "You see, advisor, Swine left me no choice. That's for a noble cause. Now "
 "work! Soldiers! Let's start the siege!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: scenarios/06_Diplomacy_pays_off.cfg:667
+#: scenarios/06_Diplomacy_pays_off.cfg:670
 msgid "Now you can recruit trolls."
 msgstr ""
 
 #. [message]: speaker=Grakk
-#: scenarios/06_Diplomacy_pays_off.cfg:719
+#: scenarios/06_Diplomacy_pays_off.cfg:722
 msgid "Blasted Swine! We lost too many warriors. Retreat!"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/06_Diplomacy_pays_off.cfg:729
+#: scenarios/06_Diplomacy_pays_off.cfg:732
 msgid "So, tough luck, hr, traitors! Chase them! Finish them!"
 msgstr ""
 
@@ -2443,8 +2449,8 @@ msgstr ""
 #. [side]: id=Khaganate_2, type=Khaganate_Naga_General
 #. [side]: id=Khaganate_3, type=Khaganate_Naga_General
 #: scenarios/08_Battle.cfg:62 scenarios/08_Battle.cfg:151
-#: scenarios/08_Battle.cfg:398 scenarios/09_Final.cfg:173
-#: scenarios/09_Final.cfg:257
+#: scenarios/08_Battle.cfg:398 scenarios/09_Final.cfg:175
+#: scenarios/09_Final.cfg:259
 msgid "Serpent Khaganate"
 msgstr ""
 
@@ -2456,7 +2462,7 @@ msgstr ""
 #. [side]: id=Khaganate_2, type=Khaganate_Naga_General
 #. [side]: id=Khaganate_3, type=Khaganate_Naga_General
 #: scenarios/08_Battle.cfg:155 scenarios/08_Battle.cfg:402
-#: scenarios/09_Final.cfg:176 scenarios/09_Final.cfg:261
+#: scenarios/09_Final.cfg:178 scenarios/09_Final.cfg:263
 msgid "Serpent General"
 msgstr ""
 
@@ -2468,110 +2474,110 @@ msgstr ""
 #. [side]: type=Kingdom_Aristocrat, id=Knyght1
 #. [side]: type=Kingdom_Aristocrat, id=Knyght2
 #. [side]: type=Kingdom_Pan, id=Tukk
-#: scenarios/08_Battle.cfg:515 scenarios/08_Battle.cfg:755
-#: scenarios/08_Battle.cfg:841
+#: scenarios/08_Battle.cfg:515 scenarios/08_Battle.cfg:757
+#: scenarios/08_Battle.cfg:847
 msgid "Pan Tukk"
 msgstr ""
 
 #. [side]
-#: scenarios/08_Battle.cfg:743
+#: scenarios/08_Battle.cfg:744
 msgid "Sir Magot"
 msgstr ""
 
 #. [objective]: condition=win
-#: scenarios/08_Battle.cfg:990
+#: scenarios/08_Battle.cfg:1000
 msgid "Survive until reinforcements arrive"
 msgstr ""
 
 #. [objective]: condition=lose
-#: scenarios/08_Battle.cfg:994
+#: scenarios/08_Battle.cfg:1004
 msgid "Death of Pan Tukk"
 msgstr ""
 
 #. [note]
-#: scenarios/08_Battle.cfg:998 scenarios/08_Battle.cfg:1227
+#: scenarios/08_Battle.cfg:1008 scenarios/08_Battle.cfg:1237
 msgid "units from this scenario do not carry over to the next"
 msgstr ""
 
 #. [message]: speaker=Knyght2
-#: scenarios/08_Battle.cfg:1042
+#: scenarios/08_Battle.cfg:1052
 msgid "They are attacking!"
 msgstr ""
 
 #. [message]: speaker=Tukk
-#: scenarios/08_Battle.cfg:1055
+#: scenarios/08_Battle.cfg:1065
 msgid ""
 "Don't despair, warriors! The knights of Pan Barot are already coming to our "
 "aid! Hold back the dark hordes until they arrive."
 msgstr ""
 
 #. [unit]: type=Kingdom_Aristocrat, id=Magot
-#: scenarios/08_Battle.cfg:1069
+#: scenarios/08_Battle.cfg:1079
 msgid "Магот"
 msgstr ""
 
 #. [message]: speaker=Magot
-#: scenarios/08_Battle.cfg:1191
+#: scenarios/08_Battle.cfg:1201
 msgid "Sir Magot has come to the rescue, noble Pan!"
 msgstr ""
 
 #. [message]: speaker=Tukk
-#: scenarios/08_Battle.cfg:1195
+#: scenarios/08_Battle.cfg:1205
 msgid ""
 "Just you? Where are the rest of the knights? And what is thisrabble you "
 "brought?"
 msgstr ""
 
 #. [message]: speaker=Magot
-#: scenarios/08_Battle.cfg:1199
+#: scenarios/08_Battle.cfg:1209
 msgid ""
 "That dirty Swine did not give me the iron to arm the militia, noble Pan. And "
 "then he even started a war with Sir Grakk."
 msgstr ""
 
 #. [message]: speaker=Tukk
-#: scenarios/08_Battle.cfg:1203
+#: scenarios/08_Battle.cfg:1213
 msgid ""
 "Are you saying that the Knights of Barort are now fighting among "
 "themselves?! During a war?!"
 msgstr ""
 
 #. [message]: speaker=Magot
-#: scenarios/08_Battle.cfg:1207
+#: scenarios/08_Battle.cfg:1217
 msgid "It's all the fault of that idiot Swine, noble Pan."
 msgstr ""
 
 #. [message]: speaker=Tukk
-#: scenarios/08_Battle.cfg:1211
+#: scenarios/08_Battle.cfg:1221
 msgid "Ar, shit! And where is Barot himself?"
 msgstr ""
 
 #. [message]: speaker=Magot
-#: scenarios/08_Battle.cfg:1215
+#: scenarios/08_Battle.cfg:1225
 msgid ""
 "His messenger said that he is coming with his army. But because of Swine, "
 "likely, he’ll be delayed."
 msgstr ""
 
 #. [message]: speaker=Tukk
-#: scenarios/08_Battle.cfg:1219
+#: scenarios/08_Battle.cfg:1229
 msgid ""
 "Bastards! I swear, at the Sejm I will break Barot's face! Arrr, okay, help "
 "me defend the pandom."
 msgstr ""
 
 #. [objective]: condition=win
-#: scenarios/08_Battle.cfg:1223
+#: scenarios/08_Battle.cfg:1233
 msgid "Fight back as long as you can"
 msgstr ""
 
 #. [message]: speaker=Tukk
-#: scenarios/08_Battle.cfg:1238
+#: scenarios/08_Battle.cfg:1248
 msgid "Curse that damn Swine! Because of him, kh, we lost… the pandom..."
 msgstr ""
 
 #. [message]: speaker=Tukk
-#: scenarios/08_Battle.cfg:1258
+#: scenarios/08_Battle.cfg:1268
 msgid "Curse that damn Swine! Because of him we lost almost all our army!"
 msgstr ""
 
@@ -2631,44 +2637,44 @@ msgid ""
 msgstr ""
 
 #. [side]: type=Kingdom_Pan, id=Barot
-#: scenarios/09_Final.cfg:131
-msgid "Барот"
+#: scenarios/09_Final.cfg:132
+msgid "Pan Барот"
 msgstr ""
 
 #. [side]: type=Kingdom_Pan, id=Barot
-#: scenarios/09_Final.cfg:133
+#: scenarios/09_Final.cfg:134
 msgid "Pan Barot"
 msgstr ""
 
 #. [objective]: condition=win
-#: scenarios/09_Final.cfg:350
-msgid "Kill 20 Khaganate units"
+#: scenarios/09_Final.cfg:353 scenarios/09_Final.cfg:457
+msgid "Kill 20 Khaganate units ($kills|/20)"
 msgstr ""
 
 #. [message]
-#: scenarios/09_Final.cfg:369
+#: scenarios/09_Final.cfg:372
 msgid "My Lord! The Khaganate army has blocked the way to our castle!"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/09_Final.cfg:380
+#: scenarios/09_Final.cfg:383
 msgid ""
 "How is that?! Who, hr, let them in here?! Weaklings! Warriors, listen to my "
 "com-!"
 msgstr ""
 
 #. [message]: speaker=Barot
-#: scenarios/09_Final.cfg:384
+#: scenarios/09_Final.cfg:387
 msgid "I've finally caught up with you, you filthy scum!"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/09_Final.cfg:388
+#: scenarios/09_Final.cfg:391
 msgid "Pan Barot! Hr, huzzah! Help me, hr, to recapture my cas-"
 msgstr ""
 
 #. [message]: speaker=Barot
-#: scenarios/09_Final.cfg:392
+#: scenarios/09_Final.cfg:395
 msgid ""
 "Shut up! I know all about your crimes,bastard knight. You ignored the "
 "protection of the border, refused to help your allies and killed Sir Grakk. "
@@ -2676,24 +2682,24 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/09_Final.cfg:396
+#: scenarios/09_Final.cfg:399
 msgid "But my lord! The vile Grakk himselfattacked me first!"
 msgstr ""
 
 #. [message]: speaker=Barot
-#: scenarios/09_Final.cfg:400
+#: scenarios/09_Final.cfg:403
 msgid ""
 "And you, having imagined yourself a Pan, began to judge him, instead of "
 "following my order?!"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/09_Final.cfg:404
+#: scenarios/09_Final.cfg:407
 msgid "Wha-a-at?! No! Ah! Got it! It was you who slandered me, traitor!"
 msgstr ""
 
 #. [message]: speaker=Cleric
-#: scenarios/09_Final.cfg:408
+#: scenarios/09_Final.cfg:411
 msgid ""
 "I have told the Pan the whole truth about your deeds, my Lord. I’m sorry, "
 "but it would be better if the throne of Makkord was occupied by a more "
@@ -2701,7 +2707,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/09_Final.cfg:412
+#: scenarios/09_Final.cfg:415
 msgid ""
 "I knew! I knew! Hr! Squeak! You want to take my throne! Ar-r! I'll deal with "
 "you later... Noble Pan, it is a lie! I'm following your order! I'm attacking "
@@ -2709,54 +2715,54 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/09_Final.cfg:416
+#: scenarios/09_Final.cfg:419
 msgid ""
 "Warriors! Listen to my command! To break the Khaganate before the arrival of "
 "the noble Pan! (maybeat least this way he’ll spare me, squeak)"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/09_Final.cfg:429
+#: scenarios/09_Final.cfg:432
 msgid ""
 "Sir, why, hr, are your people attacking me? I'm attacking the Khaganate!"
 msgstr ""
 
 #. [message]: speaker=Barot
-#: scenarios/09_Final.cfg:433
+#: scenarios/09_Final.cfg:436
 msgid "Do whatever you want, Swine. I am adamant in my decision."
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/09_Final.cfg:437
+#: scenarios/09_Final.cfg:440
 msgid "Squeak, hr!"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/09_Final.cfg:460
+#: scenarios/09_Final.cfg:475
 msgid ""
 "Here, noble sir! My people, hr, inflicted heavy losses to the Khaganate! "
 "Let’s finish them off?"
 msgstr ""
 
 #. [message]: speaker=Barot
-#: scenarios/09_Final.cfg:464
+#: scenarios/09_Final.cfg:479
 msgid "You're really thick-skulled. I said I'll string you up!"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/09_Final.cfg:468
+#: scenarios/09_Final.cfg:483
 msgid "Squeak! It's bad, very bad. We gotta, uh, get out of here!"
 msgstr ""
 
 #. [objective]: condition=win
-#: scenarios/09_Final.cfg:484
-msgid "Run along the mountain trail!"
+#: scenarios/09_Final.cfg:487
+msgid "Run to the north or south border of map!"
 msgstr ""
 
 #. [message]: speaker=Swine
-#: scenarios/09_Final.cfg:507
+#: scenarios/09_Final.cfg:520
 msgid ""
-"Let these traitors themselves, hr-r, fightthe Khaganate. And Swine won't "
+"Let these traitors themselves, hr-r, fight the Khaganate. And Swine won't "
 "die, hr-r. Swine must not die..."
 msgstr ""
 
