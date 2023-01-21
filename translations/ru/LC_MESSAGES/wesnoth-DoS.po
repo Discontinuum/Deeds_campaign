@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-01-20 03:01+0400\n"
-"PO-Revision-Date: 2023-01-20 03:02+0400\n"
+"PO-Revision-Date: 2023-01-21 06:55+0400\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,12 +17,12 @@ msgstr ""
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:10
 msgid "Deeds of Sir Swine"
-msgstr ""
+msgstr "Подвиги Сэра Свина"
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:12
 msgid "DoS"
-msgstr ""
+msgstr "ПСС"
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:15
@@ -36,56 +36,65 @@ msgid ""
 "<span size='small'>Wesnoth Modders Guild Discord: https://discord.gg/"
 "rsePgjHRPA</span>"
 msgstr ""
+"Ох уж эти рыцарские истории! Герой в них всегда такой весь из себя "
+"благородный, храбрый, сражается со злом, дружит с эльфами, побеждает. Тьфу! "
+"Эти истории гроша ломаного не стоят, дружище. И сейчас я расскажу, "
+"почему...\n"
+"\n"
+"(Свинский уровень сложности, 9 сценариев)\n"
+"\n"
+"<span size='small'>Дискорд Гильдии Моддеров Веснота: https://discord.gg/"
+"rsePgjHRPA</span>"
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:23
 msgid "Easy"
-msgstr ""
+msgstr "Лёгкий"
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:23
 msgid "Piglet"
-msgstr ""
+msgstr "Порося"
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:24
 msgid "Hard"
-msgstr ""
+msgstr "Трудный"
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:24 utils/characters.cfg:6
 msgid "Swine"
-msgstr ""
+msgstr "Свин"
 
 #. [about]
 #: _main.cfg:27
 msgid "Authors & Coders"
-msgstr ""
+msgstr "Авторы & кодеры"
 
 #. [about]
 #: _main.cfg:33
 msgid "Portraits"
-msgstr ""
+msgstr "Портреты"
 
 #. [about]
 #: _main.cfg:39
 msgid "Portrait Artist"
-msgstr ""
+msgstr "Автор портретов"
 
 #. [about]
 #: _main.cfg:45
 msgid "Translators"
-msgstr ""
+msgstr "Переводчики"
 
 #. [about]
 #: _main.cfg:51
 msgid "Special Thanks"
-msgstr ""
+msgstr "Особая благодарность"
 
 #. [scenario]: id=01_The_Hunt
 #: scenarios/01_The_Hunt.cfg:5
 msgid "Hunting"
-msgstr ""
+msgstr "Охота"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:20
@@ -93,6 +102,8 @@ msgid ""
 "Ogre Kingdom. Inn. A seasoned Soldier drinks with a Northerner. Suddenly an "
 "annoying bard dives into the inn."
 msgstr ""
+"Королевство Огров. Трактир. Бывалый Солдат выпивает с Северянином. Вдруг в "
+"трактир залетает надоедливый бард."
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:26
@@ -100,6 +111,8 @@ msgid ""
 "<i>Dear guests! Thugs and murderers of all shapes and forms! Listen to the "
 "story of the six deeds of Sir Garka! For just three minted coins!</i>"
 msgstr ""
+"<i>Гости дорогие! Головорезы и рубаки всех мастей! Послушайте историю о "
+"шести подвигах сэра Гарки! Всего за три чеканых монеты!</i>"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:26 scenarios/01_The_Hunt.cfg:43
@@ -115,7 +128,7 @@ msgstr ""
 #: scenarios/10_Epilogue.cfg:35 scenarios/10_Epilogue.cfg:44
 #: scenarios/10_Epilogue.cfg:56
 msgid "Bard"
-msgstr ""
+msgstr "Бард"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:30 scenarios/01_The_Hunt.cfg:38
@@ -146,12 +159,12 @@ msgstr ""
 #: scenarios/10_Epilogue.cfg:73 scenarios/10_Epilogue.cfg:81
 #: scenarios/10_Epilogue.cfg:89 scenarios/10_Epilogue.cfg:97
 msgid "Northerner"
-msgstr ""
+msgstr "Северянин"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:30
 msgid "Who is this?"
-msgstr ""
+msgstr "Кто это?"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:34
@@ -159,6 +172,8 @@ msgid ""
 "Local idiot. He's selling his lies again. Don’t you get yourself distracted. "
 "In what way are you saying your chain mails are better?"
 msgstr ""
+"Местный идиот. Опять враньё своё продаёт. Да ты не отвлекайся. В чём, "
+"говоришь, ваши кольчуги лучше?"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:34 scenarios/01_The_Hunt.cfg:47
@@ -197,7 +212,7 @@ msgstr ""
 #: scenarios/10_Epilogue.cfg:77 scenarios/10_Epilogue.cfg:85
 #: scenarios/10_Epilogue.cfg:93
 msgid "Soldier"
-msgstr ""
+msgstr "Солдат"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:38
@@ -205,6 +220,8 @@ msgid ""
 "Hold on with those chain mails. I want to listen to it. Hey, bard! Here are "
 "your coins. Tell me!"
 msgstr ""
+"Погоди пока с кольчугами. Я хочу послушать. Эй, бард! Вот твои монеты. "
+"Рассказывай!"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:43
@@ -213,11 +230,13 @@ msgid ""
 "you will learn a lot about the Ogre Kingdom and the knights who inhabit it..."
 "</i>"
 msgstr ""
+"<i>Благодарю, воин! Ты, кажется, не местный? Из этой истории ты узнаешь "
+"многое о Королевстве Огров и рыцарях, его населяющих...</i>"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:47
 msgid "Tell us already."
-msgstr ""
+msgstr "Говори уже."
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:51
@@ -228,6 +247,11 @@ msgid ""
 "gut was full of exquisite viands. Listen as to what his farm was like: a "
 "thousand pigs, half a thousand cows...</i>"
 msgstr ""
+"<i>Кхм. Сэр Гарка был выдающимся рыцарем. Его отцом был сам сэр Маккорд, "
+"Победитель Змей! Замок сэра Гарки был огромен, количество слуг — "
+"бесчисленным, сокровищница его ломилась от золота, а живот – от изысканных "
+"яств. Послушайте, каким было его хозяйства: тысяча свиней, полтысячи коров..."
+"</i>"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:55
@@ -235,6 +259,8 @@ msgid ""
 "Sure, but all that he had inherited from his daddy. And the Swine himself "
 "did not lift a finger to multiply it. Only wasted."
 msgstr ""
+"Ага, только всё это ему от папаши досталось. А сам Свин палец о палец не "
+"ударил, чтобы это приумножить. Только тратил."
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:59
@@ -245,6 +271,11 @@ msgid ""
 "Garka's fame spread across the neighboring domains! Listen what "
 "personalities attended at those feasts: Sir Carrack, Sir Magot, sir...</i>"
 msgstr ""
+"i>...и кроме того, пятьсот наёмников! С богатством сэра Гарки могла "
+"сравниться только его доблесть. Он смело вёл солдат в бой и разом выиграл "
+"десять войн! Каждая победа была отмечена богатым пиршеством. Слава сэра "
+"Гарки облетела все соседние владения! Послушайте, кто присутствовал на тех "
+"пирах: сэр Каррак, сэр Магот, сэр...</i>"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:63
@@ -253,11 +284,13 @@ msgid ""
 "brigands — that's all ten wars of Swine. Not counting, that the army was not "
 "commanded by him, but by his adviser."
 msgstr ""
+"Уже брешет, собака. Десять войн! Пха! Две потасовки с разбойниками — вот и "
+"все десять войн Свина. И то армией командовал не он, а советник."
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:67
 msgid "How do you know all of this?"
-msgstr ""
+msgstr "А ты откуда всё знаешь?"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:71
@@ -265,11 +298,13 @@ msgid ""
 "I fought under the banner of Swine. Unfortunately. And aside from me, no one "
 "will ever tell you the truth about him."
 msgstr ""
+"Я воевал под знаменем Свина. К сожалению. И кроме меня, никто тебе правду о "
+"нём не расскажет."
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:75
 msgid "Wow. This way it's even more interesting. Why Swine, by the way?"
-msgstr ""
+msgstr "Ого. Так даже интереснее. Ну хорошо. А почему Свин, кстати?"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:79
@@ -279,11 +314,14 @@ msgid ""
 "hanged in the air a mile away. That's why his neighbors have come to call "
 "him – Sir Swine."
 msgstr ""
+"Потому что после тех двух потасовок он не вылезал из замка, только жрал и "
+"толстел, как боров. Потом и замок превратился в свинарник. Вонища стояла за "
+"милю. Вот соседи его и прозвали так – сэр Свин."
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:83
 msgid "Aren't all ogres like that?"
-msgstr ""
+msgstr "Разве не все огры такие?"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:87
@@ -291,6 +329,8 @@ msgid ""
 "Ogres are all different. But Swine was too fat and dirty even by ogres’ "
 "standards."
 msgstr ""
+"Огры бывают разные. Но Свин был слишком жирным и грязным даже по огрским "
+"меркам."
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:91
@@ -299,16 +339,18 @@ msgid ""
 "live, basking in the rays of his glory, not caring for troubles, multiplying "
 "his wealth...</i>"
 msgstr ""
+"<i>...и кроме того, сам Пан Барот! Так и жил бы сэр Гарка, согреваясь в "
+"лучах своей славы, не зная бед, приумножая своё богатство...</i>"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:95
 msgid "He wouldn’t have, I betcha. All his neighbors wanted him dead."
-msgstr ""
+msgstr "Не жил бы, зуб даю. На него все соседи ножи точили."
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:99
 msgid "Why didn't they attack?"
-msgstr ""
+msgstr "А чего ж не нападали?"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:103
@@ -318,6 +360,10 @@ msgid ""
 "for him till he would finally get on our nerves, when we would leave him. "
 "But we didn't — Swine paid well, you can't take that away."
 msgstr ""
+"Маккорд ему кучу наёмников оставил. Только в моём отряде тридцать полуогров "
+"было. И таких отрядов — десятки. Все ждали, когда он нас достанет "
+"окончательно, когда мы бросим его. Но мы не бросали — платил Свин хорошо, "
+"этого не отнять."
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:107
@@ -326,16 +372,19 @@ msgid ""
 "six of his grandiose deeds! The news of the terrible, well-known event, "
 "caught the knight right on his hunt!</i>"
 msgstr ""
+"<i>…но Свет послал рыцарю новое испытание! Сэру Гарке предстояло совершить "
+"шесть своих грандиозных подвигов! Весть о страшном, всем известное событии, "
+"застала рыцаря прямо на охоте!</i>"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:111
 msgid "What is he talking about?"
-msgstr ""
+msgstr "О чём это он?"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:115
 msgid "The Khaganate has gone to war with us."
-msgstr ""
+msgstr "Каганат на нас войной пошёл."
 
 #. [side]
 #: scenarios/01_The_Hunt.cfg:149 scenarios/02_The_Monster.cfg:72
@@ -344,34 +393,34 @@ msgstr ""
 #: scenarios/07_Siega.cfg:73 scenarios/09_Final.cfg:88
 #: scenarios/10_Epilogue.cfg:18
 msgid "Sir Garka"
-msgstr ""
+msgstr "Сэр Гарка"
 
 #. [unit]: id=Cleric, type=Kingdom_Cleric
 #: scenarios/01_The_Hunt.cfg:157
 msgid "Wise Adviser"
-msgstr ""
+msgstr "Мудрый Советник"
 
 #. [unit]: id=hunter, type=Kingdom_Halfogre_Outlaw
 #. [unit]: type=Kingdom_Halfogre_Outlaw
 #: scenarios/01_The_Hunt.cfg:174 scenarios/01_The_Hunt.cfg:184
 #: scenarios/01_The_Hunt.cfg:194
 msgid "Huntsman"
-msgstr ""
+msgstr "Ловчий"
 
 #. [unit]: id=son, type=Kingdom_Noble_Son
 #: scenarios/01_The_Hunt.cfg:205
 msgid "The Wayward Son"
-msgstr ""
+msgstr "Непутёвый сын"
 
 #. [side]
 #: scenarios/01_The_Hunt.cfg:236
 msgid "Boars"
-msgstr ""
+msgstr "Кабаны"
 
 #. [side]
 #: scenarios/01_The_Hunt.cfg:336
 msgid "Wolves"
-msgstr ""
+msgstr "Волки"
 
 #. [message]: speaker=unit
 #: scenarios/01_The_Hunt.cfg:351 scenarios/02_The_Monster.cfg:229
@@ -379,7 +428,7 @@ msgstr ""
 #: scenarios/06_Diplomacy_pays_off.cfg:328 scenarios/07_Siega.cfg:310
 #: scenarios/08_Battle.cfg:989
 msgid "No!"
-msgstr ""
+msgstr "Нет!"
 
 #. [message]: speaker=Cleric
 #: scenarios/01_The_Hunt.cfg:361
@@ -387,13 +436,15 @@ msgid ""
 "Sir, scouts report that a huge army of the Serpent Khaganate has approached "
 "the southern border of the Kingdom!"
 msgstr ""
+"Сэр, разведчики сообщают, что к южной границе Королевства подступила "
+"огромная армия Змеиного Каганата!"
 
 #. [message]: speaker=Swine
 #: scenarios/01_The_Hunt.cfg:365
 msgid ""
 "Hr, well, they approached and what’s then. It should only concern the "
 "knights of Pan Tukk."
-msgstr ""
+msgstr "Хр, ну подступила и подступила. Это забота рыцарей Пана Тукка."
 
 #. [message]: speaker=Cleric
 #: scenarios/01_The_Hunt.cfg:369
@@ -401,6 +452,8 @@ msgid ""
 "But, my lord, the panship of our suzerain Barot also belongs to the Southern "
 "Mark. You have to protect the border like your father did."
 msgstr ""
+"Но милорд, панство нашего сюзерена Барота тоже относится к Южной Марке. Вы "
+"должны защитить границу, как делал это ваш отец."
 
 #. [message]: speaker=Swine
 #: scenarios/01_The_Hunt.cfg:373
@@ -409,43 +462,46 @@ msgid ""
 "many warriors. Hr, I'll break the Khaganate whenever I want. And now I wanna "
 "go hunting! Hey, masters of the hunt!"
 msgstr ""
+"Хр-р. Ну да. Ну и что! От Пана пока никаких указаний нет. Воинов у меня "
+"много. Хр, я разобью Каганат, когда захочу. А сейчас я хочу поохотиться! Эй, "
+"ловчие!"
 
 #. [message]: speaker=hunter
 #: scenarios/01_The_Hunt.cfg:377
 msgid "Yes, Your Majesty!"
-msgstr ""
+msgstr "Да, ваше величество!"
 
 #. [message]: speaker=Swine
 #: scenarios/01_The_Hunt.cfg:381
 msgid "Are there, hr, lots of wild piglets in my forests?"
-msgstr ""
+msgstr "Много ли, хр, в моих лесах диких свиней?"
 
 #. [message]: speaker=hunter
 #: scenarios/01_The_Hunt.cfg:385
 msgid "Lots-lots of them, Your Majesty!"
-msgstr ""
+msgstr "Очень много, ваше величество!"
 
 #. [message]: speaker=Swine
 #: scenarios/01_The_Hunt.cfg:389
 msgid "The piglets, hr, won't wait! Get to work!"
-msgstr ""
+msgstr "Свинки, хр, ждать не будут! За дело!"
 
 #. [objective]: condition=win
 #: scenarios/01_The_Hunt.cfg:403 scenarios/01_The_Hunt.cfg:519
 msgid "Kill 10 boars ($pigs|/10)"
-msgstr ""
+msgstr "Забейте 10 кабанов ($pigs|/10)"
 
 #. [objective]: condition=lose
 #: scenarios/01_The_Hunt.cfg:407 scenarios/01_The_Hunt.cfg:523
 #: scenarios/02_The_Monster.cfg:293 scenarios/02_The_Monster.cfg:371
 #: scenarios/02_The_Monster.cfg:438 scenarios/02_The_Monster.cfg:552
 msgid "The Death of Sir Swine"
-msgstr ""
+msgstr "Смерть Сэра Свина"
 
 #. [objective]: condition=lose
 #: scenarios/01_The_Hunt.cfg:411 scenarios/01_The_Hunt.cfg:527
 msgid "The Death of the Adviser"
-msgstr ""
+msgstr "Смерть Мудрого Советника"
 
 #. [objective]: condition=lose
 #: scenarios/01_The_Hunt.cfg:415 scenarios/01_The_Hunt.cfg:531
@@ -454,22 +510,22 @@ msgstr ""
 #: scenarios/04_Taxes.cfg:341 scenarios/05_Troll_Race.cfg:568
 #: scenarios/05_Troll_Race.cfg:969
 msgid "Turns run out"
-msgstr ""
+msgstr "Закончились ходы"
 
 #. [event]
 #: scenarios/01_The_Hunt.cfg:454 scenarios/01_The_Hunt.cfg:459
 msgid "Fierce Wolf"
-msgstr ""
+msgstr "Злой волк"
 
 #. [message]: speaker=Swine
 #: scenarios/01_The_Hunt.cfg:549
 msgid "Such a glorious hunt! So much meat. Hr! What a feast it will be..."
-msgstr ""
+msgstr "Славная охота! Столько мяса. Хр! Какой будет пир..."
 
 #. [message]: speaker=Cleric
 #: scenarios/01_The_Hunt.cfg:553
 msgid "My lord, we should go back to the castle and think about the Khaganate."
-msgstr ""
+msgstr "Сэр, нам следует вернуться в замок и подумать о Каганате."
 
 #. [message]
 #: scenarios/01_The_Hunt.cfg:558
@@ -477,6 +533,8 @@ msgid ""
 "My Lord, we have found tracks of a giant bear! His paw is twice the size of "
 "my head!"
 msgstr ""
+"Милорд, мы нашли следы гигантского медведя! Его лапа вдвое больше моей "
+"головы!"
 
 #. [message]: speaker=Swine
 #: scenarios/01_The_Hunt.cfg:562
@@ -484,11 +542,13 @@ msgid ""
 "Wow, hr! A monster in my woods. We need to think... yes, hr! I'll kill him. "
 "It will be my deed. Masters of the hunt – take the trail!"
 msgstr ""
+"Ого, хр! Чудовище в моих лесах. Надо подумать… Да, хр! Я убью его. Будет мой "
+"подвиг. Ловчие – взять след!"
 
 #. [message]: speaker=Cleric
 #: scenarios/01_The_Hunt.cfg:566
 msgid "Sir, there's no time for this..."
-msgstr ""
+msgstr "Сэр, на это нет времени..."
 
 #. [message]: speaker=Swine
 #: scenarios/01_The_Hunt.cfg:570
@@ -496,11 +556,13 @@ msgid ""
 "Of course there is! Borders, hr, aren’t bears, they won't run away into the "
 "forest. And the bear... well, doesn't matter. To the pursuit!"
 msgstr ""
+"Конечно же есть! Границы, хр, не медведь, в лес не убегут. А медведь… Хр, не "
+"важно. В погоню!"
 
 #. [scenario]: id=02_The_Monster
 #: scenarios/02_The_Monster.cfg:5
 msgid "The First Deed"
-msgstr ""
+msgstr "Первый подвиг"
 
 #. [part]
 #: scenarios/02_The_Monster.cfg:21
@@ -511,11 +573,16 @@ msgid ""
 "him! The noble knight boldly followed the trail of the beast. So began his "
 "first deed...</i>"
 msgstr ""
+"<i>...Набожный рыцарь не мог допустить, чтобы отвратительное чудовище "
+"ступало по его земле. Как настоящий стратег, сэр Гарка решил обезопасить "
+"свой тыл, прежде, чем выступить против внешнего врага. Вам, рубакам, есть, "
+"чему у него поучиться! Благородный рыцарь смело шёл по следу чудовища. Так "
+"начался его первый подвиг...</i>"
 
 #. [part]
 #: scenarios/02_The_Monster.cfg:26
 msgid "Was he really going for it?"
-msgstr ""
+msgstr "Что, правда шёл?"
 
 #. [part]
 #: scenarios/02_The_Monster.cfg:30
@@ -523,11 +590,12 @@ msgid ""
 "Yeah. Only he didn’t care nothing, be it piety, be it the beast, be it the "
 "Khaganate."
 msgstr ""
+"Ага. Только чхать он хотел и на набожность, и на чудовище, и на Каганат."
 
 #. [part]
 #: scenarios/02_The_Monster.cfg:34
 msgid "Why did he go there then?"
-msgstr ""
+msgstr "Чего ж тогда пошёл?"
 
 #. [part]
 #: scenarios/02_The_Monster.cfg:38
@@ -538,11 +606,15 @@ msgid ""
 "be afraid to bother you. Here it is necessary to constantly prove your "
 "strength. And Sir Swine had - oh - such big problems with that!"
 msgstr ""
+"А чтобы соседи его не трогали. У огров ведь как: завалишь какую-нибудь "
+"тварь, раструбишь об этом на всю округу, соседи подумают, стало быть, что ты "
+"сильный, и побоятся лезть. Тут силу постоянно доказывать надо. А у сэра "
+"Свина с этим были ой какие проблемы!"
 
 #. [part]
 #: scenarios/02_The_Monster.cfg:42
 msgid "Problems? But what about the hundreds of mercenaries?"
-msgstr ""
+msgstr "Проблемы? А как же сотни наёмников?"
 
 #. [part]
 #: scenarios/02_The_Monster.cfg:46
@@ -551,11 +623,14 @@ msgid ""
 "strength of the mercenaries, but the strength of Swine himself – yes. "
 "Personal authority is important here. If you lose it, no one will serve you."
 msgstr ""
+"Это, брат, разные вещи. Тут с этим сложно. В силе наёмников никто не "
+"сомневался, а вот в силе самого Свина – да. Тут личный авторитет важен. Если "
+"его потерять – никто не будет тебе служить."
 
 #. [part]
 #: scenarios/02_The_Monster.cfg:50
 msgid "But what about the good pay?"
-msgstr ""
+msgstr "А как же хорошая плата?"
 
 #. [part]
 #: scenarios/02_The_Monster.cfg:54
@@ -564,6 +639,9 @@ msgid ""
 "him to the death. It is better to join his enemies and profit off it in a "
 "different way. Plunder his supplies, that is."
 msgstr ""
+"Если рыцарь богатый, но совсем без авторитета, никто за него насмерть стоять "
+"не будет. Лучше присоединиться к его противникам и поживиться по-другому. "
+"Разграбить его запасы, то бишь."
 
 #. [part]
 #: scenarios/02_The_Monster.cfg:58
@@ -571,16 +649,18 @@ msgid ""
 "It’s really complex. And I thought ogres were simple creatures. Listen, "
 "well, Swine still went after that bear. Doesn't that make him brave?"
 msgstr ""
+"И вправду сложно. А я думал, что огры — существа простые. Слушай, ну Свин же "
+"всё-таки пошёл на этого самого медведя. Разве это не делает его храбрым?"
 
 #. [part]
 #: scenarios/02_The_Monster.cfg:62
 msgid "If only he went there alone, hehe!"
-msgstr ""
+msgstr "Кабы он один пошёл, хе-хе!"
 
 #. [side]
 #: scenarios/02_The_Monster.cfg:81
 msgid "Bears"
-msgstr ""
+msgstr "Медведи"
 
 #. [unit]: id=first_bear, type=Cave Bear
 #. [unit]: type=Cave Bear
@@ -588,52 +668,52 @@ msgstr ""
 #: scenarios/02_The_Monster.cfg:137 scenarios/02_The_Monster.cfg:146
 #: scenarios/02_The_Monster.cfg:170
 msgid "The Minion Bear"
-msgstr ""
+msgstr "Медведь-прислужник"
 
 #. [trait]: id=old
 #: scenarios/02_The_Monster.cfg:106
 msgid "old"
-msgstr ""
+msgstr "старый"
 
 #. [trait]: id=old
 #: scenarios/02_The_Monster.cfg:107
 msgid "female^old"
-msgstr ""
+msgstr "старая"
 
 #. [chance_to_hit]: id=reliable
 #: scenarios/02_The_Monster.cfg:123 scenarios/02_The_Monster.cfg:206
 msgid "reliable"
-msgstr ""
+msgstr "надёжный"
 
 #. [chance_to_hit]: id=reliable
 #: scenarios/02_The_Monster.cfg:124 scenarios/02_The_Monster.cfg:207
 msgid "When used offensively, this attack's chance to hit is increased by 10%."
-msgstr ""
+msgstr "При атаке шанс попадания увеличивается на 10%."
 
 #. [trait]: id=young
 #: scenarios/02_The_Monster.cfg:153
 msgid "young"
-msgstr ""
+msgstr "молодой"
 
 #. [trait]: id=young
 #: scenarios/02_The_Monster.cfg:154
 msgid "female^young"
-msgstr ""
+msgstr "молодая"
 
 #. [unit]: id=bear_lord, type=Cave Bear
 #: scenarios/02_The_Monster.cfg:180
 msgid "Bear Lord"
-msgstr ""
+msgstr "Медведь-лорд"
 
 #. [trait]: id=monstrous
 #: scenarios/02_The_Monster.cfg:188
 msgid "monstrous"
-msgstr ""
+msgstr "чудовищный"
 
 #. [trait]: id=monstrous
 #: scenarios/02_The_Monster.cfg:189
 msgid "female^monstrous"
-msgstr ""
+msgstr "чудовищная"
 
 #. [message]: speaker=Cleric
 #: scenarios/02_The_Monster.cfg:248
@@ -641,6 +721,8 @@ msgid ""
 "Killing beasts is certainly a God–pleasing thing, but after all, fighting "
 "the Khaganate brings no less honor, my lord."
 msgstr ""
+"Убивать чудовищ – это дело, безусловно, богоугодное, но ведь и борьба с "
+"Каганатом приносит не меньше чести, милорд."
 
 #. [message]: speaker=Swine
 #: scenarios/02_The_Monster.cfg:252
@@ -648,6 +730,8 @@ msgid ""
 "Many would fight with the Khaganate, but the beast, hr, not everyone would "
 "kill it. The deed will elevate me above my thick-headed neighbors."
 msgstr ""
+"С Каганатом бороться будут многие, а вот чудовище, хр, убьёт не каждый. "
+"Подвиг возвысит меня над болванами-соседями."
 
 #. [message]: speaker=Cleric
 #: scenarios/02_The_Monster.cfg:256
@@ -655,11 +739,13 @@ msgid ""
 "But what if the monster tears you apart? What’s then? It not a knightly "
 "thing to die right before war."
 msgstr ""
+"А если чудовище вас разорвёт? Что тогда? Рыцарю ни к лицу погибать прямо "
+"перед войной."
 
 #. [message]: speaker=Swine
 #: scenarios/02_The_Monster.cfg:260
 msgid "Hr-hr! Ha! Who said that I would dive into the cave alone?"
-msgstr ""
+msgstr "Хр-хр! Ха! Кто сказал, что я полезу в пещеру один?"
 
 #. [message]: speaker=Cleric
 #: scenarios/02_The_Monster.cfg:264
@@ -667,18 +753,20 @@ msgid ""
 "But aren't you going to perform a deed according to the old tradition, on "
 "your own, like King Yatuk?"
 msgstr ""
+"Разве вы не собираетесь совершить подвиг по старой традиции, самостоятельно, "
+"как король Ятук?"
 
 #. [message]: speaker=Swine
 #: scenarios/02_The_Monster.cfg:268
 msgid ""
 "Nonsense! I'll kill the bear any way I want. And the bards, hr, will tell "
 "the tell as it should be."
-msgstr ""
+msgstr "Чепуха! Я убью медведя как захочу. А барды, хр, расскажут, как надо."
 
 #. [message]: speaker=Cleric
 #: scenarios/02_The_Monster.cfg:272
 msgid "But..."
-msgstr ""
+msgstr "Но ведь..."
 
 #. [message]: speaker=Swine
 #: scenarios/02_The_Monster.cfg:276
@@ -686,33 +774,35 @@ msgid ""
 "Don't bother me! Come on, warriors! I order you to, hr, kill that bear. "
 "Forward!"
 msgstr ""
+"Не мешай мне! А ну-ка, воины! Приказываю вам, хр, убить этого медведя. "
+"Вперёд!"
 
 #. [objective]: condition=win
 #: scenarios/02_The_Monster.cfg:289
 msgid "Kill the bear"
-msgstr ""
+msgstr "Убейте медведя"
 
 #. [objective]: condition=lose
 #: scenarios/02_The_Monster.cfg:297 scenarios/02_The_Monster.cfg:375
 #: scenarios/02_The_Monster.cfg:442 scenarios/02_The_Monster.cfg:556
 #: scenarios/04_Taxes.cfg:337
 msgid "The Death of the Wise Adviser"
-msgstr ""
+msgstr "Смерть Мудрого Советника"
 
 #. [message]
 #: scenarios/02_The_Monster.cfg:334
 msgid "The bear is dead, Your Highness!"
-msgstr ""
+msgstr "Медведь мёртв, ваше высочество!"
 
 #. [message]: speaker=Swine
 #: scenarios/02_The_Monster.cfg:338
 msgid "Come on, hr... It's not that bear! He's got such a small paw!"
-msgstr ""
+msgstr "Ну-ка, хр... Это не тот медведь! У него, маленькая лапа!"
 
 #. [message]: speaker=Cleric
 #: scenarios/02_The_Monster.cfg:342
 msgid "You're not going to look for another bear, are you, my lord?"
-msgstr ""
+msgstr "Вы же не собираетесь искать другого медведя, милорд?"
 
 #. [message]: speaker=Swine
 #: scenarios/02_The_Monster.cfg:346
@@ -720,11 +810,13 @@ msgid ""
 "Of course I'm going to, you fool! How else would I, uh, accomplish the deed? "
 "This tiny hide won't fit a deed!"
 msgstr ""
+"Конечно же собираюсь, болван! Как иначе мне, хр, совершить подвиг? Эта "
+"шкурка на подвиг не сгодится!"
 
 #. [message]: speaker=Cleric
 #: scenarios/02_The_Monster.cfg:350
 msgid "You can perform deeds of courage in the war with the Khaganate."
-msgstr ""
+msgstr "Вы можете совершить ратные подвиги на войне с Каганатом."
 
 #. [message]: speaker=Swine
 #: scenarios/02_The_Monster.cfg:354
@@ -733,23 +825,26 @@ msgid ""
 "here. And we killed just his minion. It means... Warriors! Search the cave! "
 "Kill all the bears! And the biggest one too!"
 msgstr ""
+"Заткнись! Хр-р… чутьё подсказывает мне, что этот медведь, хр, устроил тут "
+"логово. А мы убили его приспешника. Значит... Воины! Обыскать пещеру! Убить "
+"всех медведей! И самого большого обязательно!"
 
 #. [message]
 #: scenarios/02_The_Monster.cfg:359
 msgid "As you command, Your Highness."
-msgstr ""
+msgstr "Сделаем, ваше высочество."
 
 #. [objective]: condition=win
 #: scenarios/02_The_Monster.cfg:363 scenarios/02_The_Monster.cfg:430
 #: scenarios/02_The_Monster.cfg:544
 msgid "Clear up the caves"
-msgstr ""
+msgstr "Зачистите пещеры"
 
 #. [objective]: condition=lose
 #: scenarios/02_The_Monster.cfg:367 scenarios/02_The_Monster.cfg:434
 #: scenarios/02_The_Monster.cfg:548
 msgid "Lose 7 units ($death|/7)"
-msgstr ""
+msgstr "Потеря 7 бойцов ($death|/7)"
 
 #. [message]: speaker=bear_lord
 #: scenarios/02_The_Monster.cfg:408
@@ -757,16 +852,18 @@ msgid ""
 "WHO HAS ENTERED MY CAVE?! WHO HAS KILLED MY SERVANTS?! WHO HAS APPROACHED MY "
 "SPRING!"
 msgstr ""
+"КТО ВОШЁЛ В МОЮ ПЕЩЕРУ?! КТО УБИЛ МОИХ СЛУГ?! КТО ПРИБЛИЗИЛСЯ К МОЕМУ "
+"РОДНИКУ!"
 
 #. [message]
 #: scenarios/02_The_Monster.cfg:413
 msgid "A talking bear, my lord! It's definitely the one!"
-msgstr ""
+msgstr "Говорящий медведь, милорд! Это точно тот!"
 
 #. [message]: speaker=Swine
 #: scenarios/02_The_Monster.cfg:417
 msgid "I, Sir Garka, have come to kill you!"
-msgstr ""
+msgstr "Я, сэр Гарка, пришёл, чтобы убить тебя!"
 
 #. [message]: speaker=bear_lord
 #: scenarios/02_The_Monster.cfg:422
@@ -774,26 +871,28 @@ msgid ""
 "A KNIGHT?! ARE YOU CHALLENGING ME?! I ACCEPT IT! COME INTO THE WATER TO ME, "
 "SHOW ME YOUR WORTH!"
 msgstr ""
+"РЫЦАРЬ?! БРОСАЕШЬ МНЕ ВЫЗОВ?! Я ПРИНИМАЮ ЕГО! ВОЙДИ СО МНОЙ В ВОДУ, ПОКАЖИ, "
+"ЧЕГО СТОИШЬ!"
 
 #. [message]: speaker=Swine
 #: scenarios/02_The_Monster.cfg:426
 msgid "Yeah, hr, what else! Crossbowmen, shoot!"
-msgstr ""
+msgstr "Ага, хр, ещё чего! Арбалетчики, стреляй!"
 
 #. [note]
 #: scenarios/02_The_Monster.cfg:454
 msgid "The spring heals the units standing in it for 12 HP and cures poison."
-msgstr ""
+msgstr "Родник лечит стоящих в нем бойцов на 12 ЗД и исцеляет яд."
 
 #. [message]: speaker=Swine
 #: scenarios/02_The_Monster.cfg:467
 msgid "That's more like it! Plenty of hides we are gonna get off them!"
-msgstr ""
+msgstr "То-то же! Ну и надерём мы с них шкур!"
 
 #. [message]
 #: scenarios/02_The_Monster.cfg:486
 msgid "The last stinky bear is dead, my lord!"
-msgstr ""
+msgstr "Последний вонючий медведь мёртв, мой лорд!"
 
 #. [message]: speaker=Swine
 #: scenarios/02_The_Monster.cfg:490
@@ -801,6 +900,8 @@ msgid ""
 "Good, hr, good! Drag the carcasses to the wagon train. In the castle we will "
 "take off their hides and will, hr, feast on bear meat!"
 msgstr ""
+"Хорошо, хр, хорошо! Тащите туши к обозу. В замке снимем с них шкуры и будем, "
+"хр, пировать медвежатинкой!"
 
 #. [message]: speaker=Cleric
 #: scenarios/02_The_Monster.cfg:494
@@ -808,22 +909,24 @@ msgid ""
 "The bear was protecting this spring, my lord. There is truly some kind of "
 "magic imbued with the water."
 msgstr ""
+"Медведь защищал этот родник, милорд. От воды и впрямь исходит какая-то магия."
 
 #. [message]: speaker=Swine
 #: scenarios/02_The_Monster.cfg:498
 msgid ""
 "It's all nonsense. Fill this puddle with mud! No magic, hr, in my domain."
 msgstr ""
+"Чушь это всё. Засыпьте грязью эту лужу! Никакой магии, хр, в моих владениях."
 
 #. [message]
 #: scenarios/02_The_Monster.cfg:503
 msgid "Yes, Your Grace."
-msgstr ""
+msgstr "Есть, ваша светлость."
 
 #. [message]: speaker=Swine
 #: scenarios/02_The_Monster.cfg:525
 msgid "That's it! And now - to the castle! A feast awaits us!"
-msgstr ""
+msgstr "Так-то! А теперь - в замок! Нас ждёт пир!"
 
 #. [message]: speaker=Cleric
 #: scenarios/02_The_Monster.cfg:578
@@ -831,11 +934,13 @@ msgid ""
 "We lost the entire retinue in this senseless massacre! Do whatever you want, "
 "sir, but I'll trumpet a retreat!"
 msgstr ""
+"Мы потеряли всю свиту в этой бессмысленной бойне! Делайте что хотите, сэр, а "
+"я буду трубить отступление!"
 
 #. [scenario]: id=03_Swine_Diplomacy
 #: scenarios/03_Diplomacy.cfg:6
 msgid "Swine Diplomacy"
-msgstr ""
+msgstr "Свинская дипломатия"
 
 #. [part]
 #: scenarios/03_Diplomacy.cfg:21
@@ -845,23 +950,28 @@ msgid ""
 "so deep that there was no way to pull it out, and Sir Garka slaughtered the "
 "remaining bears with his bare hands…</i>"
 msgstr ""
+"<i>...Одним махом кабан сэра Гарки перемехнул через родник, и храбрый рыцарь "
+"слёту пронзил горло медведя своим копьём. Оно засело так глубоко, что не "
+"было никакой возможности его выдернуть, так что остальных медведей сэр Гарка "
+"забил голыми руками. Волшебный родник, красный от крови, рыцарь выпил до "
+"дна. Так завершился первый из шести подвигов...</i>"
 
 #. [part]
 #: scenarios/03_Diplomacy.cfg:26
 msgid "That doesn't sound very realistic."
-msgstr ""
+msgstr "Звучит не очень-то правдоподобно."
 
 #. [part]
 #: scenarios/03_Diplomacy.cfg:30
 msgid ""
 "Yeah. In reality, they just shot down the bears with crossbows, and that's "
 "the whole deed."
-msgstr ""
+msgstr "Ага. На деле расстреляли медведей из арбалетов, вот и весь подвиг."
 
 #. [part]
 #: scenarios/03_Diplomacy.cfg:34
 msgid "Are there any rules for these deeds of yours?"
-msgstr ""
+msgstr "А есть какие-то правила этих ваших подвигов?"
 
 #. [part]
 #: scenarios/03_Diplomacy.cfg:38
@@ -870,11 +980,14 @@ msgid ""
 "beast, and, then, kill it with his own hands. It is important to say "
 "thereafter that all this is for the sake of Light."
 msgstr ""
+"Есть. Надо, чтоб рыцарь вышел один, назвался, поприветствовал чудовище, и, "
+"стало быть, собственноручно убил его. Важно сказать потом, что всё это ради "
+"Света."
 
 #. [part]
 #: scenarios/03_Diplomacy.cfg:42
 msgid "Why so much hassle?"
-msgstr ""
+msgstr "Почему так много мороки?"
 
 #. [part]
 #: scenarios/03_Diplomacy.cfg:46
@@ -888,11 +1001,18 @@ msgid ""
 "ogres. From him – sparked the others. Well, and it continued on and on. Now "
 "every ogre must make themselves a Yatuk."
 msgstr ""
+"Потому что для огров это важно. Совершая подвиги, они спасают свои души от "
+"забвения. Так учат наши священники. А пошло это всё с древних времён. Был "
+"король такой, Ятук, первый король огров. Он, значит, огров в эти земли "
+"привёл и первый принял религию Света. Как принял — сразу Короля-Аванка "
+"одолел, точно так, как я описал. Свет души его стал как солнце для огров. От "
+"него загорелись другие. Ну и пошло-поехало. Теперь каждый огр должен "
+"уподобляться Ятуку."
 
 #. [part]
 #: scenarios/03_Diplomacy.cfg:50
 msgid "What is that Avanque-King?"
-msgstr ""
+msgstr "Что за Король-Аванк?"
 
 #. [part]
 #: scenarios/03_Diplomacy.cfg:54
@@ -900,11 +1020,13 @@ msgid ""
 "There was such a beaver, the biggest and the baddest. The king of all "
 "beavers. Since Yatuk cut him down, the beavers have been serving ogres."
 msgstr ""
+"Был такой бобр, самый огромный и самый злой. Король всех бобров. С тех пор, "
+"как Ятук его зарубил, бобры ограм служат."
 
 #. [part]
 #: scenarios/03_Diplomacy.cfg:58
 msgid "And do you also have the fire of soul, then?"
-msgstr ""
+msgstr "А у тебя тоже, значит, огонь души есть?"
 
 #. [part]
 #: scenarios/03_Diplomacy.cfg:62
@@ -912,6 +1034,8 @@ msgid ""
 "Sort of. But all of it applies to half-ogres in a different way somewhat, so "
 "I screwed it all."
 msgstr ""
+"Вроде того. Но к полуограм это всё как-то по-другому относится, так что я "
+"плюнул на это всё."
 
 #. [part]
 #: scenarios/03_Diplomacy.cfg:66
@@ -920,6 +1044,9 @@ msgid ""
 "lords. Before accepting them, he demonstrated great generosity and arranged "
 "a feast for three days and three nights...</i>"
 msgstr ""
+"<i>...Вернувшись в замок, сэр Гарка обнаружил послов от соседних лордов. "
+"Прежде, чем принять их, он выказал великую щедрость и устроил пир на три дня "
+"и три ночи...</i>"
 
 #. [part]
 #: scenarios/03_Diplomacy.cfg:70
@@ -929,32 +1056,35 @@ msgid ""
 "meat, did the fat hog fall on his throne and summoned them. Despite the news "
 "there being urgent…"
 msgstr ""
+"Ха-ха! Только послы всё это время в коморке для прислуги сидели. Вот тебе и "
+"свинская щедрость! Лишь когда всё мясо в замке кончилось, жирдяй завалился "
+"на свой трон и вызвал их. Хотя вести там были срочные…"
 
 #. [side]
 #: scenarios/03_Diplomacy.cfg:252 scenarios/03_Diplomacy.cfg:273
 #: scenarios/03_Diplomacy.cfg:294
 msgid "Envoys"
-msgstr ""
+msgstr "Послы"
 
 #. [unit]: id=envoy1, type=Kingdom_Messenger
 #: scenarios/03_Diplomacy.cfg:256
 msgid "Lord Karrok's Envoy"
-msgstr ""
+msgstr "Посол лорда Каррака"
 
 #. [unit]: id=envoy2, type=Kingdom_Messenger
 #: scenarios/03_Diplomacy.cfg:277
 msgid "Lord Magot's Envoy"
-msgstr ""
+msgstr "Посол лорда Магота"
 
 #. [unit]: id=envoy3, type=Kingdom_Messenger
 #: scenarios/03_Diplomacy.cfg:298
 msgid "Lord Grakk's Envoy"
-msgstr ""
+msgstr "Посол лорда Гракка"
 
 #. [message]: speaker=Swine
 #: scenarios/03_Diplomacy.cfg:316
 msgid "Well, hr-r, tell me what you have there!"
-msgstr ""
+msgstr "Ну, хр-р, говорите, что там у вас!"
 
 #. [message]: speaker=envoy1
 #: scenarios/03_Diplomacy.cfg:320
@@ -962,6 +1092,8 @@ msgid ""
 "I have a message from Sir Karakk. He reports that the army of the Serpent "
 "Khaganate is going to besiege his castle. He asks you to send reinforcements."
 msgstr ""
+"Я принёс послание от сэра Каракка. Он сообщает, что войско Змеиного Каганата "
+"собирается осаждать его замок. Просит Вас прислать подкрепление."
 
 #. [message]: speaker=Swine
 #: scenarios/03_Diplomacy.cfg:324
@@ -971,16 +1103,20 @@ msgid ""
 "there, there will be no one to help. Give Sir Karakk this bearhide. Let him "
 "marvel at my deed before, uh, his death."
 msgstr ""
+"Вот ведь слабак! Недели не прошло, хр, а он уже пустил врага к замку. Мне "
+"нет смысла высылать подмогу. Пока они дойдут, помогать будет некому. Передай "
+"сэру Каракку вот эту медвежью шкуру. Пусть восхитится моим подвигом перед, "
+"хр, смертью."
 
 #. [message]: speaker=envoy1
 #: scenarios/03_Diplomacy.cfg:328
 msgid "As you command, noble Lord."
-msgstr ""
+msgstr "Как прикажете, благородный лорд."
 
 #. [message]: speaker=Swine
 #: scenarios/03_Diplomacy.cfg:339
 msgid "Next!"
-msgstr ""
+msgstr "Следующий!"
 
 #. [message]: speaker=envoy2
 #: scenarios/03_Diplomacy.cfg:346
@@ -989,6 +1125,9 @@ msgid ""
 "you to send him a shipment of iron so that the blacksmiths could make "
 "weapons and armor for the militia."
 msgstr ""
+"Я принёс послание от сэра Магота. Мой лорд собирает большую армию и просит "
+"Вас выслать партию железа, чтобы кузнецы сделали оружие и доспехи для "
+"ополченцев."
 
 #. [message]: speaker=Swine
 #: scenarios/03_Diplomacy.cfg:351
@@ -999,16 +1138,21 @@ msgid ""
 "hr-r, as I see a squad of his soldiers capable of protecting the caravan. "
 "And this bearhide also. Tell him, I killed the beast!"
 msgstr ""
+"Хр, я слышал, земли твоего лорда заполонили разбойники. Если Магот хочет "
+"железо, пусть пришлёт охрану. Своих воинов я не дам – мне ещё с Каганатом "
+"биться! Так что передай ему, что я дам железо, как только, хр-р, увижу отряд "
+"его солдат, способный защитить караван. И эту медвежью шкуру. Скажи, я убил "
+"чудовище!"
 
 #. [message]: speaker=envoy2
 #: scenarios/03_Diplomacy.cfg:356
 msgid "As you say, sir. I will convey your words without error."
-msgstr ""
+msgstr "Слушаюсь, сэр. Я передам ваши слова в точности."
 
 #. [message]: speaker=Swine
 #: scenarios/03_Diplomacy.cfg:368
 msgid "Next! What you got there, hr?"
-msgstr ""
+msgstr "Следующий! Что там у тебя, хр?"
 
 #. [message]: speaker=envoy3
 #: scenarios/03_Diplomacy.cfg:375
@@ -1017,6 +1161,9 @@ msgid ""
 "the Khaganate, and since the shortest route to the border lies through Your "
 "domain, he asks you to grant the right of passage to his army."
 msgstr ""
+"Я принёс послание от сэра Гракка. Мой лорд желает немедленно выступить "
+"против Каганата, а так как кратчайший путь к границе лежит через Ваши "
+"владения, он просит Вас предоставить право прохода его армии."
 
 #. [message]: speaker=Swine
 #: scenarios/03_Diplomacy.cfg:380
@@ -1025,16 +1172,19 @@ msgid ""
 "is just like that too! No-way. Let him lead his bandits through his own "
 "lands. Tell him exactly that. And take this hide. I killed the bear myself!"
 msgstr ""
+"Ещё чего, хр! Знаю я твоего лорда. Его брат осаждал мой замок. И он сам "
+"такой же! Нет уж. Пусть ведёт своих бандитов через свои земли. Так и "
+"передай. И шкуру эту захвати. Это я сам медведя зарубил!"
 
 #. [message]: speaker=envoy3
 #: scenarios/03_Diplomacy.cfg:385
 msgid "It will be done."
-msgstr ""
+msgstr "Будет выполнено."
 
 #. [message]: speaker=Cleric
 #: scenarios/03_Diplomacy.cfg:397
 msgid "My Lord! Why did you quarrel with all the neighbors?"
-msgstr ""
+msgstr "Милорд! Зачем вы поругались со всеми соседями?"
 
 #. [message]: speaker=Swine
 #: scenarios/03_Diplomacy.cfg:402
@@ -1042,11 +1192,13 @@ msgid ""
 "Because they are thick-heads and brigands who get in my way, there is no "
 "point in wasting my resources on them."
 msgstr ""
+"Потому что они болваны и разбойники, которые путаются под ногами, хр. Нет "
+"смысла тратить на них свои ресурсы."
 
 #. [message]: speaker=Cleric
 #: scenarios/03_Diplomacy.cfg:407
 msgid "But the royal decree forbids strife during war!"
-msgstr ""
+msgstr "Но ведь королевский указ запрещает распри во время войны!"
 
 #. [message]: speaker=Swine
 #: scenarios/03_Diplomacy.cfg:412
@@ -1054,21 +1206,23 @@ msgid ""
 "But I'm not attacking them, hr. Don't be afraid. I'll deal with the "
 "Khaganate. I'll sleep for a couple of days first, hr-r, and deal with it."
 msgstr ""
+"Я же не нападаю на них, хр. Не бойся. Разберусь я с Каганатом. Вот посплю "
+"пару дней, хр-р, и разберусь."
 
 #. [message]: speaker=Cleric
 #: scenarios/03_Diplomacy.cfg:417
 msgid "And what is your plan?"
-msgstr ""
+msgstr "И какой у вас план?"
 
 #. [message]: speaker=Swine
 #: scenarios/03_Diplomacy.cfg:422
 msgid "Collect taxes, hr-r."
-msgstr ""
+msgstr "Собрать налоги, хр-р."
 
 #. [message]: speaker=Cleric
 #: scenarios/03_Diplomacy.cfg:427
 msgid "But we have already collected taxes this month!"
-msgstr ""
+msgstr "Но ведь мы уже собирали налоги в этом месяце!"
 
 #. [message]: speaker=Swine
 #: scenarios/03_Diplomacy.cfg:432
@@ -1077,6 +1231,9 @@ msgid ""
 "go around my lands and sort it out. And when I get a lot of money, I'll, hr, "
 "defeat the Khaganate."
 msgstr ""
+"Моя казна пустеет, хр-р. Я думаю, кто-то недоплачивает мне. Я объеду свои "
+"земли и разберусь с этим. И когда у меня будет много денежек, я, хр, разобью "
+"Каганат."
 
 #. [message]: speaker=Cleric
 #: scenarios/03_Diplomacy.cfg:437
@@ -1084,6 +1241,8 @@ msgid ""
 "That makes sense, my lord. But what about our borders? Maybe we should set "
 "up watchmen? Shall we order the fortifications to be repaired?"
 msgstr ""
+"В этом есть смысл, милорд. Но что насчёт наших границ? Может, выставим "
+"дозоры? Прикажем починить укрепления?"
 
 #. [message]: speaker=Swine
 #: scenarios/03_Diplomacy.cfg:442
@@ -1092,11 +1251,14 @@ msgid ""
 "collect taxes, then we'll do this rubbish. Trumpet it across all the "
 "settlements — I'm going for my money!"
 msgstr ""
+"Это всё потом, хр-р. Это всё требует золота. А его у нас мало! Вот соберём "
+"налоги — и займёмся этой чепухой. Раструби по всем поселениям — я иду за "
+"своими денежками!"
 
 #. [scenario]: id=04_Taxes
 #: scenarios/04_Taxes.cfg:5
 msgid "The Second Deed"
-msgstr ""
+msgstr "Второй подвиг"
 
 #. [part]
 #: scenarios/04_Taxes.cfg:21
@@ -1108,12 +1270,18 @@ msgid ""
 "happen! The envious received only the bear hides — a proof of his valor and "
 "strength! And the knight continued his march along the path of hero... </i>"
 msgstr ""
+"<i>Воистину, лучшие из лучших идут собственным путём, никуда не сворачивая и "
+"ни на что не отвлекаясь! Эти слова отлично подходят сэру Гарке. Малодушные "
+"соседи хотели отвлечь рыцаря, распылить его силы на меньшие дела, "
+"примазаться к его будущим подвигам. Сэр Гарка не допустил этого!  Завистники "
+"получили лишь медвежьи шкуры — доказательства его доблести и силы! А рыцарь "
+"продолжил своё шествие по пути героя... </i>"
 
 #. [part]
 #: scenarios/04_Taxes.cfg:26
 msgid ""
 "Looky here how you twisted things up! Did the lords appreciate the hides?"
-msgstr ""
+msgstr "Ишь как завернул! Лорды оценили шкуры?"
 
 #. [part]
 #: scenarios/04_Taxes.cfg:30
@@ -1122,6 +1290,9 @@ msgid ""
 "say, wiped his bottom with it. The hide didn't reach Karrak, but if it did, "
 "I bet he would have done something even worse with it!"
 msgstr ""
+"Ха-ха, оценили! Магот её в конюшне постелил, а Гракк, по слухам, подтирал ей "
+"задницу. До Каррака шкура не дошла, но если б дошла, зуб даю, он сделал бы с "
+"ней что похуже!"
 
 #. [part]
 #: scenarios/04_Taxes.cfg:34
@@ -1129,6 +1300,8 @@ msgid ""
 "It is understandable. I myself wouldn't be happy. But really, did the "
 "neighbors offer much lesser matters, as he put it? "
 msgstr ""
+"Оно и понятно. Я бы и сам не обрадовался. Но в самом деле, неужели соседи "
+"предлагали такие уж меньшие дела, как он выразился?"
 
 #. [part]
 #: scenarios/04_Taxes.cfg:38
@@ -1138,6 +1311,10 @@ msgid ""
 "fortifications, negotiated things. Someone had already fought. Everything "
 "was serious there. But that's another story."
 msgstr ""
+"Нормальные дела они предлагали. Пока Свин своих родственников по лесам "
+"гонял, рыцари к войне готовились. Собирали воинов, строили укрепления, "
+"договаривались. Кто-то уже сражался. Там всё серьёзно было. Но это другая "
+"история."
 
 #. [part]
 #: scenarios/04_Taxes.cfg:42
@@ -1147,16 +1324,20 @@ msgid ""
 "reliable rear before the war. This was Sir Garka's second deed! Listen, how "
 "it went...</i>"
 msgstr ""
+"<i>…Рыцарю предстояло объехать свои владения и раз и навсегда искоренить "
+"подлость, трусость и предательство среди своих подданных, закончить создание "
+"надёжного тыла перед войной. В этот состоял второй подвиг сэра Гарки! "
+"Послушайте, как это было...</i>"
 
 #. [part]
 #: scenarios/04_Taxes.cfg:46
 msgid "Now he is gonna talk about the tribute gathering."
-msgstr ""
+msgstr "Сейчас про полюдье рассказывать будет."
 
 #. [part]
 #: scenarios/04_Taxes.cfg:50
 msgid "What kind of deed one can do during the tribute gathering?"
-msgstr ""
+msgstr "Что ж за подвиги можно совершить на полюдье?"
 
 #. [part]
 #: scenarios/04_Taxes.cfg:54
@@ -1165,65 +1346,67 @@ msgid ""
 "into a not only turned his castle, but also all the villages into a septage "
 "pile…"
 msgstr ""
+"Сейчас узнаешь. Свин не только свой замок, но и все деревни в помойку "
+"превратил…"
 
 #. [side]: type=Fugitive, id=rebel
 #: scenarios/04_Taxes.cfg:75
 msgid "Villagers"
-msgstr ""
+msgstr "Селяне"
 
 #. [unit]: type=Bandit
 #. [unit]: type=Outlaw
 #: scenarios/04_Taxes.cfg:98 scenarios/04_Taxes.cfg:112
 msgid "The Rebel Guardian"
-msgstr ""
+msgstr "Деревенский староста"
 
 #. [unit]: type=Woodsman, type=Poacher
 #: scenarios/04_Taxes.cfg:126 scenarios/04_Taxes.cfg:148
 #: scenarios/04_Taxes.cfg:170 scenarios/04_Taxes.cfg:192
 #: scenarios/04_Taxes.cfg:214
 msgid "The Rebel Forester"
-msgstr ""
+msgstr "Мятежник-страж"
 
 #. [side]
 #: scenarios/04_Taxes.cfg:246
 msgid "Mercenaries"
-msgstr ""
+msgstr "Наёмники"
 
 #. [unit]: id=merc1, type=Cavalryman
 #. [unit]: id=merc2, type=Cavalryman
 #: scenarios/04_Taxes.cfg:250 scenarios/04_Taxes.cfg:262
 msgid "Wesnothian mercenary"
-msgstr ""
+msgstr "Веснотский наёмник"
 
 #. [unit]: id=merc3, type=Dragoon
 #: scenarios/04_Taxes.cfg:274
 msgid "Wesnothian condottiero"
-msgstr ""
+msgstr "Веснотский кондотьер"
 
 #. [trait]: id=veteran_mercenary
 #: scenarios/04_Taxes.cfg:281
 msgid "veteran mercenary"
-msgstr ""
+msgstr "бывалый наёмник"
 
 #. [trait]: id=veteran_mercenary
 #: scenarios/04_Taxes.cfg:282
 msgid "female^veteran mercenary"
-msgstr ""
+msgstr "бывалая наёмница"
 
 #. [trait]: id=veteran_mercenary
 #: scenarios/04_Taxes.cfg:283
 msgid "leadership ability"
-msgstr ""
+msgstr "лидерство"
 
 #. [objective]: condition=win
 #: scenarios/04_Taxes.cfg:325
 msgid "Capture all villages"
-msgstr ""
+msgstr "Захватите все деревни"
 
 #. [objective]: condition=win
 #: scenarios/04_Taxes.cfg:329
 msgid "Kill the rebel leader"
-msgstr ""
+msgstr "Убейте лидера мятежников"
 
 #. [objective]: condition=lose
 #: scenarios/04_Taxes.cfg:333 scenarios/05_Troll_Race.cfg:560
@@ -1231,17 +1414,17 @@ msgstr ""
 #: scenarios/09_Final.cfg:357 scenarios/09_Final.cfg:461
 #: scenarios/09_Final.cfg:491
 msgid "Death of Sir Swine"
-msgstr ""
+msgstr "Смерть Сэра Свина"
 
 #. [note]
 #: scenarios/04_Taxes.cfg:349
 msgid "It is recommended to recruit with the Advisor and fight with Sir Swine"
-msgstr ""
+msgstr "Рекомендуется вербовать с помощью Советника и сражаться Сэром Свином"
 
 #. [message]: speaker=Swine
 #: scenarios/04_Taxes.cfg:360
 msgid "Why, hr, is no one greeting me?!"
-msgstr ""
+msgstr "Почему меня, хр, никто не встречает?!"
 
 #. [message]: speaker=Cleric
 #: scenarios/04_Taxes.cfg:364
@@ -1249,6 +1432,8 @@ msgid ""
 "I've kept our tribute gathering a secret, my lord. Otherwise, some "
 "unscrupulous subjects could have escaped."
 msgstr ""
+"Я оставил наше полюдье в тайне, милорд. Иначе недобросовестные подданные "
+"могли бы сбежать."
 
 #. [message]: speaker=Swine
 #: scenarios/04_Taxes.cfg:368
@@ -1256,21 +1441,23 @@ msgid ""
 "Hr, well good, even though you disobeyed me. Hey, headman! Your lord has "
 "come to your valley!"
 msgstr ""
+"Хр, ну хорошо, хоть ты и ослушался меня. Эй, староста! Твой лорд явился в "
+"долину!"
 
 #. [message]: speaker=rebel
 #: scenarios/04_Taxes.cfg:372
 msgid "How? Swine? What do you need from us?"
-msgstr ""
+msgstr "Как? Свин? Что тебе нужно от нас?"
 
 #. [message]: speaker=Swine
 #: scenarios/04_Taxes.cfg:376
 msgid "Hr, don't you dare call me that, villain! I came for taxes."
-msgstr ""
+msgstr "Хр, не смей меня так называть, смерд! Я пришёл за налогами."
 
 #. [message]: speaker=rebel
 #: scenarios/04_Taxes.cfg:380
 msgid "We've already paid you all the taxes."
-msgstr ""
+msgstr "Мы уже заплатили тебе все подати."
 
 #. [message]: speaker=Swine
 #: scenarios/04_Taxes.cfg:384
@@ -1278,6 +1465,8 @@ msgid ""
 "So what? The war has started, hr, I need more gold. I am your lord, and I "
 "can take as many taxes as I want!"
 msgstr ""
+"И что? Началась война, хр, мне нужно больше золота. Я — твой лорд, и могу "
+"брать налогов столько, сколько захочу!"
 
 #. [message]: speaker=rebel
 #: scenarios/04_Taxes.cfg:388
@@ -1287,11 +1476,15 @@ msgid ""
 "even in drought! And now you're asking for more! For the love of Light, "
 "leave us alone, or we will drive you away by force."
 msgstr ""
+"Ну уж нет. Ты и так перестал нас защищать, мы сами отбиваемся от бандитов. "
+"Ты дерешь тягостные налоги и отказываешься понижать их даже во время засухи! "
+"А теперь просишь ещё! Окстись, оставь нас в покое, или мы прогоним тебя "
+"силой."
 
 #. [message]: speaker=Swine
 #: scenarios/04_Taxes.cfg:392
 msgid "Hr! A rebellion?! Warriors! Kill the rebels! And take my gold!"
-msgstr ""
+msgstr "Хр! Бунт?! Воины! Убить мятежников! И забрать моё золото!"
 
 #. [message]: speaker=Cleric
 #: scenarios/04_Taxes.cfg:396
@@ -1301,6 +1494,10 @@ msgid ""
 "the valley are still defenseless. If we get to the villages before the "
 "rebels, we can pacify the peasants and collect taxes without any resistance."
 msgstr ""
+"Похоже, селяне готовились к бунту, но мы застали их врасплох. Вооруженные "
+"мятежники засели в крепости, но жители долины пока беззащитны. Если мы "
+"доберёмся до деревень раньше бунтовщиков, то сможем усмирить крестьян и "
+"взыскать налоги без сопротивления."
 
 #. [message]: speaker=merc3
 #: scenarios/04_Taxes.cfg:411
@@ -1309,26 +1506,29 @@ msgid ""
 "my men are the best mercenary cavalrymen in the whole Wesnoth! For just 70 "
 "gold coins, we will help you pacify the filthy villeins. What do you say?"
 msgstr ""
+"Мир вам, сэр рыцарь! Вам, кажется, не помешает помощь? Я и мои люди - лучшие "
+"наёмные кавалеристы во всём Весноте! Всего за 70 золотых мы поможем вам "
+"усмирить чернь. Что скажете?"
 
 #. [message]: speaker=Swine
 #: scenarios/04_Taxes.cfg:415
 msgid "What should I do with them, hr-r…"
-msgstr ""
+msgstr "Как мне с ними быть, хр-р…"
 
 #. [option]: speaker=Swine
 #: scenarios/04_Taxes.cfg:418
 msgid "Hire (-70 gold)"
-msgstr ""
+msgstr "Нанять (-70 золотых)"
 
 #. [message]: speaker=Swine
 #: scenarios/04_Taxes.cfg:439
 msgid "All right then! I take you, hr, but the price should be justified!"
-msgstr ""
+msgstr "Ладно уж! Беру вас, хр, но что б золото своё отработали!"
 
 #. [message]: speaker=merc3
 #: scenarios/04_Taxes.cfg:443 scenarios/04_Taxes.cfg:478
 msgid "No problem, Sir knight."
-msgstr ""
+msgstr "Без проблем, сэр рыцарь."
 
 #. [message]: speaker=Cleric
 #: scenarios/04_Taxes.cfg:447 scenarios/04_Taxes.cfg:482
@@ -1336,11 +1536,13 @@ msgid ""
 "It's a good thing that you those hired horsemen, my Lord. They will help us "
 "get to the villages before the rebels."
 msgstr ""
+"Хорошо, что вы наняли всадников, милорд. Они помогут нам добраться до "
+"деревень раньше мятежников."
 
 #. [option]: speaker=Swine
 #: scenarios/04_Taxes.cfg:453
 msgid "Hire with debt (-70 gold, gold goes negative)"
-msgstr ""
+msgstr "Нанять в долг (-70 золотых, золото уйдёт в минус)"
 
 #. [message]: speaker=Swine
 #: scenarios/04_Taxes.cfg:474
@@ -1348,11 +1550,13 @@ msgid ""
 "All right then! Hr, gold is a bit low for now, I will give you $swinegold | "
 "up front, you will knock out the rest from the filthy villeins!"
 msgstr ""
+"Ладно уж! Хр, золотых пока чуток не хватает, дам вам $swinegold| авансом, "
+"остальное выбьете с черни!"
 
 #. [option]: speaker=Swine
 #: scenarios/04_Taxes.cfg:488
 msgid "Drive them away"
-msgstr ""
+msgstr "Прогнать"
 
 #. [message]: speaker=Swine
 #: scenarios/04_Taxes.cfg:492
@@ -1360,11 +1564,13 @@ msgid ""
 "Well, no! Get out of my lands, muggers! Otherwise, I'll, hr, beat you down "
 "like the rebels..!"
 msgstr ""
+"Ну уж нет! Проваливайте из моих земель, вымогатели! Не то я вас, хр, как "
+"мятежников..!"
 
 #. [message]: speaker=merc3
 #: scenarios/04_Taxes.cfg:496
 msgid "As you will, sir knight. We don't need any problems."
-msgstr ""
+msgstr "Воля ваша, сэр рыцарь. Нам не нужны проблемы."
 
 #. [message]: speaker=Cleric
 #: scenarios/04_Taxes.cfg:505
@@ -1372,43 +1578,45 @@ msgid ""
 "Was it worth it to act so rashly, my Lord? Now it will be difficult for us "
 "to reach the villages before the rebels."
 msgstr ""
+"Стоило ли поступать так опрометчиво, милорд? Теперь нам будет трудно "
+"добраться до деревень раньше мятежников."
 
 #. [message]: speaker=Swine
 #: scenarios/04_Taxes.cfg:509
 msgid "Hr, what gives! My warriors will deal with it on their own."
-msgstr ""
+msgstr "Хр, тоже мне! Мои воины справятся сами."
 
 #. [message]: speaker=Swine
 #: scenarios/04_Taxes.cfg:521
 msgid "This gold is rightfully mine, hr!"
-msgstr ""
+msgstr "Это по праву МОЁ золото, хр!"
 
 #. [message]: speaker=unit
 #: scenarios/04_Taxes.cfg:529
 msgid "Get up, get up, brothers!"
-msgstr ""
+msgstr "Поднимайтесь, поднимайтесь, братцы!"
 
 #. [floating_text]
 #: scenarios/04_Taxes.cfg:553
 msgid "+10 gold"
-msgstr ""
+msgstr "+10 золотых"
 
 #. [message]: speaker=unit
 #: scenarios/04_Taxes.cfg:640
 msgid "Ar, damn you! You'll see what your swinishness will lead to!"
-msgstr ""
+msgstr "Ар, будь ты проклят! Ты ещё увидишь, к чему приведёт твоё свинство!"
 
 #. [message]: speaker=Swine
 #: scenarios/04_Taxes.cfg:644
 msgid ""
 "Tie him up! And the rest of the rebels, too. I am going to, hr, have them "
 "for dinner!"
-msgstr ""
+msgstr "Связать его! И остальных бунтовщиков тоже. Я ими, хр-р, поужинаю!"
 
 #. [scenario]: id=05_Troll_Race
 #: scenarios/05_Troll_Race.cfg:5
 msgid "The Third Deed"
-msgstr ""
+msgstr "Третий подвиг"
 
 #. [part]
 #: scenarios/05_Troll_Race.cfg:23
@@ -1419,6 +1627,10 @@ msgid ""
 "whole panstvo ever thought to start a rebellion! That's his second deed for "
 "the Kingdom.</i>"
 msgstr ""
+"<i>...Одним ударом копья сэр Гарка пронзал дюжину бунтовщиков; одним рывком "
+"его кабан разбивал их строй, как таран разбивает ворота! Рыцарь указал черни "
+"её место, и ни один крестьянин во всём панстве больше не помышлял о "
+"восстании! В том состоял его второй подвиг перед Королевством...</i>"
 
 #. [part]
 #: scenarios/05_Troll_Race.cfg:28
@@ -1426,13 +1638,15 @@ msgid ""
 "Why couldn't folks stand up for themselves? In our place he would be quickly "
 "raised on spears."
 msgstr ""
+"Чего ж добрые люди не смогли постоять за себя? У нас бы его сразу на копьях "
+"подняли."
 
 #. [part]
 #: scenarios/05_Troll_Race.cfg:28 scenarios/05_Troll_Race.cfg:36
 #: scenarios/05_Troll_Race.cfg:44 scenarios/05_Troll_Race.cfg:52
 #: scenarios/05_Troll_Race.cfg:60 scenarios/05_Troll_Race.cfg:76
 msgid "Northertner"
-msgstr ""
+msgstr "Северянин"
 
 #. [part]
 #: scenarios/05_Troll_Race.cfg:32
@@ -1440,11 +1654,13 @@ msgid ""
 "Come on! Your people are armed and trained. And what could our paupers "
 "possibly do to ogres?"
 msgstr ""
+"Скажешь тоже! Ваш народ вооружен и обучен. А наши оборванцы что ограм "
+"сделают?"
 
 #. [part]
 #: scenarios/05_Troll_Race.cfg:36
 msgid "E-eh. I can only note the bravery of the rebelled."
-msgstr ""
+msgstr "Мда-а. Остаётся только отметить мужество восставших."
 
 #. [part]
 #: scenarios/05_Troll_Race.cfg:40
@@ -1452,11 +1668,12 @@ msgid ""
 "It's true. Usually our people are calm and scared. But Swine managed to piss "
 "off even them."
 msgstr ""
+"Это правда. Вообще народ у нас тихий, запуганный. Но Свин даже таких довёл."
 
 #. [part]
 #: scenarios/05_Troll_Race.cfg:44
 msgid "What would've been if the villagers had defeated him against all odds?"
-msgstr ""
+msgstr "А если бы селяне всё-таки победили его?"
 
 #. [part]
 #: scenarios/05_Troll_Race.cfg:48
@@ -1464,12 +1681,13 @@ msgid ""
 "They would've lived a week or two like free people, but then – again, back "
 "to slavery."
 msgstr ""
+"Пожили бы недельку-другую как свободные люди, а потом — опять в рабство."
 
 #. [part]
 #: scenarios/05_Troll_Race.cfg:52 scenarios/07_Siega.cfg:59
 #: scenarios/10_Epilogue.cfg:81
 msgid "Why?"
-msgstr ""
+msgstr "Чего так?"
 
 #. [part]
 #: scenarios/05_Troll_Race.cfg:56
@@ -1479,11 +1697,14 @@ msgid ""
 "ogres the villagers would've faced three. That's why nobody even tries. "
 "Among humans, I mean."
 msgstr ""
+"Как оборванцам-смердам остаться свободными в окружении вооруженных огров? "
+"Соседи Свина сразу бы подсуетились. И вместо одной банды огров селяне "
+"встретились бы с тремя. Поэтому никто и не рыпается. Из людей, в смысле."
 
 #. [part]
 #: scenarios/05_Troll_Race.cfg:60
 msgid "And not among humans?"
-msgstr ""
+msgstr "А не из людей?"
 
 #. [part]
 #: scenarios/05_Troll_Race.cfg:64
@@ -1491,6 +1712,8 @@ msgid ""
 "Half-ogres try, and trolls. Swine had trolls by the way. See, this guy is "
 "telling about them now..."
 msgstr ""
+"Полуогры рыпаются, ещё тролли. У Свина, кстати, были тролли. Вон, этот "
+"сейчас про них рассказывает…"
 
 #. [part]
 #: scenarios/05_Troll_Race.cfg:68
@@ -1501,6 +1724,10 @@ msgid ""
 "conspirators and to return honour and courage to the hearts of trolls who "
 "were so important for the royal army...</i>"
 msgstr ""
+"<i>...Сэр Гарка раскрыл заговор троллей: те решили сбежать, чтобы уклониться "
+"от участия в войне. Не теряя ни минуты рыцарь бросился в погоню. Ему "
+"предстояло совершить третий подвиг: сразить трусливых заговорщиков и вернуть "
+"честь и мужество в сердца троллей, столь важных для королевской армии...</i>"
 
 #. [part]
 #: scenarios/05_Troll_Race.cfg:72
@@ -1510,11 +1737,15 @@ msgid ""
 "Makkord. Swine spat on them all. Trolls live simple, don't have possessions, "
 "they can easily leave. And so they left."
 msgstr ""
+"Не было там никакого заговора, это бред. Но так, да, тролли Свина ушли. Там "
+"большое племя было, сильное. У их вождя с Маккордом какие-то особые "
+"соглашения были. А Свин на них хер положил. Живут тролли просто, имущества "
+"не имеют, им уйти - раз плюнуть. Вот и ушли."
 
 #. [part]
 #: scenarios/05_Troll_Race.cfg:76
 msgid "So Swine rushed after them?"
-msgstr ""
+msgstr "А Свин вдогонку бросился?"
 
 #. [part]
 #: scenarios/05_Troll_Race.cfg:80
@@ -1523,39 +1754,42 @@ msgid ""
 "nearby. And damn it, he found them! They hid in an abandoned mine. Only that "
 "was not a mere escape."
 msgstr ""
+"Ага. Визжал, бесился, как настоящая порося. Послал разведчиков во все "
+"окрестные пещеры. И, чёрт возьми, нашёл их! Они в заброшенной шахте "
+"укрылись. Вот только это был не просто побег…"
 
 #. [side]: id=Shaman, type=Troll Shaman
 #: scenarios/05_Troll_Race.cfg:158
 msgid "Trolls"
-msgstr ""
+msgstr "Тролли"
 
 #. [side]: id=Shaman, type=Troll Shaman
 #: scenarios/05_Troll_Race.cfg:162
 msgid "Troll Chieftain"
-msgstr ""
+msgstr "Тролль-вождь"
 
 #. [objective]: condition=win
 #: scenarios/05_Troll_Race.cfg:556
 msgid "Kill troll's chief"
-msgstr ""
+msgstr "Сразите вождя троллей"
 
 #. [objective]: condition=lose
 #: scenarios/05_Troll_Race.cfg:564 scenarios/06_Diplomacy_pays_off.cfg:352
 #: scenarios/07_Siega.cfg:329
 msgid "Death of Wise Advicer"
-msgstr ""
+msgstr "Смерть Мудрого Советника"
 
 #. [message]: speaker=unit
 #: scenarios/05_Troll_Race.cfg:601 scenarios/05_Troll_Race.cfg:644
 #: scenarios/05_Troll_Race.cfg:691 scenarios/05_Troll_Race.cfg:732
 #: scenarios/05_Troll_Race.cfg:774 scenarios/05_Troll_Race.cfg:815
 msgid "Break the support!"
-msgstr ""
+msgstr "Ломаю опору!"
 
 #. [message]: speaker=Swine
 #: scenarios/05_Troll_Race.cfg:844
 msgid "Trolls! How dare you, hr, to run away from me!?"
-msgstr ""
+msgstr "Тролли! Как вы посмели, хр, сбежать от меня?!"
 
 #. [message]: speaker=guard1
 #: scenarios/05_Troll_Race.cfg:848
@@ -1563,11 +1797,13 @@ msgid ""
 "Chief commanded not to speak with you. Commanded to tell: go to arse, Swine! "
 "Go to arse, Swine!"
 msgstr ""
+"Вождь не велел с тобой говорить. Велел сказать: пошёл в зад, Свин! Пошёл в "
+"зад, Свин!"
 
 #. [message]: speaker=guard2
 #: scenarios/05_Troll_Race.cfg:852
 msgid "And to beat the drum!"
-msgstr ""
+msgstr "И в барабан бить!"
 
 #. [message]: speaker=Swine
 #: scenarios/05_Troll_Race.cfg:859
@@ -1575,6 +1811,8 @@ msgid ""
 "So this is it! Hr! I'll show you, traitors, what happens with ones telling "
 "me to go arse! Soldiers! Storm the mine!"
 msgstr ""
+"Вот значит как! Хр! Я вам покажу, предатели, как меня в зад слать! Солдаты! "
+"Заштурмовать шахту!"
 
 #. [message]: speaker=Cleric
 #: scenarios/05_Troll_Race.cfg:863
@@ -1582,6 +1820,8 @@ msgid ""
 "It seems trolls were waiting for us. Is it worth it to rush to storm, my "
 "lord? We have enough gold to recruit trolls of another tribe."
 msgstr ""
+"Похоже, тролли ждали нас. Стоит ли в таком случае бросаться на штурм, "
+"милорд? У нас достаточно золота, чтобы нанять троллей из другого племени."
 
 #. [message]: speaker=Swine
 #: scenarios/05_Troll_Race.cfg:867
@@ -1589,27 +1829,29 @@ msgid ""
 "You understand nothing, hr! No servant dares to run away from me! They have "
 "to be punished severely! Attack!"
 msgstr ""
+"Ты ничего не понимаешь, хр! Ни один слуга не смеет сбегать от меня! Их надо "
+"жестоко наказать! В атаку!"
 
 #. [message]: speaker=Cleric
 #: scenarios/05_Troll_Race.cfg:885
 msgid "I thought so! That's an ambush, my lord!"
-msgstr ""
+msgstr "Я так и думал! Это засада, милорд!"
 
 #. [message]: speaker=Swine
 #: scenarios/05_Troll_Race.cfg:889
 msgid "So what, hr? My warriors can handle! Continue with the storm!"
-msgstr ""
+msgstr "И что, хр? Мои воины справятся! Продолжить штурм!"
 
 #. [message]: speaker=Cleric
 #: scenarios/05_Troll_Race.cfg:893
 msgid ""
 "No, my lord, if we simply attack them, they will throw stones at us to death!"
-msgstr ""
+msgstr "Нет, милорд, если мы атакуем в лоб, нас просто закидают камнями!"
 
 #. [message]: speaker=Swine
 #: scenarios/05_Troll_Race.cfg:897
 msgid "Hr, and what do you suggest?"
-msgstr ""
+msgstr "Хр, и что ты предлагаешь?"
 
 #. [message]: speaker=Cleric
 #: scenarios/05_Troll_Race.cfg:901
@@ -1618,16 +1860,19 @@ msgid ""
 "The constructions don't look strong. We may try to break the supports and "
 "bring them down!"
 msgstr ""
+"Тролли расположились на деревянных конструкциях по обе стороны моста... "
+"Конструкции не выглядят прочными. Мы можем попытаться сломать опоры и "
+"обрушить их!"
 
 #. [message]: speaker=Swine
 #: scenarios/05_Troll_Race.cfg:905
 msgid "Not bad, hr. But where are the supports?"
-msgstr ""
+msgstr "Неплохо, хр. Но где эти опоры?"
 
 #. [message]: speaker=Cleric
 #: scenarios/05_Troll_Race.cfg:909
 msgid "There they are, guarded by yound trolls."
-msgstr ""
+msgstr "Да вот же они, их охраняют молодые тролли!"
 
 #. [message]: speaker=Swine
 #: scenarios/05_Troll_Race.cfg:949
@@ -1635,26 +1880,28 @@ msgid ""
 "Hr-r, understood. Soldiers! A new plan! Order, hr, to destroy the supports! "
 "And then to storm!"
 msgstr ""
+"Хр-р, понял. Солдаты! Новый план! Приказываю, хр, разрушить опоры! А потом - "
+"на штурм!"
 
 #. [objective]: condition=win
 #: scenarios/05_Troll_Race.cfg:953
 msgid "Destroy the supports to clean the way"
-msgstr ""
+msgstr "Разрушьте опоры, чтобы расчистить путь"
 
 #. [objective]: condition=win
 #: scenarios/05_Troll_Race.cfg:957
 msgid "Kill the troll's chief"
-msgstr ""
+msgstr "Сразите тролля-вождя"
 
 #. [objective]: condition=lose
 #: scenarios/05_Troll_Race.cfg:965
 msgid "Death of Wise Advicser"
-msgstr ""
+msgstr "Смерть Мудрого Советника"
 
 #. [note]
 #: scenarios/05_Troll_Race.cfg:977
 msgid "To destroy a support, take a highlighted hex with your unit."
-msgstr ""
+msgstr "Чтобы разрушить опоры, займите своим бойцом отмеченный гекс."
 
 #. [note]
 #: scenarios/05_Troll_Race.cfg:980
@@ -1662,16 +1909,18 @@ msgid ""
 "After destroying a support the section will collapse into the chasm with all "
 "trolls standing on it."
 msgstr ""
+"После разрушения опоры секция упадёт в пропасть вместе со всеми стоящими на "
+"ней троллями."
 
 #. [message]: speaker=Swine
 #: scenarios/05_Troll_Race.cfg:992
 msgid "Tie him! Then, hr, we'll hang the traitor!"
-msgstr ""
+msgstr "Связать его! Затем, хр, повесим предателя!"
 
 #. [scenario]: id=06_Diplomacy2
 #: scenarios/06_Diplomacy_pays_off.cfg:5
 msgid "The Fourth Deed"
-msgstr ""
+msgstr "Четвёртый подвиг"
 
 #. [part]
 #: scenarios/06_Diplomacy_pays_off.cfg:22
@@ -1685,11 +1934,19 @@ msgid ""
 "Furthermore, trolls wished to redeem their infamy on the battlefield. All "
 "thanks to Sir Garka! That was his third deed for the Kingdom...</i>"
 msgstr ""
+"<i>Как неудержимый валун сэр Гарка прокатился по мосту, сбивая троллей, "
+"отражая их атаки, ловя булыжники и забрасывая их обратно; восхищённые слуги "
+"следовали за ним. Пришпорив посильнее кабана, храбрый рыцарь перемахнул "
+"через стену и пленил трусливого вождя. Тогда тролли стали стыдливо "
+"сдаваться. Их заговор был разбит в пух и прах, и ни один тролль Южной Марки "
+"больше не думал уклониться от войны. Более того, тролли возжелали искупить "
+"свою подлость на поле боя. И всё благодаря сэру Гарке! В том состоял его "
+"третий подвиг перед Королевством...</i>"
 
 #. [part]
 #: scenarios/06_Diplomacy_pays_off.cfg:27
 msgid "An ambush of trolls! On the cave bridge! I wouldn't like to be there."
-msgstr ""
+msgstr "Засада троллей! На пещерном мосту!  Не хотел бы я там оказаться."
 
 #. [part]
 #: scenarios/06_Diplomacy_pays_off.cfg:31
@@ -1697,11 +1954,13 @@ msgid ""
 "Indeed. I was there and can confirm that it was the most terrible ambush in "
 "my life. And I've seen shit in my life."
 msgstr ""
+"И не говори. Я там был, и могу подтвердить — это была самая страшная засада "
+"в моей жизни. А я всякое дерьмо повидал."
 
 #. [part]
 #: scenarios/06_Diplomacy_pays_off.cfg:35
 msgid "How  could trolls make up such a thing?"
-msgstr ""
+msgstr "Как только тролли додумались до такого?"
 
 #. [part]
 #: scenarios/06_Diplomacy_pays_off.cfg:39
@@ -1710,22 +1969,26 @@ msgid ""
 "see, learnt something. As it turned out, he wanted to kill Swine to build up "
 "the fame for his tribe and find a new lord on better terms."
 msgstr ""
+"Вождь у них был старый, мудрый. Он с Маккордом не одну войну прошёл. И, как "
+"видишь, научился кой-чему. Как выяснилось, он хотел убить Свина, чтобы "
+"набить племени цену и найти нового сюзерена на более выгодных условиях."
 
 #. [part]
 #: scenarios/06_Diplomacy_pays_off.cfg:43
 msgid "I thought trolls are too dumb for that."
-msgstr ""
+msgstr "А я думал, тролли слишком тупы для такого."
 
 #. [part]
 #: scenarios/06_Diplomacy_pays_off.cfg:47
 msgid ""
 "Trolls are not dumb. They can learn a lot. Just no good teachers out there."
 msgstr ""
+"Тролли не тупые. Их можно многому обучить. Просто хороших учителей нет."
 
 #. [part]
 #: scenarios/06_Diplomacy_pays_off.cfg:51
 msgid "Makkord, therefore, was a good teacher?"
-msgstr ""
+msgstr "А Маккорд, стало быть, был хорошим учителем?"
 
 #. [part]
 #: scenarios/06_Diplomacy_pays_off.cfg:55
@@ -1734,11 +1997,13 @@ msgid ""
 "three times bigger! He would've surely become a Pan, had he not died from a "
 "random arrow..."
 msgstr ""
+"А то! То был великий рыцарь, магнат. С ним мы вдвое, а то и втрое большие "
+"армии били! Он бы точно стал Паном, если бы не погиб от случайной стрелы."
 
 #. [part]
 #: scenarios/06_Diplomacy_pays_off.cfg:59
 msgid "Did you lose many warriors on the bridge?"
-msgstr ""
+msgstr "Много воинов вы потеряли на том мосту?"
 
 #. [part]
 #: scenarios/06_Diplomacy_pays_off.cfg:63
@@ -1747,11 +2012,13 @@ msgid ""
 "even know  if we would have lost so many if we fought the Khaganate from the "
 "first day."
 msgstr ""
+"Моих полегло треть. А от всей армии потеряли четверть. Я даже не знаю, "
+"потеряли бы мы столько, если б с первого дня сражались с Каганатом."
 
 #. [part]
 #: scenarios/06_Diplomacy_pays_off.cfg:67
 msgid "Was it worth it?"
-msgstr ""
+msgstr "Стоило оно того?"
 
 #. [part]
 #: scenarios/06_Diplomacy_pays_off.cfg:71
@@ -1760,21 +2027,24 @@ msgid ""
 "fiercely – with rebels. He still had a lot of forces, so those mercenaries "
 "who were planning to leave abandoned the thought. Me among them."
 msgstr ""
+"Для Свина — да. Он показал в тот день, с кем он готов по-настоящему жестоко "
+"бороться - с мятежниками. Сил у него всё равно оставалось много, так что те "
+"наёмники, которые хотели уйти, отказались от этой идеи. Я в том числе."
 
 #. [part]
 #: scenarios/06_Diplomacy_pays_off.cfg:75
 msgid "Do you regret it?"
-msgstr ""
+msgstr "Сожалеешь об этом?"
 
 #. [part]
 #: scenarios/06_Diplomacy_pays_off.cfg:79
 msgid "Maybe."
-msgstr ""
+msgstr "Может быть."
 
 #. [part]
 #: scenarios/06_Diplomacy_pays_off.cfg:83
 msgid "And what happened with the chief of trolls?"
-msgstr ""
+msgstr "А что с вождём троллей?"
 
 #. [part]
 #: scenarios/06_Diplomacy_pays_off.cfg:87
@@ -1782,16 +2052,21 @@ msgid ""
 "Ha, that was funny. Swin really tried to hang him. Broke three gallows, none "
 "could manage the chief. Then he gave up. "
 msgstr ""
+"Ох, там потеха. Свин его и вправду повесить пытался. Три виселицы переломал "
+"- ни одна вождя не выдерживала. Тогда отмахнулся, мол, Свет тебя пощадил, и "
+"заточил в темницу. А троллям сказал, что освободит его, если они будут "
+"доблестно сражаться с Каганатом."
 
 #. [part]
 #: scenarios/06_Diplomacy_pays_off.cfg:91
 msgid "Quite clever."
-msgstr ""
+msgstr "Неплохо придумано."
 
 #. [part]
 #: scenarios/06_Diplomacy_pays_off.cfg:95
 msgid "The Adviser suggested it. And right he did. He needed trolls soon."
 msgstr ""
+"То советник подсказал. И правильно сделал. Тролли ему сразу понадобились…"
 
 #. [part]
 #: scenarios/06_Diplomacy_pays_off.cfg:99
@@ -1802,66 +2077,70 @@ msgid ""
 "cowardice, the worst enemy of a noble knight, had struck his neighbours... </"
 "i>"
 msgstr ""
+"<i>Как утром следует день, так и за третьим подвигом следует четвёртый. Ещё "
+"пыль не осела на дорогах после триумфального полюдья, как вокруг замка сэра "
+"Гарки вновь собрались тёмные силы. На этот раз малодушие — чума Южной Марки, "
+"главный враг благородного рыцаря – поразило его ближайших соседей...</i>"
 
 #. [side]: type=Kingdom_Aristocrat, id=Grakk
 #: scenarios/06_Diplomacy_pays_off.cfg:279 scenarios/07_Siega.cfg:105
 msgid "Sir Grakk"
-msgstr ""
+msgstr "Сэр Гракк"
 
 #. [side]: type=Kingdom_Aristocrat, id=Grakk
 #: scenarios/06_Diplomacy_pays_off.cfg:286
 msgid "Grakk"
-msgstr ""
+msgstr "Гракк"
 
 #. [side]
 #: scenarios/06_Diplomacy_pays_off.cfg:302
 msgid "People of Sir Magot"
-msgstr ""
+msgstr "Люди Сэра Магота"
 
 #. [side]
 #: scenarios/06_Diplomacy_pays_off.cfg:315
 msgid "People of Sir Karakk"
-msgstr ""
+msgstr "Люди Сэра Каррака"
 
 #. [objective]: condition=win
 #: scenarios/06_Diplomacy_pays_off.cfg:339
 msgid "Hold for 18 turns"
-msgstr ""
+msgstr "Продержаться 18 ходов"
 
 #. [objective]: condition=win
 #: scenarios/06_Diplomacy_pays_off.cfg:344
 msgid "kill Sir Grakk"
-msgstr ""
+msgstr "сразить Сэра Гракка"
 
 #. [unit]: id=Leader1, type=Kingdom_Halfogre_Landsknecht
 #: scenarios/06_Diplomacy_pays_off.cfg:375
 msgid "Kaik"
-msgstr ""
+msgstr "Кайк"
 
 #. [unit]: type=Kingdom_Halfogre_Mercenary
 #: scenarios/06_Diplomacy_pays_off.cfg:383
 msgid "Karort"
-msgstr ""
+msgstr "Карорт"
 
 #. [unit]: type=Kingdom_Halfogre_Mercenary
 #: scenarios/06_Diplomacy_pays_off.cfg:391
 msgid "Gruk"
-msgstr ""
+msgstr "Грук"
 
 #. [unit]: type=Kingdom_Halfogre_Mercenary
 #: scenarios/06_Diplomacy_pays_off.cfg:399
 msgid "Kalrar"
-msgstr ""
+msgstr "Калтар"
 
 #. [unit]: type=Kingdom_Troll_Veteran
 #: scenarios/06_Diplomacy_pays_off.cfg:407
 msgid "Tuuk"
-msgstr ""
+msgstr "Тук"
 
 #. [unit]: type=Kingdom_Vassal_Bandit
 #: scenarios/06_Diplomacy_pays_off.cfg:415
 msgid "Akk"
-msgstr ""
+msgstr "Акк"
 
 #. [message]: speaker=Leader1
 #: scenarios/06_Diplomacy_pays_off.cfg:422
@@ -1869,6 +2148,8 @@ msgid ""
 "We have come to get iron, Swine, as you've asked. Let's finish it fast, I "
 "don't wanna bear the stink of this hole."
 msgstr ""
+"Мы пришли за железом, Свин, как ты и просил. Давай побыстрее покончим с "
+"этим, не хочу терпеть вонь от этой дыры."
 
 #. [message]: speaker=Swine
 #: scenarios/06_Diplomacy_pays_off.cfg:426
@@ -1876,16 +2157,18 @@ msgid ""
 "Warriors of Maggot, hr? He's sent you after all... Fine, hr, I'll give you "
 "iron, but only if you help me to lift the siege."
 msgstr ""
+"Воины Магота, хр? Он всё-таки прислал вас... Ладно, я, хр, дам вам железо, "
+"но только если вы поможете мне отбить осаду."
 
 #. [message]: speaker=Leader1
 #: scenarios/06_Diplomacy_pays_off.cfg:430
 msgid "No way! That wasn't the deal."
-msgstr ""
+msgstr "Да хрен тебе. О таком уговора не было."
 
 #. [message]: speaker=Grakk
 #: scenarios/06_Diplomacy_pays_off.cfg:434
 msgid "I see, this Swine makes troubles to you too?"
-msgstr ""
+msgstr "Вижу, вам тоже этот Свин поднасрал?"
 
 #. [message]: speaker=Leader1
 #: scenarios/06_Diplomacy_pays_off.cfg:438
@@ -1893,6 +2176,8 @@ msgid ""
 "This scoundrel delays with the load of iron, so my lord can't arm the "
 "militia when the war is raging!"
 msgstr ""
+"Эта паскуда задерживает партию железа, из-за чего мой лорд не может "
+"вооружить ополчение, когда война уже идёт!"
 
 #. [message]: speaker=Grakk
 #: scenarios/06_Diplomacy_pays_off.cfg:442
@@ -1901,6 +2186,9 @@ msgid ""
 "help Pan Tukk. And he refuses to go himself. I think it's time to slaughter "
 "this pig who sabotages our defence. Will you help me?"
 msgstr ""
+"А мне он хотел запретить пройти через его земли, чтобы я опоздал на помощь "
+"Пану Тукку. Более того, он отказывается выступать сам. Я думаю, пора "
+"заколоть эту свинью, саботирующую нашу оборону. Поможете мне?"
 
 #. [message]: speaker=Leader1
 #: scenarios/06_Diplomacy_pays_off.cfg:446
@@ -1908,66 +2196,68 @@ msgid ""
 "My lord didn't tell me to engage in heavy fighting, but I think he'll be "
 "happy if I bring the head of this bastard with the iron. Deal!"
 msgstr ""
+"Мой лорд не велел мне вступать в крупные стычки, но я думаю, он обрадуется, "
+"если вместе с железом я принесу ему голову этого выродка. Мой отряд в деле!"
 
 #. [message]: speaker=Swine
 #: scenarios/06_Diplomacy_pays_off.cfg:450
 msgid "Traitors! Hr! Traitors! I knew it! Kill them, ou-i-i!"
-msgstr ""
+msgstr "Предатели! Хр! Предатели! Я так и знал! Убить их, уи-и-и!"
 
 #. [unit]: id=Leader2, type=Kingdom_Heir
 #: scenarios/06_Diplomacy_pays_off.cfg:459
 msgid "Kingkuk"
-msgstr ""
+msgstr "Кинкук"
 
 #. [unit]: type=Kingdom_Cleric
 #: scenarios/06_Diplomacy_pays_off.cfg:467
 msgid "Aknik"
-msgstr ""
+msgstr "Акник"
 
 #. [unit]: type=Kingdom_Halfogre_Mercenary
 #: scenarios/06_Diplomacy_pays_off.cfg:475
 msgid "Korta"
-msgstr ""
+msgstr "Корта"
 
 #. [unit]: type=Kingdom_Noble_Son
 #: scenarios/06_Diplomacy_pays_off.cfg:483
 msgid "Kalkak"
-msgstr ""
+msgstr "Калкак"
 
 #. [unit]: type=Kingdom_Noble_Son
 #: scenarios/06_Diplomacy_pays_off.cfg:491
 msgid "Kairar"
-msgstr ""
+msgstr "Кайрар"
 
 #. [unit]: type=Kingdom_Halfogre_Outlaw
 #: scenarios/06_Diplomacy_pays_off.cfg:499
 msgid "Gnuarm"
-msgstr ""
+msgstr "Гнуарм"
 
 #. [unit]: type=Kingdom_Halfogre_Outlaw
 #: scenarios/06_Diplomacy_pays_off.cfg:507
 msgid "Kingkak"
-msgstr ""
+msgstr "Кинкак"
 
 #. [unit]: type=Kingdom_Halfogre_Outlaw
 #: scenarios/06_Diplomacy_pays_off.cfg:515
 msgid "Urkkuk"
-msgstr ""
+msgstr "Уркукк"
 
 #. [unit]: type=Kingdom_Runner
 #: scenarios/06_Diplomacy_pays_off.cfg:523
 msgid "Ovreddir"
-msgstr ""
+msgstr "Овреддир"
 
 #. [unit]: type=Kingdom_Runner
 #: scenarios/06_Diplomacy_pays_off.cfg:531
 msgid "Cercic"
-msgstr ""
+msgstr "Керкик"
 
 #. [message]: speaker=Swine
 #: scenarios/06_Diplomacy_pays_off.cfg:538
 msgid "Who the hell are you?"
-msgstr ""
+msgstr "А вы ещё кто?"
 
 #. [message]: speaker=Leader2
 #: scenarios/06_Diplomacy_pays_off.cfg:542
@@ -1975,22 +2265,24 @@ msgid ""
 "We are the last survivors of Sir Karakk's people. The Khaganate is stepping "
 "on our toes, we seek shelter. Let us in your castle."
 msgstr ""
+"Мы - выжившие люди сэра Каракка. Каганат наступает нам на пятки, мы ищем "
+"укрытия. Впусти нас в свой замок."
 
 #. [message]: speaker=Swine
 #: scenarios/06_Diplomacy_pays_off.cfg:546
 msgid "Hr, I'll let you in if you help me to lift the siege."
-msgstr ""
+msgstr "Хр, впущу, если поможете мне отбить осаду!"
 
 #. [message]: speaker=Leader2
 #: scenarios/06_Diplomacy_pays_off.cfg:550
 msgid ""
 "Why should we!? You didn't help us when the castle of my father was sieged."
-msgstr ""
+msgstr "С какой стати?! Ты не помог, когда осаждали замок моего отца. "
 
 #. [message]: speaker=Swine
 #: scenarios/06_Diplomacy_pays_off.cfg:554
 msgid "It's not my fault your father's such a weakling. Get out!"
-msgstr ""
+msgstr "Не моя вина, хр, что твой отец такой слабак. Убирайтесь!"
 
 #. [message]: speaker=Leader2
 #: scenarios/06_Diplomacy_pays_off.cfg:558
@@ -1998,6 +2290,8 @@ msgid ""
 "Dare not say this about him, bastard. He fought as a knight while you were "
 "eating and sleeping."
 msgstr ""
+"Не смей так говорить про него, подонок. Он сражался, как рыцарь, пока ты "
+"жрал и отлеживался."
 
 #. [message]: speaker=Grakk
 #: scenarios/06_Diplomacy_pays_off.cfg:562
@@ -2006,6 +2300,9 @@ msgid ""
 "castle. All of us have a reason to punish him. Join us. After the battle I "
 "will provide you with all you need from Swine's resources."
 msgstr ""
+"Моя армия вместе с отрядом сэра Магота сейчас осаждает замок Свина. У "
+"каждого из нас есть веская причина, чтобы наказать его. Присоединяйтесь к "
+"нам. После битвы я обеспечу вас всем необходимым из средств Свина."
 
 #. [message]: speaker=Leader2
 #: scenarios/06_Diplomacy_pays_off.cfg:566
@@ -2013,31 +2310,33 @@ msgid ""
 "Better late than never. The last fight, warriors! Slaughter the Pig for our "
 "lord!"
 msgstr ""
+"Лучше поздно, чем никогда. В последний бой, воины! Забьём Свинью за нашего "
+"лорда!"
 
 #. [message]: speaker=Swine
 #: scenarios/06_Diplomacy_pays_off.cfg:570
 msgid "You see! What did I tell you, hr! All of them are traitors!"
-msgstr ""
+msgstr "Видишь! А я что тебе говорил, хр! Они все — предатели!"
 
 #. [message]: speaker=Cleric
 #: scenarios/06_Diplomacy_pays_off.cfg:574
 msgid "Well, well. How come all of them are so angry with you?"
-msgstr ""
+msgstr "Да уж, да уж. И чего это они так обозлились на вас?"
 
 #. [message]: speaker=Swine
 #: scenarios/06_Diplomacy_pays_off.cfg:578
 msgid "Shut up, hr, better figure out how to lift the siege!"
-msgstr ""
+msgstr "Заткнись, хр, лучше придумай, как нам отбить осаду!"
 
 #. [message]: speaker=Cleric
 #: scenarios/06_Diplomacy_pays_off.cfg:582
 msgid "Probably, we should stop them from uniting into a single fist."
-msgstr ""
+msgstr "Вероятно, не стоит дать противникам объединиться в один кулак…"
 
 #. [message]: speaker=Swine
 #: scenarios/06_Diplomacy_pays_off.cfg:586
 msgid "Then stop them!"
-msgstr ""
+msgstr "Вот и не дай!"
 
 #. [message]: speaker=Cleric
 #: scenarios/06_Diplomacy_pays_off.cfg:593
@@ -2045,6 +2344,8 @@ msgid ""
 "M'lord, troops of Sir Grakk have been staying for several days already "
 "around our castle."
 msgstr ""
+"Милорд, войско сэра Гракка уже несколько дней стоит лагерем подле нашего "
+"замка."
 
 #. [message]: speaker=Grakk
 #: scenarios/06_Diplomacy_pays_off.cfg:597
@@ -2055,12 +2356,17 @@ msgid ""
 "propose you to join our forces and move together. This way our strike will "
 "be much stronger and we surely defeat the troops of the Khaganate."
 msgstr ""
+"Наконец-то ты вернулся, Свин! Я жду тебя уже второй день. Наш Пан прислал "
+"указания! Велел как можно скорее выдвигаться в соседнее панство, чтобы снять "
+"осаду с замка Пана Тукка. Я предлагаю тебе объединить силы и выступить "
+"вместе. Так наш удар получится сильнее и мы точно разобьём Каганатское "
+"войско."
 
 #. [message]: speaker=Swine
 #: scenarios/06_Diplomacy_pays_off.cfg:601
 msgid ""
 "I specifically forbade you, hr, to trespass on my lands with your army..."
-msgstr ""
+msgstr "Я ведь запретил тебе, хр, проходить с армией через мои земли…"
 
 #. [message]: speaker=Grakk
 #: scenarios/06_Diplomacy_pays_off.cfg:605
@@ -2069,37 +2375,40 @@ msgid ""
 "deeds are really impressive. But the Pan has ordered to act fast, I don't "
 "have time to bypass your lands. Besides, I thought you would join me."
 msgstr ""
+"Я помню. Равно как и гигансткую шкуру, которую мне передал посол. Твои "
+"подвиги впечатляют. Но Пан велел действовать быстро, я не успею, если буду "
+"обходить твои земли. К тому же, я рассчитывал, что ты присоединишься ко мне."
 
 #. [message]: speaker=Clerik
 #: scenarios/06_Diplomacy_pays_off.cfg:609
 msgid "M'lord, please, don't do another folly."
-msgstr ""
+msgstr "Милорд, пожалуйста, не совершите очередную глупость."
 
 #. [message]: speaker=Swine
 #: scenarios/06_Diplomacy_pays_off.cfg:613
 msgid "Hr, fine. Go to the rescue to this Pan. I join later."
-msgstr ""
+msgstr "Хр-р, ладно. Иди на помощь к этому Пану. Я присоединюсь позже."
 
 #. [message]: speaker=Grakk
 #: scenarios/06_Diplomacy_pays_off.cfg:617
 msgid "Are you going to spit upon the order of our Pan?"
-msgstr ""
+msgstr "Ты собираешься наплевать на приказ нашего Пана?"
 
 #. [message]: speaker=Swine
 #: scenarios/06_Diplomacy_pays_off.cfg:621
 msgid ""
 "No, hr-r, I will fulfill his will. But first I have to finish some things."
-msgstr ""
+msgstr "Нет, хр-р, я исполню его волю. Но сперва закончу кое-какие дела."
 
 #. [message]: speaker=Grakk
 #: scenarios/06_Diplomacy_pays_off.cfg:625
 msgid "Which things can be more important than war!?"
-msgstr ""
+msgstr "Да какие дела могут быть важнее войны?!"
 
 #. [message]: speaker=Swine
 #: scenarios/06_Diplomacy_pays_off.cfg:629
 msgid "None of your business! I said – go, I'll join later."
-msgstr ""
+msgstr "Не твоё дело! Сказал - иди, я присоединюсь позже."
 
 #. [message]: speaker=Grakk
 #: scenarios/06_Diplomacy_pays_off.cfg:633
@@ -2107,6 +2416,8 @@ msgid ""
 "I lost the whole day in order to boost our flank attack! Do not dare to ruin "
 "plans of Pan when the Kingdom is in danger!"
 msgstr ""
+"Я потерял целый день ради того, чтобы усилить наш фланговый удар! Не смей "
+"рушить планы Пана, когда Королевство в опасности!"
 
 #. [message]: speaker=Swine
 #: scenarios/06_Diplomacy_pays_off.cfg:637
@@ -2114,6 +2425,8 @@ msgid ""
 "Ah, he keeps saying! I will go to war, he, when I wish. Go away, Grakk, or I "
 "will drive you away by force!"
 msgstr ""
+"Вот заладил! Я пойду воевать, хр, когда захочу. Убирайся, Гракк, или я "
+"прогоню тебя силой!"
 
 #. [message]: speaker=Grakk
 #: scenarios/06_Diplomacy_pays_off.cfg:641
@@ -2122,17 +2435,22 @@ msgid ""
 "worthless commander. If you fear to lead your people in battle, I will do "
 "this. But first I'll cut your head."
 msgstr ""
+"Ар, какая же ты свинья! Довольно! Не гоже такой армии иметь такого "
+"никчёмного командира! Раз ты боишься повести своих людей в бой, я сделаю "
+"это! Но сперва отрублю тебе голову."
 
 #. [message]: speaker=Swine
 #: scenarios/06_Diplomacy_pays_off.cfg:645
 msgid ""
 "Aha! Hr, there you showed your true face, traitor. I knew it! Hr! Knew it!"
 msgstr ""
+"Ага! Хр, вот ты и показал своё настоящее лицо, предатель! Я знал! Хр! Знал!"
 
 #. [message]: speaker=Cleric
 #: scenarios/06_Diplomacy_pays_off.cfg:649
 msgid "Noble knights, it's not the time for the strife! By the Light!"
 msgstr ""
+"Благородные рыцари, сейчас не время устраивать междоусобицу! Окститесь!"
 
 #. [message]: speaker=Grakk
 #: scenarios/06_Diplomacy_pays_off.cfg:653
@@ -2141,6 +2459,9 @@ msgid ""
 "the enemy. It is high time to remove him from the undeserved throne. If you "
 "are so wise, help me, kill Swine."
 msgstr ""
+"Своему Свину это говори, советник! Он рушит наши планы и помогает врагу. "
+"Давно было пора скинуть его с незаслуженного трона. И если ты такой уж "
+"благоразумный, то помоги мне, убей Свина."
 
 #. [message]: speaker=Cleric
 #: scenarios/06_Diplomacy_pays_off.cfg:657
@@ -2148,11 +2469,13 @@ msgid ""
 "If you start the siege, Grakk, you'll break the royal law of peace between "
 "the knights during the greater war. Go in peace to the rescue of the Pan."
 msgstr ""
+"Если ты начнешь осаду, Гракк, ты нарушишь королевский закон о мире между "
+"рыцарями во время большой войны. Ступай на помощь Пану с миром."
 
 #. [message]: speaker=Swine
 #: scenarios/06_Diplomacy_pays_off.cfg:661
 msgid "No, hr, hr must turn back. Now I'll not let him through!"
-msgstr ""
+msgstr "Нет, хр, пусть разворачивается! Теперь я точно не пропущу его!"
 
 #. [message]: speaker=Grakk
 #: scenarios/06_Diplomacy_pays_off.cfg:665
@@ -2160,26 +2483,28 @@ msgid ""
 "You see, advisor, Swine left me no choice. That's for a noble cause. Now "
 "work! Soldiers! Let's start the siege!"
 msgstr ""
+"Вот видишь, советник, Свин не оставляет мне выбора. Это для благой цели. За "
+"дело! Солдаты! Начинаем осаду!"
 
 #. [message]: speaker=narrator
 #: scenarios/06_Diplomacy_pays_off.cfg:670
 msgid "Now you can recruit trolls."
-msgstr ""
+msgstr "Теперь вы можете нанимать троллей."
 
 #. [message]: speaker=Grakk
 #: scenarios/06_Diplomacy_pays_off.cfg:722
 msgid "Blasted Swine! We lost too many warriors. Retreat!"
-msgstr ""
+msgstr "Проклятый Свин! Мы потеряли слишком много воинов. Отступаем!"
 
 #. [message]: speaker=Swine
 #: scenarios/06_Diplomacy_pays_off.cfg:732
 msgid "So, tough luck, hr, traitors! Chase them! Finish them!"
-msgstr ""
+msgstr "Что, обломились, хр, предатели! В погоню! Добить их!"
 
 #. [scenario]: id=07_Siega
 #: scenarios/07_Siega.cfg:5
 msgid "The Fifth Deed"
-msgstr ""
+msgstr "Пятый подвиг"
 
 #. [part]
 #: scenarios/07_Siega.cfg:22
@@ -2189,13 +2514,17 @@ msgid ""
 "snatch people and resources from the hands of the traitor in order to finish "
 "cleansing the rear and finally defeat the Khaganate...</i>"
 msgstr ""
+"<i>...Осада предателей провалилась, их лидер – сэр Гракк – позорно бежал с "
+"поля боя. Сэр Гарка бросился в погоню. Ему предстояло совершить пятый подвиг "
+"– вырвать людей и средства из лап предателя, чтобы завершить очищение тыла и "
+"разбить, наконец, Каганат...</i>"
 
 #. [part]
 #: scenarios/07_Siega.cfg:27
 msgid ""
 "I still don't understand, why didn't he go with Grakk? Pan had ordered after "
 "all..."
-msgstr ""
+msgstr "Я вот не пойму, а чего он не пошёл с Гракком? Пан ведь приказал… "
 
 #. [part]
 #: scenarios/07_Siega.cfg:31
@@ -2205,11 +2534,15 @@ msgid ""
 "forces. While Grakk understood that Swine wouldn't go to war by himself and "
 "tried to encourage him in person."
 msgstr ""
+"Рыцари могут трактовать приказы Пана по-своему. Свин видимо боялся, что "
+"Гракк схватит его в походном лагере, поэтому и не захотел объединять силы. А "
+"Гракк понимал, что просто так Свин на войну не пойдет, и пытался вытащить "
+"его лично. "
 
 #. [part]
 #: scenarios/07_Siega.cfg:35
 msgid "Why didn't you turn to Grakk's side?"
-msgstr ""
+msgstr "А почему вы не перешли на сторону Гракка?"
 
 #. [part]
 #: scenarios/07_Siega.cfg:39
@@ -2218,11 +2551,14 @@ msgid ""
 "army. There he was foolish. He should've forces Swine to strike first. But "
 "he didn't have the nerve. His temper doomed him."
 msgstr ""
+"Потому что он напал первым, то есть по закону стал изменником со всей своей "
+"армией. Тут он сдурил. Надо было заставить Свина ударить первым. Но нервов "
+"не хватило. Вспыльчивость погубила его. "
 
 #. [part]
 #: scenarios/07_Siega.cfg:43
 msgid "What about a noble cause and all that stuff?"
-msgstr ""
+msgstr "А как же благая цель и всё такое?"
 
 #. [part]
 #: scenarios/07_Siega.cfg:47
@@ -2231,36 +2567,39 @@ msgid ""
 "his head. That's because a single knight is nothing for them, they have a "
 "dozen of those at hand."
 msgstr ""
+"Не, брат, большим ограм на это плевать. Кто из рыцарей закон нарушил – тому "
+"и голову с плеч. Потому что один рыцарь для них — это ничто, под их рукой "
+"десятки таких же. "
 
 #. [part]
 #: scenarios/07_Siega.cfg:51
 msgid "So, you went to siege the castle of Grakk?"
-msgstr ""
+msgstr "И вы, значит, пошли осаждать замок Гракка?"
 
 #. [part]
 #: scenarios/07_Siega.cfg:55
 msgid "Yeah. But that was a mistake too."
-msgstr ""
+msgstr "Ага. Но это тоже было ошибкой."
 
 #. [part]
 #: scenarios/07_Siega.cfg:63
 msgid "Listen about the siege first, then you'll learn."
-msgstr ""
+msgstr "Слушай про осаду сперва, потом узнаешь. "
 
 #. [objective]: condition=win
 #: scenarios/07_Siega.cfg:321
 msgid "Kill Sir Grakk"
-msgstr ""
+msgstr "Убить Сэра Гракка"
 
 #. [objective]: condition=lose
 #: scenarios/07_Siega.cfg:325
 msgid "Deatrh of Sir Swine"
-msgstr ""
+msgstr "Смерть Сэра Свина"
 
 #. [message]: speaker=Grakk
 #: scenarios/07_Siega.cfg:349
 msgid "Hold on, Swine! You're helping our enemies!"
-msgstr ""
+msgstr "Остановись, Свин! Ты же помогаешь нашим врагам!"
 
 #. [message]: speaker=Swine
 #: scenarios/07_Siega.cfg:353
@@ -2268,6 +2607,8 @@ msgid ""
 "Hr, no way! You became my enemy when you sieged my castle, and now I'll "
 "destroy you!"
 msgstr ""
+"Хр, ещё чего! Ты стал моим врагом, когда осадил мой замок, и теперь я "
+"уничтожу тебя!"
 
 #. [message]: speaker=Grakk
 #: scenarios/07_Siega.cfg:357
@@ -2277,6 +2618,10 @@ msgid ""
 "Panstvo of Tuuk and is marching there. Hold on, Swine. I'll pay you a "
 "tribute, just not ruin the defense of the Southern Mark."
 msgstr ""
+"Я хотел защитить королевство, а ты встал у меня на пути. Но нам нельзя "
+"сейчас сражаться между собой! Возможно, Каганат уже захватил панство Тукка и "
+"идёт сюда. Остановись, Свин. Я заплачу тебе компенсацию, только не губи "
+"оборону Южной Марки."
 
 #. [message]: speaker=Swine
 #: scenarios/07_Siega.cfg:361
@@ -2285,11 +2630,14 @@ msgid ""
 "And coward! I don't fear the Khaganate and deal with it right after I cut "
 "your head. I AM the defence of the Southern Mark!"
 msgstr ""
+"Раньше надо было думать! Ты напал на мой замок, хр! Ты враг! И трус! Я вот "
+"не боюсь Каганата и разберусь с ним как только отрублю тебе голову. Я - "
+"оборона Южной Марки!"
 
 #. [message]: speaker=Grakk
 #: scenarios/07_Siega.cfg:365
 msgid "You are an idiot! Our Pan will come soon, he'll show you."
-msgstr ""
+msgstr "Ты идиот! Скоро сюда придёт наш Пан, уж он-то тебе покажет."
 
 #. [message]: speaker=Swine
 #: scenarios/07_Siega.cfg:369
@@ -2297,6 +2645,8 @@ msgid ""
 "Ha-ha. You have broken the law, Pan will be glad if I deal with you instead "
 "of him! Soldiers! Storm!"
 msgstr ""
+"Ха-ха! Ты нарушил закон, Пан будет рад, если я расправлюсь с тобой вместо "
+"него! Солдаты! На штурм!"
 
 #. [message]: speaker=Cleric
 #: scenarios/07_Siega.cfg:373
@@ -2304,6 +2654,8 @@ msgid ""
 "My lord, why have you refused to join Grakk? Which things have you talked "
 "about?"
 msgstr ""
+"Милорд, почему вы отказались присоединиться к Гракку? О каких делах вы "
+"говорили?"
 
 #. [message]: speaker=Swine
 #: scenarios/07_Siega.cfg:377
@@ -2311,12 +2663,14 @@ msgid ""
 "I wanted, hr-r, to celebrate my triumph over the trolls with three days of "
 "revelry. And this traitor stopped me."
 msgstr ""
+"Я хотел, хр-р, отметить свой триумф над троллями трёхдневной пирушкой. А "
+"этот предатель мне помешал."
 
 #. [message]: speaker=Cleric
 #: scenarios/07_Siega.cfg:381
 msgid ""
 "Is it worth it to unleash a war against neighbours because of a revelry?"
-msgstr ""
+msgstr "Стоит ли развязывать войну с соседями из-за пирушки?!"
 
 #. [message]: speaker=Swine
 #: scenarios/07_Siega.cfg:385
@@ -2324,6 +2678,8 @@ msgid ""
 "It's not me who unleashed a war, hr-r. And rebels are worse than external "
 "enemies. My father said so, hr-r."
 msgstr ""
+"Войну развязал не я, хр-р. А мятежники хуже внешних врагов. Так отец "
+"говорил, хр-р."
 
 #. [message]: speaker=Cleric
 #: scenarios/07_Siega.cfg:389
@@ -2332,34 +2688,37 @@ msgid ""
 "we have to crush Grakk fast. I don't think he'll like the strife of his "
 "knights."
 msgstr ""
+"Жаль, что вы не запомнили другие его слова... Так или иначе, раз Пан идёт "
+"сюда, нужно разбить Гракка быстро. Не думаю, что ему понравится междоусобица "
+"собственных рыцарей."
 
 #. [message]: speaker=Swine
 #: scenarios/07_Siega.cfg:393
 msgid ""
 "Then what are you waiting for? Run, hr, organize an attack, as you always do!"
-msgstr ""
+msgstr "Тогда чего ты ждёшь! Бегом, хр, организуй атаку, как ты умеешь!"
 
 #. [message]: speaker=Grakk
 #: scenarios/07_Siega.cfg:403
 msgid "Curse you! Because of you, khr-r, we'll lose the war..."
-msgstr ""
+msgstr "Будь ты проклят! Из-за тебя, кхр-р, мы проиграем войну…"
 
 #. [message]: speaker=Swine
 #: scenarios/07_Siega.cfg:407
 msgid "Cut his head!"
-msgstr ""
+msgstr "Отрубить ему голову!"
 
 #. [message]: speaker=Cleric
 #: scenarios/07_Siega.cfg:415
 msgid "Grakk crushed. Now we have to fulfill Pan's order as soon as possible."
-msgstr ""
+msgstr "Гракк повержен. Теперь нужно как можно скорее исполнить приказ Пана."
 
 #. [message]: speaker=Swine
 #: scenarios/07_Siega.cfg:419
 msgid ""
 "First we need to gather tributes from Grakk's lands and, hr-r, replenish the "
 "army..."
-msgstr ""
+msgstr "Сперва надо собрать налоги с земель Гракка и, хр-р, пополнить армию…"
 
 #. [message]: speaker=Cleric
 #: scenarios/07_Siega.cfg:423
@@ -2370,6 +2729,11 @@ msgid ""
 "will stay here and will be sending you reinforcememnts from resources of Sir "
 "Grakk. This way we'll kill two hares with a single arrow."
 msgstr ""
+"Милорд, на это нет времени! Армия Каганата уже идёт сюда, равно как и Пан, "
+"который точно казнит вас, если застанет за сбором налогов! Вот что: берите "
+"армию и спешите в свой замок. Займите оборону. А я останусь здесь и буду "
+"высылать вам подкрепления из средств сэра Гракка. Так мы убьём двух зайцев "
+"одной стрелой."
 
 #. [message]: speaker=Swine
 #: scenarios/07_Siega.cfg:427
@@ -2378,11 +2742,14 @@ msgid ""
 "ha! Fine. Your plan, hr-r, makes sense. I will do as you have said. Just "
 "rest a day. We need to check Grakk's barns..."
 msgstr ""
+"Хр-р, так бы и сказал, что боишься Каганата, ха-ха! Ну ладно. Твой план, хр-"
+"р, имеет смысл. Я сделаю, как ты сказал. Только отдохну денёк. Надо "
+"проверить амбары Гракка…"
 
 #. [scenario]: id=08_Battle
 #: scenarios/08_Battle.cfg:5
 msgid "The True War"
-msgstr ""
+msgstr "Настощая война"
 
 #. [part]
 #: scenarios/08_Battle.cfg:24
@@ -2392,6 +2759,10 @@ msgid ""
 "Garka could finally begin the sixth feat - to fight against countless "
 "serpent hordes!</i>"
 msgstr ""
+"<i>Голова предателя поднялась на пике и ознаменовала свершение пятого "
+"подвига. Теперь тыл Южной Марки был крепок, как сталь, и сэр Гарка мог, "
+"наконец, приступить к шестому подвигу – к борьбе с бесчисленными змеиными "
+"ордами!</i>"
 
 #. [part]
 #: scenarios/08_Battle.cfg:29
@@ -2399,11 +2770,13 @@ msgid ""
 "Listen. While he spouts his nonsense, let me tell you what happened to the "
 "other ogres."
 msgstr ""
+"Вот что. Пока он чепуху эту мелет, давай я тебе расскажу, что у других огров "
+"было."
 
 #. [part]
 #: scenarios/08_Battle.cfg:33
 msgid "Alright."
-msgstr ""
+msgstr "Давай."
 
 #. [part]
 #: scenarios/08_Battle.cfg:37
@@ -2417,11 +2790,18 @@ msgid ""
 "West. Ironically, in the east, of his knights, only Grakk, Magot and Swine "
 "could help..."
 msgstr ""
+"Каганат действительно огромное войско привёл. Тыщ двадцать воинов, минимум! "
+"Эта орда проломила границу на юго-востоке, затем разделилась надвое. Одна её "
+"часть обходила Южную Марку с запада, другая – с Востока. Это потому, что "
+"главную дорогу мы за несколько войн так укрепили, что ни одна армия её в лоб "
+"не пробьёт. Та часть, что пошла на Восток, была меньше. Пан Барот отправил "
+"основные силы на Запад. По злой иронии, на востоке из его рыцарей помочь "
+"могли только Гракк, Магот и Свин… "
 
 #. [part]
 #: scenarios/08_Battle.cfg:41
 msgid "Uh huh. And how did things turn out?"
-msgstr ""
+msgstr "Угу. И что в итоге вышло?"
 
 #. [part]
 #: scenarios/08_Battle.cfg:45
@@ -2430,11 +2810,14 @@ msgid ""
 "head-on, and our trio did not hit the flank. As a result, the Khaganate "
 "drove the Pan into his own castle and began a siege."
 msgstr ""
+"А вышло, что Пан Тукк оказался с ордой один-на-один. Разбить её в лоб он не "
+"мог, а во фланг наша троица не ударила. В итоге Каганат загнал Пана в "
+"собственный замок и начал осаду. "
 
 #. [part]
 #: scenarios/08_Battle.cfg:49
 msgid "And Swine fought Grakk at that time?"
-msgstr ""
+msgstr "А Свин в это время с Гракком воевал?"
 
 #. [part]
 #: scenarios/08_Battle.cfg:53
@@ -2444,6 +2827,10 @@ msgid ""
 "who - joined, Tukk would have a chance. And so... a heroic, but pointless "
 "defense from a tactical point of view began..."
 msgstr ""
+"Да, именно в этот момент. Но даже тогда положение не было безнадёжным. Магот-"
+"то поспешил на помощь. Если бы ещё хоть один – Свин или Гракк, не важно, – "
+"присоединился, у Тукка был бы шанс. А так… началась героическая, но "
+"бессмысленная с тактической точки зрения оборона… "
 
 #. [side]: id=Khaganate_1, type=Khaganate_Serpenthead_Tarhan
 #. [side]: id=Khaganate_2, type=Khaganate_Naga_General
@@ -2452,24 +2839,24 @@ msgstr ""
 #: scenarios/08_Battle.cfg:398 scenarios/09_Final.cfg:175
 #: scenarios/09_Final.cfg:259
 msgid "Serpent Khaganate"
-msgstr ""
+msgstr "Змеиный Каганат"
 
 #. [side]: id=Khaganate_1, type=Khaganate_Serpenthead_Tarhan
 #: scenarios/08_Battle.cfg:66
 msgid "Serpent Strategist"
-msgstr ""
+msgstr "Змей-стратег"
 
 #. [side]: id=Khaganate_2, type=Khaganate_Naga_General
 #. [side]: id=Khaganate_3, type=Khaganate_Naga_General
 #: scenarios/08_Battle.cfg:155 scenarios/08_Battle.cfg:402
 #: scenarios/09_Final.cfg:178 scenarios/09_Final.cfg:263
 msgid "Serpent General"
-msgstr ""
+msgstr "Змей-полководец"
 
 #. [side]: type=Kingdom_Pan, id=Tukk
 #: scenarios/08_Battle.cfg:513
 msgid "Тукк"
-msgstr ""
+msgstr "Тукк"
 
 #. [side]: type=Kingdom_Aristocrat, id=Knyght1
 #. [side]: type=Kingdom_Aristocrat, id=Knyght2
@@ -2477,32 +2864,32 @@ msgstr ""
 #: scenarios/08_Battle.cfg:515 scenarios/08_Battle.cfg:757
 #: scenarios/08_Battle.cfg:847
 msgid "Pan Tukk"
-msgstr ""
+msgstr "Пан Тукк"
 
 #. [side]
 #: scenarios/08_Battle.cfg:744
 msgid "Sir Magot"
-msgstr ""
+msgstr "Сэр Магот"
 
 #. [objective]: condition=win
 #: scenarios/08_Battle.cfg:1000
 msgid "Survive until reinforcements arrive"
-msgstr ""
+msgstr "Продержитесь до прихода подкрепления"
 
 #. [objective]: condition=lose
 #: scenarios/08_Battle.cfg:1004
 msgid "Death of Pan Tukk"
-msgstr ""
+msgstr "Смерть Пана Тукка"
 
 #. [note]
 #: scenarios/08_Battle.cfg:1008 scenarios/08_Battle.cfg:1237
 msgid "units from this scenario do not carry over to the next"
-msgstr ""
+msgstr "бойцы из этого сценария не переносятся в следующий"
 
 #. [message]: speaker=Knyght2
 #: scenarios/08_Battle.cfg:1052
 msgid "They are attacking!"
-msgstr ""
+msgstr "Они наступают!"
 
 #. [message]: speaker=Tukk
 #: scenarios/08_Battle.cfg:1065
@@ -2510,23 +2897,25 @@ msgid ""
 "Don't despair, warriors! The knights of Pan Barot are already coming to our "
 "aid! Hold back the dark hordes until they arrive."
 msgstr ""
+"Не отчаивайтесь, воины! Рыцари Пана Барота уже идут к нам на помощь! Сдержим "
+"тёмные орды до их прибытия."
 
 #. [unit]: type=Kingdom_Aristocrat, id=Magot
 #: scenarios/08_Battle.cfg:1079
 msgid "Магот"
-msgstr ""
+msgstr "Магот"
 
 #. [message]: speaker=Magot
 #: scenarios/08_Battle.cfg:1201
 msgid "Sir Magot has come to the rescue, noble Pan!"
-msgstr ""
+msgstr "Сэр Магот прибыл на помощь, благородный пан!"
 
 #. [message]: speaker=Tukk
 #: scenarios/08_Battle.cfg:1205
 msgid ""
 "Just you? Where are the rest of the knights? And what is thisrabble you "
 "brought?"
-msgstr ""
+msgstr "Один? Где остальные рыцари? И что за орду голодранцев ты привёл?"
 
 #. [message]: speaker=Magot
 #: scenarios/08_Battle.cfg:1209
@@ -2534,6 +2923,8 @@ msgid ""
 "That dirty Swine did not give me the iron to arm the militia, noble Pan. And "
 "then he even started a war with Sir Grakk."
 msgstr ""
+"Грязный Свин не дал мне железа, чтобы вооружить ополчение, благородный Пан. "
+"А потом и вовсе развязал войну с сэром Гракком."
 
 #. [message]: speaker=Tukk
 #: scenarios/08_Battle.cfg:1213
@@ -2541,16 +2932,17 @@ msgid ""
 "Are you saying that the Knights of Barort are now fighting among "
 "themselves?! During a war?!"
 msgstr ""
+"Хочешь сказать, рыцари Барота сейчас сражаются между собой?! Во время войны?!"
 
 #. [message]: speaker=Magot
 #: scenarios/08_Battle.cfg:1217
 msgid "It's all the fault of that idiot Swine, noble Pan."
-msgstr ""
+msgstr "Это всё идиот-Свин, благородный Пан."
 
 #. [message]: speaker=Tukk
 #: scenarios/08_Battle.cfg:1221
 msgid "Ar, shit! And where is Barot himself?"
-msgstr ""
+msgstr "Ар, дерьмо! А сам Барот где?"
 
 #. [message]: speaker=Magot
 #: scenarios/08_Battle.cfg:1225
@@ -2558,6 +2950,8 @@ msgid ""
 "His messenger said that he is coming with his army. But because of Swine, "
 "likely, he’ll be delayed."
 msgstr ""
+"Гонец сказал, что он идёт сюда с войском. Но из-за Свина, вероятно, "
+"задержится."
 
 #. [message]: speaker=Tukk
 #: scenarios/08_Battle.cfg:1229
@@ -2565,26 +2959,28 @@ msgid ""
 "Bastards! I swear, at the Sejm I will break Barot's face! Arrr, okay, help "
 "me defend the pandom."
 msgstr ""
+"Подонки! Клянусь, на Сейме я разобью Бароту морду! Ар-р, ладно, помоги мне "
+"отстоять панство."
 
 #. [objective]: condition=win
 #: scenarios/08_Battle.cfg:1233
 msgid "Fight back as long as you can"
-msgstr ""
+msgstr "Сопротивляйтесь, сколько сможете"
 
 #. [message]: speaker=Tukk
 #: scenarios/08_Battle.cfg:1248
 msgid "Curse that damn Swine! Because of him, kh, we lost… the pandom..."
-msgstr ""
+msgstr "Будь проклят этот Свин! Из-за него, кх, мы потеряли... панство…"
 
 #. [message]: speaker=Tukk
 #: scenarios/08_Battle.cfg:1268
 msgid "Curse that damn Swine! Because of him we lost almost all our army!"
-msgstr ""
+msgstr "Будь проклят этот Свин! Из-за него мы потеряли почти всё войско!"
 
 #. [scenario]: id=09_Final
 #: scenarios/09_Final.cfg:5
 msgid "Sixth Deed"
-msgstr ""
+msgstr "Шестой подвиг"
 
 #. [part]
 #: scenarios/09_Final.cfg:22
@@ -2596,21 +2992,26 @@ msgid ""
 "the knight was unwavering. Having lined up his soldiers in battle "
 "formations, he made this speech in front of them ...</i>"
 msgstr ""
+"<i> Собрав под своими знамёнами воинов, сэра Гракка – благородный рыцарь – "
+"смело вышел навстречу Змеиному Каганату. Тёмные орды обошли его замок и "
+"устроили засаду на горной тропе; они надеялись внушить сэру Гарке, что "
+"защищающие сдали замок, чтобы смутить его. Но рыцарь был непоколебим. "
+"Выстроив солдат в боевые порядки, он произнёс перед ними такую речь...</i>"
 
 #. [part]
 #: scenarios/09_Final.cfg:27
 msgid "So why was it a mistake to siege Grakk?"
-msgstr ""
+msgstr "Так почему осаждать Гракка было ошибкой?"
 
 #. [part]
 #: scenarios/09_Final.cfg:31
 msgid "Because Pan considered us to be as much traitors as Swine."
-msgstr ""
+msgstr "Потому что Пан посчитал нас такими же предателями, как и Гарка."
 
 #. [part]
 #: scenarios/09_Final.cfg:35
 msgid "What about the law?"
-msgstr ""
+msgstr "А как же закон?"
 
 #. [part]
 #: scenarios/09_Final.cfg:39
@@ -2618,16 +3019,18 @@ msgid ""
 "What the law is for? Swine had already done enough to make Pan go berserk. "
 "And this siege was the last straw."
 msgstr ""
+"А что закон? Свин и без того совершил достаточно, чтобы привести Пана в "
+"бешенство. А эта осада стала последней каплей."
 
 #. [part]
 #: scenarios/09_Final.cfg:43
 msgid "And what came of it?"
-msgstr ""
+msgstr "И что из этого вышло?"
 
 #. [part]
 #: scenarios/09_Final.cfg:47
 msgid "What came of it is that we were caught between a rock and a hard place."
-msgstr ""
+msgstr "А то вышло, что мы оказались зажаты между молотом и наковальней."
 
 #. [part]
 #: scenarios/09_Final.cfg:51
@@ -2635,26 +3038,28 @@ msgid ""
 "<i>...drums boomed, trumpets howled, the furious attack was the beginning of "
 "Sir Garka's sixth deed...</i>"
 msgstr ""
+"<i>...барабаны загудели, трубы завыли, яростная атака стала началом шестого "
+"подвига Сэра Гарки...</i>"
 
 #. [side]: type=Kingdom_Pan, id=Barot
 #: scenarios/09_Final.cfg:132
 msgid "Pan Барот"
-msgstr ""
+msgstr "Пан Барот"
 
 #. [side]: type=Kingdom_Pan, id=Barot
 #: scenarios/09_Final.cfg:134
 msgid "Pan Barot"
-msgstr ""
+msgstr "Пан Барот"
 
 #. [objective]: condition=win
 #: scenarios/09_Final.cfg:353 scenarios/09_Final.cfg:457
 msgid "Kill 20 Khaganate units ($kills|/20)"
-msgstr ""
+msgstr "Убейте 20 бойцов каганата  ($kills|/20)"
 
 #. [message]
 #: scenarios/09_Final.cfg:372
 msgid "My Lord! The Khaganate army has blocked the way to our castle!"
-msgstr ""
+msgstr "Милорд! Армия Каганата преградила дорогу в наш замок!"
 
 #. [message]: speaker=Swine
 #: scenarios/09_Final.cfg:383
@@ -2662,16 +3067,17 @@ msgid ""
 "How is that?! Who, hr, let them in here?! Weaklings! Warriors, listen to my "
 "com-!"
 msgstr ""
+"Как это?! Кто, хр, пропустил их сюда?! Слабаки! Воины, слушай мою коман-!"
 
 #. [message]: speaker=Barot
 #: scenarios/09_Final.cfg:387
 msgid "I've finally caught up with you, you filthy scum!"
-msgstr ""
+msgstr "Наконец я нагнал тебя, грязное отродье!"
 
 #. [message]: speaker=Swine
 #: scenarios/09_Final.cfg:391
 msgid "Pan Barot! Hr, huzzah! Help me, hr, to recapture my cas-"
-msgstr ""
+msgstr "Пан Барот! Хр, ура! Помогите, хр, мне отбить мой зам-"
 
 #. [message]: speaker=Barot
 #: scenarios/09_Final.cfg:395
@@ -2680,11 +3086,14 @@ msgid ""
 "protection of the border, refused to help your allies and killed Sir Grakk. "
 "You betrayed the Kingdom and disgraced me. I'll string you up for this!"
 msgstr ""
+"Заткнись! Я знаю всё о твоих преступлениях, выродок. Ты наплевал на защиту "
+"границы, отказал в помощи союзникам и убил сэра Гракка. Ты предал "
+"Королевство и опозорил меня. За это тебя вздёрну!"
 
 #. [message]: speaker=Swine
 #: scenarios/09_Final.cfg:399
 msgid "But my lord! The vile Grakk himselfattacked me first!"
-msgstr ""
+msgstr "Но господин! Подлый Гракк сам напал на меня!"
 
 #. [message]: speaker=Barot
 #: scenarios/09_Final.cfg:403
@@ -2692,11 +3101,13 @@ msgid ""
 "And you, having imagined yourself a Pan, began to judge him, instead of "
 "following my order?!"
 msgstr ""
+"И ты, возомнив себя Паном, стал вершить над ним суд, вместо того чтобы "
+"выполнять мой приказ?!"
 
 #. [message]: speaker=Swine
 #: scenarios/09_Final.cfg:407
 msgid "Wha-a-at?! No! Ah! Got it! It was you who slandered me, traitor!"
-msgstr ""
+msgstr "Что-о?! Нет! А! Понял! Это ты оклеветал меня, предатель!"
 
 #. [message]: speaker=Cleric
 #: scenarios/09_Final.cfg:411
@@ -2705,6 +3116,8 @@ msgid ""
 "but it would be better if the throne of Makkord was occupied by a more "
 "worthy ogre."
 msgstr ""
+"Я сообщил Пану чистую правду о ваших деяниях, милорд. Мне жаль, но будет "
+"лучше, если трон Маккорда займёт более достойный огр."
 
 #. [message]: speaker=Swine
 #: scenarios/09_Final.cfg:415
@@ -2713,6 +3126,9 @@ msgid ""
 "you later... Noble Pan, it is a lie! I'm following your order! I'm attacking "
 "the Khaganate! He lied about me! Look, look!"
 msgstr ""
+"Я знал! Знал! Хр! И-и! Ты хочешь занять мой трон! Ар-р! Я с тобой ещё "
+"разберусь... Благородный Пан, это ложь! Я выполняю ваш приказ! Я атакую "
+"Каганат! Он оболгал меня! Смотрите, смотрите!"
 
 #. [message]: speaker=Swine
 #: scenarios/09_Final.cfg:419
@@ -2720,22 +3136,24 @@ msgid ""
 "Warriors! Listen to my command! To break the Khaganate before the arrival of "
 "the noble Pan! (maybeat least this way he’ll spare me, squeak)"
 msgstr ""
+"Воины! Слушай мою команду! Разбить Каганат до прихода благородного Пана! "
+"(может, хоть так он меня пощадит, и-и)"
 
 #. [message]: speaker=Swine
 #: scenarios/09_Final.cfg:432
 msgid ""
 "Sir, why, hr, are your people attacking me? I'm attacking the Khaganate!"
-msgstr ""
+msgstr "Господин, почему, хр, ваши люди атакую меня? Я же атакую Каганат!"
 
 #. [message]: speaker=Barot
 #: scenarios/09_Final.cfg:436
 msgid "Do whatever you want, Swine. I am adamant in my decision."
-msgstr ""
+msgstr "Делай что хочешь, Свин. Я непреклонен в своём решении."
 
 #. [message]: speaker=Swine
 #: scenarios/09_Final.cfg:440
 msgid "Squeak, hr!"
-msgstr ""
+msgstr "У-и-и-и, хр!"
 
 #. [message]: speaker=Swine
 #: scenarios/09_Final.cfg:475
@@ -2743,21 +3161,23 @@ msgid ""
 "Here, noble sir! My people, hr, inflicted heavy losses to the Khaganate! "
 "Let’s finish them off?"
 msgstr ""
+"Вот, благородный пан! Мои люди, хр, нанесли Каганату весомые потери! Добьём "
+"его?"
 
 #. [message]: speaker=Barot
 #: scenarios/09_Final.cfg:479
 msgid "You're really thick-skulled. I said I'll string you up!"
-msgstr ""
+msgstr "Ты и впрямь тупорылый. Я сказал - я вздёрну тебя!"
 
 #. [message]: speaker=Swine
 #: scenarios/09_Final.cfg:483
 msgid "Squeak! It's bad, very bad. We gotta, uh, get out of here!"
-msgstr ""
+msgstr "И-и-и! Дело плохо, дело плохо. Надо, хр, сматываться!"
 
 #. [objective]: condition=win
 #: scenarios/09_Final.cfg:487
 msgid "Run to the north or south border of map!"
-msgstr ""
+msgstr "Бегите к северному или южному краю карты!"
 
 #. [message]: speaker=Swine
 #: scenarios/09_Final.cfg:520
@@ -2765,11 +3185,13 @@ msgid ""
 "Let these traitors themselves, hr-r, fight the Khaganate. And Swine won't "
 "die, hr-r. Swine must not die..."
 msgstr ""
+"Пусть эти предатели сами, хр-р, воюют с Каганатом. А Свин не умрёт, хр-р. "
+"Свин не должен умереть."
 
 #. [scenario]: id=10_Epilogue
 #: scenarios/10_Epilogue.cfg:4
 msgid "Epilogue"
-msgstr ""
+msgstr "Эпилог"
 
 #. [part]
 #: scenarios/10_Epilogue.cfg:26
@@ -2786,31 +3208,40 @@ msgid ""
 "flight, he considered his duty fulfilled and quietly left the battlefield, "
 "allowing the Pan and the soldiers to take the triumph ...</i>"
 msgstr ""
+"<i>…Воины взревели лютым криком, страшный хруст, звон, грохот сотрясал горы. "
+"В пылу битву луч Света озарил Сэра Гарку, который сражался в первых рядах и "
+"раз за разом разбивал строй Змеиного Каганата. Без малого три сотни варваров "
+"пали от его руки в тот день! Пронзив пикой Змеиного Генерала, храбрый рыцарь "
+"оторвал ему голову и поднял над сражающимися. Завидев это, люди сэра Гарки "
+"воспряли духом, а варвары ужаснулись и бросились бежать, сверкая пятками. Но "
+"была у сэра Гарки ещё одна черта, которая выделяет его среди прочих героев – "
+"скромность. Обратив варваров в бегство, он счёл свой долг выполненным и тихо "
+"покинул поле боя, позволив Пану и солдатам забрать триумф...</i>"
 
 #. [part]
 #: scenarios/10_Epilogue.cfg:31
 msgid "Now this too damn much! Hey, stop lying dammit!"
-msgstr ""
+msgstr "Нет, ну это уже слишком! Эй, хватит тебе брехать!"
 
 #. [part]
 #: scenarios/10_Epilogue.cfg:35
 msgid "What do you mean “lying”? I'm retelling you a literary work!"
-msgstr ""
+msgstr "Что значит «брехать»? Я пересказываю вам литературное произведение!"
 
 #. [part]
 #: scenarios/10_Epilogue.cfg:39
 msgid "Literary work, you say?! I’ll show you a literary work, you bastard!"
-msgstr ""
+msgstr "Ах произведение, значит! Тьфу! Вот тебе, произведение! (звук удара)"
 
 #. [part]
 #: scenarios/10_Epilogue.cfg:44
 msgid "O-ouch!"
-msgstr ""
+msgstr "А-а-ай!"
 
 #. [part]
 #: scenarios/10_Epilogue.cfg:48
 msgid "Why did you hit him?"
-msgstr ""
+msgstr "За что ты его так?"
 
 #. [part]
 #: scenarios/10_Epilogue.cfg:52
@@ -2818,12 +3249,15 @@ msgid ""
 "For the fact that in the battle Swine sent the entire army on a suicidal "
 "attack, and he cowardly fled, leaving us to the mercy of fate!"
 msgstr ""
+"За то, что в битве той Свин отправил всё войско в самоубийственную атаку, а "
+"сам трусливо сбежал, бросив нас на произвол судьбы!"
 
 #. [part]
 #: scenarios/10_Epilogue.cfg:56
 msgid ""
 "But how would I know that, I just learned the legend as it was told… Ouch!"
 msgstr ""
+"Так ведь я откуда знал, я выучил эту легенду, как она есть… Ай! (звук удара)"
 
 #. [part]
 #: scenarios/10_Epilogue.cfg:60
@@ -2832,11 +3266,14 @@ msgid ""
 "will kill you. And you, good people! If anyone ever tells the legend of sir "
 "Garka, beat him up and chase him away!"
 msgstr ""
+"Легенду! Ещё раз я услышу эту легенду – клянусь, я убью тебя. И вы, люди "
+"добрые! Если кто будет рассказывать легенду про сэра Гарку – побейте его, да "
+"гоните в шею!"
 
 #. [part]
 #: scenarios/10_Epilogue.cfg:65
 msgid "You’re quite angry, huh..."
-msgstr ""
+msgstr "Сильно ж ты разозлился."
 
 #. [part]
 #: scenarios/10_Epilogue.cfg:69
@@ -2844,11 +3281,13 @@ msgid ""
 "Of course I am! I lost my entire squad in that battle. Out of a few hundred "
 "only a few survived. And even they got finished off by the Pan’s troops..."
 msgstr ""
+"Ещё бы! В той битве я потерял весь свой отряд. Из нескольких сотен выбрались "
+"единицы. И тех добивали воины Пана..."
 
 #. [part]
 #: scenarios/10_Epilogue.cfg:73
 msgid "Damn. But did you at least defeat the Khaganate?"
-msgstr ""
+msgstr "Ничего себе. Но Каганат-то победили?"
 
 #. [part]
 #: scenarios/10_Epilogue.cfg:77
@@ -2857,6 +3296,8 @@ msgid ""
 "Pans from the north. But  I already fled by then, so I don’t know how they "
 "beaten the Khaganate."
 msgstr ""
+"Да куда там. Долбились бестолково об его орды, пока Король с Панами севера "
+"не явился. Но меня уже там не было, не знаю, как они Каганат победили."
 
 #. [part]
 #: scenarios/10_Epilogue.cfg:85
@@ -2865,11 +3306,14 @@ msgid ""
 "kill me, should I gather as much as a single band. That’s why I just sit "
 "here these days."
 msgstr ""
+"Потому что я потерял авторитет. Теперь любой рыцарь посчитает своим долгом "
+"разбить меня, коль скоро я соберу хоть одну банду. Поэтому я и сижу здесь, "
+"на дне."
 
 #. [part]
 #: scenarios/10_Epilogue.cfg:89
 msgid "Right… And what do you plan to do?"
-msgstr ""
+msgstr "Да уж. И что ты собираешься делать?"
 
 #. [part]
 #: scenarios/10_Epilogue.cfg:93
@@ -2879,6 +3323,10 @@ msgid ""
 "boars. Maybe I can find him, bring back his head and restore my reputation… "
 "Fine, let’s continue about the armors..."
 msgstr ""
+"А чёрт её знает. Я — Ландскнехт, кроме как воевать, ничего не умею. Говорят, "
+"Свин сбежал куда-то в Веснот и сейчас живёт в лесу с кабанами. Может, "
+"соберусь, найду его, принесу его голову, верну авторитет… Ладно, давай о "
+"кольчугах…"
 
 #. [part]
 #: scenarios/10_Epilogue.cfg:97
@@ -2886,13 +3334,15 @@ msgid ""
 "If you go, I’ll go with you. Wanna see this Swine with my own eyes. And our "
 "armors are better because..."
 msgstr ""
+"Если соберешься – я с тобой. Очень хочу увидеть этого Свина вживую. А "
+"кольчуги наши лучше потому, что… "
 
 #. [trait]: id=beefy
 #: utils/characters.cfg:12
 msgid "beefy"
-msgstr ""
+msgstr "жирный"
 
 #. [trait]: id=beefy
 #: utils/characters.cfg:13
 msgid "female^beefy"
-msgstr ""
+msgstr "жирная"
