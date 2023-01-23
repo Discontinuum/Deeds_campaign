@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-01-24 01:56+0400\n"
-"PO-Revision-Date: 2023-01-24 01:57+0400\n"
+"POT-Creation-Date: 2023-01-24 01:59+0400\n"
+"PO-Revision-Date: 2023-01-24 02:00+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -48,23 +48,23 @@ msgstr ""
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:23
-msgid "Piglet"
-msgstr "Порося"
-
-#. [campaign]: id=Deeds_of_Sir_Swine
-#: _main.cfg:23
 msgid "Easy"
 msgstr "Лёгкий"
 
 #. [campaign]: id=Deeds_of_Sir_Swine
-#: _main.cfg:24 utils/characters.cfg:6
-msgid "Swine"
-msgstr "Свин"
+#: _main.cfg:23
+msgid "Piglet"
+msgstr "Порося"
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:24
 msgid "Hard"
 msgstr "Трудный"
+
+#. [campaign]: id=Deeds_of_Sir_Swine
+#: _main.cfg:24 utils/characters.cfg:6
+msgid "Swine"
+msgstr "Свин"
 
 #. [about]
 #: _main.cfg:27
@@ -131,6 +131,11 @@ msgid "Bard"
 msgstr "Бард"
 
 #. [part]
+#: scenarios/01_The_Hunt.cfg:30
+msgid "Who is this?"
+msgstr "Кто это?"
+
+#. [part]
 #: scenarios/01_The_Hunt.cfg:30 scenarios/01_The_Hunt.cfg:38
 #: scenarios/01_The_Hunt.cfg:67 scenarios/01_The_Hunt.cfg:75
 #: scenarios/01_The_Hunt.cfg:83 scenarios/01_The_Hunt.cfg:99
@@ -141,6 +146,9 @@ msgstr "Бард"
 #: scenarios/03_Diplomacy.cfg:42 scenarios/03_Diplomacy.cfg:50
 #: scenarios/03_Diplomacy.cfg:58 scenarios/04_Taxes.cfg:26
 #: scenarios/04_Taxes.cfg:34 scenarios/04_Taxes.cfg:50
+#: scenarios/05_Troll_Race.cfg:28 scenarios/05_Troll_Race.cfg:36
+#: scenarios/05_Troll_Race.cfg:44 scenarios/05_Troll_Race.cfg:52
+#: scenarios/05_Troll_Race.cfg:60 scenarios/05_Troll_Race.cfg:76
 #: scenarios/06_Diplomacy_pays_off.cfg:27
 #: scenarios/06_Diplomacy_pays_off.cfg:35
 #: scenarios/06_Diplomacy_pays_off.cfg:43
@@ -160,11 +168,6 @@ msgstr "Бард"
 #: scenarios/10_Epilogue.cfg:89 scenarios/10_Epilogue.cfg:97
 msgid "Northerner"
 msgstr "Северянин"
-
-#. [part]
-#: scenarios/01_The_Hunt.cfg:30
-msgid "Who is this?"
-msgstr "Кто это?"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:34
@@ -1636,13 +1639,6 @@ msgstr ""
 "его кабан разбивал их строй, как таран разбивает ворота! Рыцарь указал черни "
 "её место, и ни один крестьянин во всём панстве больше не помышлял о "
 "восстании! В том состоял его второй подвиг перед Королевством...</i>"
-
-#. [part]
-#: scenarios/05_Troll_Race.cfg:28 scenarios/05_Troll_Race.cfg:36
-#: scenarios/05_Troll_Race.cfg:44 scenarios/05_Troll_Race.cfg:52
-#: scenarios/05_Troll_Race.cfg:60 scenarios/05_Troll_Race.cfg:76
-msgid "Northertner"
-msgstr "Северянин"
 
 #. [part]
 #: scenarios/05_Troll_Race.cfg:28
@@ -3351,6 +3347,9 @@ msgstr "жирный"
 #: utils/characters.cfg:13
 msgid "female^beefy"
 msgstr "жирная"
+
+#~ msgid "Northertner"
+#~ msgstr "Северянин"
 
 #~ msgid "Pan Bаrоt"
 #~ msgstr "Пан Барот"
