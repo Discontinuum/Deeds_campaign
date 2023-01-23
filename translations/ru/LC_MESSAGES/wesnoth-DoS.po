@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-01-24 01:53+0400\n"
-"PO-Revision-Date: 2023-01-24 01:53+0400\n"
+"POT-Creation-Date: 2023-01-24 01:56+0400\n"
+"PO-Revision-Date: 2023-01-24 01:57+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -48,23 +48,23 @@ msgstr ""
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:23
-msgid "Easy"
-msgstr "Лёгкий"
-
-#. [campaign]: id=Deeds_of_Sir_Swine
-#: _main.cfg:23
 msgid "Piglet"
 msgstr "Порося"
 
 #. [campaign]: id=Deeds_of_Sir_Swine
-#: _main.cfg:24
-msgid "Hard"
-msgstr "Трудный"
+#: _main.cfg:23
+msgid "Easy"
+msgstr "Лёгкий"
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:24 utils/characters.cfg:6
 msgid "Swine"
 msgstr "Свин"
+
+#. [campaign]: id=Deeds_of_Sir_Swine
+#: _main.cfg:24
+msgid "Hard"
+msgstr "Трудный"
 
 #. [about]
 #: _main.cfg:27
@@ -106,6 +106,15 @@ msgstr ""
 "трактир залетает надоедливый бард."
 
 #. [part]
+#: scenarios/01_The_Hunt.cfg:26
+msgid ""
+"<i>Dear guests! Thugs and murderers of all shapes and forms! Listen to the "
+"story of the six deeds of Sir Garka! For just three minted coins!</i>"
+msgstr ""
+"<i>Гости дорогие! Головорезы и рубаки всех мастей! Послушайте историю о "
+"шести подвигах сэра Гарки! Всего за три чеканых монеты!</i>"
+
+#. [part]
 #: scenarios/01_The_Hunt.cfg:26 scenarios/01_The_Hunt.cfg:43
 #: scenarios/01_The_Hunt.cfg:51 scenarios/01_The_Hunt.cfg:59
 #: scenarios/01_The_Hunt.cfg:91 scenarios/01_The_Hunt.cfg:107
@@ -120,15 +129,6 @@ msgstr ""
 #: scenarios/10_Epilogue.cfg:56
 msgid "Bard"
 msgstr "Бард"
-
-#. [part]
-#: scenarios/01_The_Hunt.cfg:26
-msgid ""
-"<i>Dear guests! Thugs and murderers of all shapes and forms! Listen to the "
-"story of the six deeds of Sir Garka! For just three minted coins!</i>"
-msgstr ""
-"<i>Гости дорогие! Головорезы и рубаки всех мастей! Послушайте историю о "
-"шести подвигах сэра Гарки! Всего за три чеканых монеты!</i>"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:30 scenarios/01_The_Hunt.cfg:38
@@ -165,6 +165,15 @@ msgstr "Северянин"
 #: scenarios/01_The_Hunt.cfg:30
 msgid "Who is this?"
 msgstr "Кто это?"
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:34
+msgid ""
+"Local idiot. He's selling his lies again. Don’t you get yourself distracted. "
+"In what way are you saying your chain mails are better?"
+msgstr ""
+"Местный идиот. Опять враньё своё продаёт. Да ты не отвлекайся. В чём, "
+"говоришь, ваши кольчуги лучше?"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:34 scenarios/01_The_Hunt.cfg:47
@@ -204,15 +213,6 @@ msgstr "Кто это?"
 #: scenarios/10_Epilogue.cfg:93
 msgid "Soldier"
 msgstr "Солдат"
-
-#. [part]
-#: scenarios/01_The_Hunt.cfg:34
-msgid ""
-"Local idiot. He's selling his lies again. Don’t you get yourself distracted. "
-"In what way are you saying your chain mails are better?"
-msgstr ""
-"Местный идиот. Опять враньё своё продаёт. Да ты не отвлекайся. В чём, "
-"говоришь, ваши кольчуги лучше?"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:38
@@ -1638,6 +1638,13 @@ msgstr ""
 "восстании! В том состоял его второй подвиг перед Королевством...</i>"
 
 #. [part]
+#: scenarios/05_Troll_Race.cfg:28 scenarios/05_Troll_Race.cfg:36
+#: scenarios/05_Troll_Race.cfg:44 scenarios/05_Troll_Race.cfg:52
+#: scenarios/05_Troll_Race.cfg:60 scenarios/05_Troll_Race.cfg:76
+msgid "Northertner"
+msgstr "Северянин"
+
+#. [part]
 #: scenarios/05_Troll_Race.cfg:28
 msgid ""
 "Why couldn't folks stand up for themselves? In our place he would be quickly "
@@ -1645,13 +1652,6 @@ msgid ""
 msgstr ""
 "Чего ж добрые люди не смогли постоять за себя? У нас бы его сразу на копьях "
 "подняли."
-
-#. [part]
-#: scenarios/05_Troll_Race.cfg:28 scenarios/05_Troll_Race.cfg:36
-#: scenarios/05_Troll_Race.cfg:44 scenarios/05_Troll_Race.cfg:52
-#: scenarios/05_Troll_Race.cfg:60 scenarios/05_Troll_Race.cfg:76
-msgid "Northertner"
-msgstr "Северянин"
 
 #. [part]
 #: scenarios/05_Troll_Race.cfg:32
@@ -2913,7 +2913,7 @@ msgstr "Сэр Магот прибыл на помощь, благородный
 #. [message]: speaker=Tukk
 #: scenarios/08_Battle.cfg:1116
 msgid ""
-"Just you? Where are the rest of the knights? And what is thisrabble you "
+"Just you? Where are the rest of the knights? And what is this rabble you "
 "brought?"
 msgstr "Один? Где остальные рыцари? И что за орду голодранцев ты привёл?"
 
@@ -2929,8 +2929,8 @@ msgstr ""
 #. [message]: speaker=Tukk
 #: scenarios/08_Battle.cfg:1124
 msgid ""
-"Are you saying that the Knights of Barort are now fighting among "
-"themselves?! During a war?!"
+"Are you saying that the Knights of Barot are now fighting among themselves?! "
+"During a war?!"
 msgstr ""
 "Хочешь сказать, рыцари Барота сейчас сражаются между собой?! Во время войны?!"
 
