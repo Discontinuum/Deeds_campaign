@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-01-24 01:59+0400\n"
-"PO-Revision-Date: 2023-01-24 20:52+0400\n"
+"POT-Creation-Date: 2023-01-24 21:38+0400\n"
+"PO-Revision-Date: 2023-01-24 21:39+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -48,13 +48,13 @@ msgstr ""
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:23
-msgid "Easy"
-msgstr "Лёгкий"
+msgid "Piglet"
+msgstr "Порося"
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:23
-msgid "Piglet"
-msgstr "Порося"
+msgid "Easy"
+msgstr "Лёгкий"
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:24
@@ -170,15 +170,6 @@ msgid "Northerner"
 msgstr "Северянин"
 
 #. [part]
-#: scenarios/01_The_Hunt.cfg:34
-msgid ""
-"Local idiot. He's selling his lies again. Don’t you get yourself distracted. "
-"In what way are you saying your chain mails are better?"
-msgstr ""
-"Местный идиот. Опять враньё своё продаёт. Да ты не отвлекайся. В чём, "
-"говоришь, ваши кольчуги лучше?"
-
-#. [part]
 #: scenarios/01_The_Hunt.cfg:34 scenarios/01_The_Hunt.cfg:47
 #: scenarios/01_The_Hunt.cfg:55 scenarios/01_The_Hunt.cfg:63
 #: scenarios/01_The_Hunt.cfg:71 scenarios/01_The_Hunt.cfg:79
@@ -216,6 +207,15 @@ msgstr ""
 #: scenarios/10_Epilogue.cfg:93
 msgid "Soldier"
 msgstr "Солдат"
+
+#. [part]
+#: scenarios/01_The_Hunt.cfg:34
+msgid ""
+"Local idiot. He's selling his lies again. Don’t you get yourself distracted. "
+"In what way are you saying your chain mails are better?"
+msgstr ""
+"Местный идиот. Опять враньё своё продаёт. Да ты не отвлекайся. В чём, "
+"говоришь, ваши кольчуги лучше?"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:38
@@ -2980,13 +2980,21 @@ msgstr "Шестой подвиг"
 
 #. [part]
 #: scenarios/09_Final.cfg:22
+#, fuzzy
+#| msgid ""
+#| "</i>Having gatheredunder his bannerswarriors of sir Grakk, the noble "
+#| "knightboldly went against the Serpent Khaganate. The dark hordes passed "
+#| "near his castle and ambushed him on the mountain path; they had hoped to "
+#| "convince Sir Garka that the defenders had surrendered the castle to "
+#| "confuse him. But the knight was unwavering. Having lined up his soldiers "
+#| "in battle formations, he made this speech in front of them ...</i>"
 msgid ""
-"</i>Having gatheredunder his bannerswarriors of sir Grakk, the noble "
-"knightboldly went against the Serpent Khaganate. The dark hordes passed near "
-"his castle and ambushed him on the mountain path; they had hoped to convince "
-"Sir Garka that the defenders had surrendered the castle to confuse him. But "
-"the knight was unwavering. Having lined up his soldiers in battle "
-"formations, he made this speech in front of them ...</i>"
+"<i>Having gatheredunder his bannerswarriors of sir Grakk, the noble knight "
+"boldly went against the Serpent Khaganate. The dark hordes passed near his "
+"castle and ambushed him on the mountain path; they had hoped to convince Sir "
+"Garka that the defenders had surrendered the castle to confuse him. But the "
+"knight was unwavering. Having lined up his soldiers in battle formations, he "
+"made this speech in front of them ...</i>"
 msgstr ""
 "<i> Собрав под своими знамёнами воинов, сэра Гракка – благородный рыцарь – "
 "смело вышел навстречу Змеиному Каганату. Тёмные орды обошли его замок и "
