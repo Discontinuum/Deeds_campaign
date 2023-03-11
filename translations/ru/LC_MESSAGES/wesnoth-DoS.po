@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-03-11 17:44+0300\n"
+"PO-Revision-Date: 2023-03-11 22:49+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 2.3\n"
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:10
@@ -48,23 +48,23 @@ msgstr ""
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:23
-msgid "Medium"
-msgstr "Средний"
-
-#. [campaign]: id=Deeds_of_Sir_Swine
-#: _main.cfg:23
 msgid "Piglet"
 msgstr "Свинёнок"
 
 #. [campaign]: id=Deeds_of_Sir_Swine
-#: _main.cfg:24
-msgid "Hog"
-msgstr "Кабанчик"
+#: _main.cfg:23
+msgid "Medium"
+msgstr "Средний"
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:24
 msgid "Hard"
 msgstr "Трудный"
+
+#. [campaign]: id=Deeds_of_Sir_Swine
+#: _main.cfg:24
+msgid "Hog"
+msgstr "Кабанчик"
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:25
@@ -116,6 +116,15 @@ msgstr ""
 "трактир залетает надоедливый бард."
 
 #. [part]
+#: scenarios/01_The_Hunt.cfg:26
+msgid ""
+"<i>Dear guests! Thugs and murderers of all shapes and forms! Listen to the "
+"story of the six deeds of Sir Garka! For just three minted coins!</i>"
+msgstr ""
+"<i>Гости дорогие! Головорезы и рубаки всех мастей! Послушайте историю о "
+"шести подвигах сэра Гарки! Всего за три чеканых монеты!</i>"
+
+#. [part]
 #. [side]: type=Slav_Bard, id=Bard
 #: scenarios/01_The_Hunt.cfg:26 scenarios/01_The_Hunt.cfg:43
 #: scenarios/01_The_Hunt.cfg:51 scenarios/01_The_Hunt.cfg:59
@@ -131,15 +140,6 @@ msgstr ""
 #: scenarios/7_b_the_Inn.cfg:20 scenarios/7_b_the_Inn.cfg:166
 msgid "Bard"
 msgstr "Бард"
-
-#. [part]
-#: scenarios/01_The_Hunt.cfg:26
-msgid ""
-"<i>Dear guests! Thugs and murderers of all shapes and forms! Listen to the "
-"story of the six deeds of Sir Garka! For just three minted coins!</i>"
-msgstr ""
-"<i>Гости дорогие! Головорезы и рубаки всех мастей! Послушайте историю о "
-"шести подвигах сэра Гарки! Всего за три чеканых монеты!</i>"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:30
@@ -183,6 +183,15 @@ msgid "Northerner"
 msgstr "Северянин"
 
 #. [part]
+#: scenarios/01_The_Hunt.cfg:34
+msgid ""
+"Local idiot. He's selling his lies again. Don’t you get yourself distracted. "
+"In what way are you saying your chain mails are better?"
+msgstr ""
+"Местный идиот. Опять враньё своё продаёт. Да ты не отвлекайся. В чём, "
+"говоришь, ваши кольчуги лучше?"
+
+#. [part]
 #. [side]: type=Kingdom_Halfogre_Landsknecht, id=Soldier
 #: scenarios/01_The_Hunt.cfg:34 scenarios/01_The_Hunt.cfg:47
 #: scenarios/01_The_Hunt.cfg:55 scenarios/01_The_Hunt.cfg:63
@@ -221,15 +230,6 @@ msgstr "Северянин"
 #: scenarios/7_b_the_Inn.cfg:25 scenarios/7_b_the_Inn.cfg:134
 msgid "Soldier"
 msgstr "Солдат"
-
-#. [part]
-#: scenarios/01_The_Hunt.cfg:34
-msgid ""
-"Local idiot. He's selling his lies again. Don’t you get yourself distracted. "
-"In what way are you saying your chain mails are better?"
-msgstr ""
-"Местный идиот. Опять враньё своё продаёт. Да ты не отвлекайся. В чём, "
-"говоришь, ваши кольчуги лучше?"
 
 #. [part]
 #: scenarios/01_The_Hunt.cfg:38
@@ -2060,7 +2060,9 @@ msgstr "А что с вождём троллей?"
 #: scenarios/06_Diplomacy_pays_off.cfg:87
 msgid ""
 "Ha, that was funny. Swin really tried to hang him. Broke three gallows, none "
-"could manage the chief. Then he gave up. "
+"could manage the chief. Then he gave up. 'The Light has spared you', he said "
+"to him and locked him in prison. And said to trolls that he would free him "
+"if they fought the Khaganate bravely."
 msgstr ""
 "Ох, там потеха. Свин его и вправду повесить пытался. Три виселицы переломал "
 "- ни одна вождя не выдерживала. Тогда отмахнулся, мол, Свет тебя пощадил, и "
