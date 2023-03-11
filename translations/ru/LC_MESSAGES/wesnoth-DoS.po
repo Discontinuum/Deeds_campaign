@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-03-11 16:27+0200\n"
+"PO-Revision-Date: 2023-03-11 17:44+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
-"X-Generator: Poedit 3.2.2\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:10
@@ -49,17 +49,17 @@ msgstr ""
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:23
 msgid "Medium"
-msgstr ""
+msgstr "Средний"
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:23
 msgid "Piglet"
-msgstr "Порося"
+msgstr "Свинёнок"
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:24
 msgid "Hog"
-msgstr ""
+msgstr "Кабанчик"
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:24
@@ -68,15 +68,13 @@ msgstr "Трудный"
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:25
-#, fuzzy
-#| msgid "Boars"
 msgid "The Boar"
-msgstr "Кабаны"
+msgstr "Кабанище"
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:25
 msgid "Challenging"
-msgstr ""
+msgstr "Кошмарный"
 
 #. [about]
 #: _main.cfg:28
@@ -2500,10 +2498,8 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: scenarios/06_Diplomacy_pays_off.cfg:686
-#, fuzzy
-#| msgid "Now you can recruit trolls."
 msgid "Now you can recruit trolls and fire pigs."
-msgstr "Теперь вы можете нанимать троллей."
+msgstr "Теперь вы можете нанимать троллей и огневых свиней."
 
 #. [message]: speaker=Cleric
 #: scenarios/06_Diplomacy_pays_off.cfg:718
@@ -2511,11 +2507,13 @@ msgid ""
 "I armed our peasants and ordered them to attack the enemy. This will help us "
 "to hold out."
 msgstr ""
+"Я вооружил наших крестьян и приказал им атаковать врага. Это поможет нам "
+"продержаться. "
 
 #. [message]: speaker=Swine
 #: scenarios/06_Diplomacy_pays_off.cfg:722
 msgid "Great, hr! Couldn't you do that before?"
-msgstr ""
+msgstr "Хр, что ж ты не сделал этого раньше?"
 
 #. [message]: speaker=Grakk
 #: scenarios/06_Diplomacy_pays_off.cfg:746
@@ -2843,14 +2841,12 @@ msgstr "Змей-стратег"
 #. [side]: type=Kingdom_Heir, id=Heir
 #: scenarios/08_Battle.cfg:1145
 msgid "First line"
-msgstr ""
+msgstr "Первая линия"
 
 #. [side]: type=Kingdom_Heir, id=Heir2
 #: scenarios/08_Battle.cfg:1432
-#, fuzzy
-#| msgid "The Second Deed"
 msgid "Second Line"
-msgstr "Второй подвиг"
+msgstr "Вторая линия"
 
 #. [side]
 #. [side]: type=Kingdom_Pan, id=Tukk
@@ -2879,6 +2875,8 @@ msgid ""
 "After several hours of fierce battle, the first line of defense fell. The "
 "Khaganate forces regrouped and began to storm the second line of defense..."
 msgstr ""
+"После нескольких часов яростной битвы, первая линия обороны пала. Силы "
+"Каганата перегруппировались и приступили к штурму второй линии... "
 
 #. [message]: speaker=Tukk
 #: scenarios/08_Battle.cfg:2663
@@ -2887,6 +2885,8 @@ msgid ""
 "believe the Knights of Barot are on their way. They will flank Kaganate and "
 "lift the siege..."
 msgstr ""
+"Первая линия пала, но вторая линия - крепче! Я верю, рыцари Пана Барота уже "
+"в пути. Они ударят Каганату во фланг и снимут осаду... "
 
 #. [print]
 #: scenarios/08_Battle.cfg:2699
@@ -2896,6 +2896,10 @@ msgid ""
 "siege. Luckily, the Barot knights that Pan Tukk had counted on appeared on "
 "the horizon..."
 msgstr ""
+"Вторая линия обороны держалась дольше, но и она пала под натиском "
+"многотысячных орд Каганата. Теперь в осаде оказалась цитадель. К счастью, "
+"Рыцари Пана Барота, на которых так рассчитывал Пан Тукк, показались на "
+"горизонте..."
 
 #. [message]: speaker=Magot
 #: scenarios/08_Battle.cfg:3382
@@ -2956,10 +2960,8 @@ msgstr ""
 
 #. [message]: speaker=Tukk
 #: scenarios/08_Battle.cfg:3420
-#, fuzzy
-#| msgid "Curse that damn Swine! Because of him, kh, we lost… the pandom..."
 msgid "Curse that damn Swine! Because of him... all is lost..."
-msgstr "Будь проклят этот Свин! Из-за него, кх, мы потеряли... панство…"
+msgstr "Будь проклят этот Свин! Из-за него, кх, всё... потеряно..."
 
 #. [scenario]: id=09_Final
 #: scenarios/09_Final.cfg:5
@@ -2968,14 +2970,6 @@ msgstr "Шестой подвиг"
 
 #. [part]
 #: scenarios/09_Final.cfg:22
-#, fuzzy
-#| msgid ""
-#| "</i>Having gatheredunder his bannerswarriors of sir Grakk, the noble "
-#| "knightboldly went against the Serpent Khaganate. The dark hordes passed "
-#| "near his castle and ambushed him on the mountain path; they had hoped to "
-#| "convince Sir Garka that the defenders had surrendered the castle to "
-#| "confuse him. But the knight was unwavering. Having lined up his soldiers "
-#| "in battle formations, he made this speech in front of them ...</i>"
 msgid ""
 "<i>Having gatheredunder his bannerswarriors of sir Grakk, the noble knight "
 "boldly went against the Serpent Khaganate. The dark hordes passed near his "
@@ -2984,11 +2978,11 @@ msgid ""
 "knight was unwavering. Having lined up his soldiers in battle formations, he "
 "made this speech in front of them ...</i>"
 msgstr ""
-"<i> Собрав под своими знамёнами воинов, сэра Гракка – благородный рыцарь – "
-"смело вышел навстречу Змеиному Каганату. Тёмные орды обошли его замок и "
-"устроили засаду на горной тропе; они надеялись внушить сэру Гарке, что "
-"защищающие сдали замок, чтобы смутить его. Но рыцарь был непоколебим. "
-"Выстроив солдат в боевые порядки, он произнёс перед ними такую речь...</i>"
+"<i> Собрав под своими знамёнами воинов сэра Гракка, благородный рыцарь смело "
+"вышел навстречу Змеиному Каганату. Тёмные орды обошли его замок и устроили "
+"засаду на горной тропе; они надеялись внушить сэру Гарке, что защищающие "
+"сдали замок, чтобы смутить его. Но рыцарь был непоколебим. Выстроив солдат в "
+"боевые порядки, он произнёс перед ними такую речь...</i>"
 
 #. [part]
 #: scenarios/09_Final.cfg:27
@@ -3056,17 +3050,13 @@ msgstr "Змей-полководец"
 
 #. [objective]: condition=win
 #: scenarios/09_Final.cfg:350 scenarios/09_Final.cfg:462
-#, fuzzy
-#| msgid "Kill 20 Khaganate units ($kills|/20)"
 msgid "Kill 10 Khaganate units ($kills|/10)"
-msgstr "Убейте 20 бойцов каганата  ($kills|/20)"
+msgstr "Убейте 10 бойцов каганата  ($kills|/10)"
 
 #. [objective]: condition=win
 #: scenarios/09_Final.cfg:353 scenarios/09_Final.cfg:465
-#, fuzzy
-#| msgid "Kill 20 Khaganate units ($kills|/20)"
 msgid "Kill 15 Khaganate units ($kills|/15)"
-msgstr "Убейте 20 бойцов каганата  ($kills|/20)"
+msgstr "Убейте 15 бойцов каганата  ($kills|/15)"
 
 #. [objective]: condition=win
 #: scenarios/09_Final.cfg:356 scenarios/09_Final.cfg:468
@@ -3357,7 +3347,7 @@ msgstr ""
 #. [scenario]: id=07b_Inn
 #: scenarios/7_b_the_Inn.cfg:5
 msgid "Inn"
-msgstr ""
+msgstr "Таверна"
 
 #. [part]
 #: scenarios/7_b_the_Inn.cfg:20
@@ -3374,16 +3364,12 @@ msgstr ""
 
 #. [part]
 #: scenarios/7_b_the_Inn.cfg:25
-#, fuzzy
-#| msgid ""
-#| "Listen. While he spouts his nonsense, let me tell you what happened to "
-#| "the other ogres."
 msgid ""
 "Listen. While he spouts his nonsense, let me tell you what happened to the "
 "other ogres. But first, I'm going to get another pint."
 msgstr ""
 "Вот что. Пока он чепуху эту мелет, давай я тебе расскажу, что у других огров "
-"было."
+"было. Только сперва возьму ещё пива."
 
 #. [part]
 #: scenarios/7_b_the_Inn.cfg:29
@@ -3397,12 +3383,12 @@ msgstr "Давай."
 #: scenarios/7_b_the_Inn.cfg:130 scenarios/7_b_the_Inn.cfg:144
 #: scenarios/7_b_the_Inn.cfg:161 scenarios/7_b_the_Inn.cfg:177
 msgid "Visitors"
-msgstr ""
+msgstr "Посетители"
 
 #. [side]: type=Ogre, id=Innkeeper
 #: scenarios/7_b_the_Inn.cfg:182
 msgid "Innkeeper"
-msgstr ""
+msgstr "Трактирщик"
 
 #. [objective]: condition=win
 #: scenarios/7_b_the_Inn.cfg:257
@@ -3410,26 +3396,29 @@ msgid ""
 "The next scenario will be in the form of a cutcene with a big battle. You "
 "can change the game speed settings now if you like. "
 msgstr ""
+"Следующий сценарий будет представлен в виде катсцены с огромной битвой. Вы "
+"можете изменить скорость игры в настройках, если хотите. "
 
 #. [objective]: condition=win
 #: scenarios/7_b_the_Inn.cfg:261
 msgid "Go back to the table to continue."
-msgstr ""
+msgstr "Вернитесь к столу чтобы продолжить. "
 
 #. [message]: speaker=Soldier
 #: scenarios/7_b_the_Inn.cfg:277
 msgid "Hey, innkeeper, pour me another pint."
-msgstr ""
+msgstr "Эй, трактирщик, дай мне ещё пинту."
 
 #. [message]: speaker=Innkeeper
 #: scenarios/7_b_the_Inn.cfg:288
 msgid "Uh-huh."
-msgstr ""
+msgstr "Угу."
 
 #. [message]: speaker=Soldier
 #: scenarios/7_b_the_Inn.cfg:328
 msgid "Ugh, real troll beer. I'm sure it'll put a northerner down."
 msgstr ""
+"Ух, настоящее тролльское пиво. Бьюсь об заклад, оно уложит северянина. "
 
 #: utils/characters.cfg:6
 msgid "Swine"

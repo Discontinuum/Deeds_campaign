@@ -32,22 +32,22 @@ msgstr ""
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:23
-msgid "Medium"
-msgstr ""
-
-#. [campaign]: id=Deeds_of_Sir_Swine
-#: _main.cfg:23
 msgid "Piglet"
 msgstr ""
 
 #. [campaign]: id=Deeds_of_Sir_Swine
-#: _main.cfg:24
-msgid "Hog"
+#: _main.cfg:23
+msgid "Medium"
 msgstr ""
 
 #. [campaign]: id=Deeds_of_Sir_Swine
 #: _main.cfg:24
 msgid "Hard"
+msgstr ""
+
+#. [campaign]: id=Deeds_of_Sir_Swine
+#: _main.cfg:24
+msgid "Hog"
 msgstr ""
 
 #. [campaign]: id=Deeds_of_Sir_Swine
@@ -96,14 +96,14 @@ msgid "Ogre Kingdom. Inn. A seasoned Soldier drinks with a Northerner. Suddenly 
 msgstr ""
 
 #. [part]
-#. [side]: type=Slav_Bard, id=Bard
-#: scenarios/01_The_Hunt.cfg:26 scenarios/01_The_Hunt.cfg:43 scenarios/01_The_Hunt.cfg:51 scenarios/01_The_Hunt.cfg:59 scenarios/01_The_Hunt.cfg:91 scenarios/01_The_Hunt.cfg:107 scenarios/02_The_Monster.cfg:21 scenarios/03_Diplomacy.cfg:21 scenarios/03_Diplomacy.cfg:66 scenarios/04_Taxes.cfg:21 scenarios/04_Taxes.cfg:42 scenarios/05_Troll_Race.cfg:23 scenarios/05_Troll_Race.cfg:68 scenarios/06_Diplomacy_pays_off.cfg:22 scenarios/06_Diplomacy_pays_off.cfg:99 scenarios/07_Siega.cfg:22 scenarios/09_Final.cfg:22 scenarios/09_Final.cfg:51 scenarios/10_Epilogue.cfg:26 scenarios/10_Epilogue.cfg:35 scenarios/10_Epilogue.cfg:44 scenarios/10_Epilogue.cfg:56 scenarios/7_b_the_Inn.cfg:20 scenarios/7_b_the_Inn.cfg:166
-msgid "Bard"
+#: scenarios/01_The_Hunt.cfg:26
+msgid "<i>Dear guests! Thugs and murderers of all shapes and forms! Listen to the story of the six deeds of Sir Garka! For just three minted coins!</i>"
 msgstr ""
 
 #. [part]
-#: scenarios/01_The_Hunt.cfg:26
-msgid "<i>Dear guests! Thugs and murderers of all shapes and forms! Listen to the story of the six deeds of Sir Garka! For just three minted coins!</i>"
+#. [side]: type=Slav_Bard, id=Bard
+#: scenarios/01_The_Hunt.cfg:26 scenarios/01_The_Hunt.cfg:43 scenarios/01_The_Hunt.cfg:51 scenarios/01_The_Hunt.cfg:59 scenarios/01_The_Hunt.cfg:91 scenarios/01_The_Hunt.cfg:107 scenarios/02_The_Monster.cfg:21 scenarios/03_Diplomacy.cfg:21 scenarios/03_Diplomacy.cfg:66 scenarios/04_Taxes.cfg:21 scenarios/04_Taxes.cfg:42 scenarios/05_Troll_Race.cfg:23 scenarios/05_Troll_Race.cfg:68 scenarios/06_Diplomacy_pays_off.cfg:22 scenarios/06_Diplomacy_pays_off.cfg:99 scenarios/07_Siega.cfg:22 scenarios/09_Final.cfg:22 scenarios/09_Final.cfg:51 scenarios/10_Epilogue.cfg:26 scenarios/10_Epilogue.cfg:35 scenarios/10_Epilogue.cfg:44 scenarios/10_Epilogue.cfg:56 scenarios/7_b_the_Inn.cfg:20 scenarios/7_b_the_Inn.cfg:166
+msgid "Bard"
 msgstr ""
 
 #. [part]
@@ -118,14 +118,14 @@ msgid "Northerner"
 msgstr ""
 
 #. [part]
-#. [side]: type=Kingdom_Halfogre_Landsknecht, id=Soldier
-#: scenarios/01_The_Hunt.cfg:34 scenarios/01_The_Hunt.cfg:47 scenarios/01_The_Hunt.cfg:55 scenarios/01_The_Hunt.cfg:63 scenarios/01_The_Hunt.cfg:71 scenarios/01_The_Hunt.cfg:79 scenarios/01_The_Hunt.cfg:87 scenarios/01_The_Hunt.cfg:95 scenarios/01_The_Hunt.cfg:103 scenarios/01_The_Hunt.cfg:115 scenarios/02_The_Monster.cfg:30 scenarios/02_The_Monster.cfg:38 scenarios/02_The_Monster.cfg:46 scenarios/02_The_Monster.cfg:54 scenarios/02_The_Monster.cfg:62 scenarios/03_Diplomacy.cfg:30 scenarios/03_Diplomacy.cfg:38 scenarios/03_Diplomacy.cfg:46 scenarios/03_Diplomacy.cfg:54 scenarios/03_Diplomacy.cfg:62 scenarios/03_Diplomacy.cfg:70 scenarios/04_Taxes.cfg:30 scenarios/04_Taxes.cfg:38 scenarios/04_Taxes.cfg:46 scenarios/04_Taxes.cfg:54 scenarios/05_Troll_Race.cfg:32 scenarios/05_Troll_Race.cfg:40 scenarios/05_Troll_Race.cfg:48 scenarios/05_Troll_Race.cfg:56 scenarios/05_Troll_Race.cfg:64 scenarios/05_Troll_Race.cfg:72 scenarios/05_Troll_Race.cfg:80 scenarios/06_Diplomacy_pays_off.cfg:31 scenarios/06_Diplomacy_pays_off.cfg:39 scenarios/06_Diplomacy_pays_off.cfg:47 scenarios/06_Diplomacy_pays_off.cfg:55 scenarios/06_Diplomacy_pays_off.cfg:63 scenarios/06_Diplomacy_pays_off.cfg:71 scenarios/06_Diplomacy_pays_off.cfg:79 scenarios/06_Diplomacy_pays_off.cfg:87 scenarios/06_Diplomacy_pays_off.cfg:95 scenarios/07_Siega.cfg:31 scenarios/07_Siega.cfg:39 scenarios/07_Siega.cfg:47 scenarios/07_Siega.cfg:55 scenarios/07_Siega.cfg:63 scenarios/08_Battle.cfg:25 scenarios/08_Battle.cfg:34 scenarios/08_Battle.cfg:42 scenarios/09_Final.cfg:31 scenarios/09_Final.cfg:39 scenarios/09_Final.cfg:47 scenarios/10_Epilogue.cfg:31 scenarios/10_Epilogue.cfg:39 scenarios/10_Epilogue.cfg:52 scenarios/10_Epilogue.cfg:60 scenarios/10_Epilogue.cfg:69 scenarios/10_Epilogue.cfg:77 scenarios/10_Epilogue.cfg:85 scenarios/10_Epilogue.cfg:93 scenarios/7_b_the_Inn.cfg:25 scenarios/7_b_the_Inn.cfg:134
-msgid "Soldier"
+#: scenarios/01_The_Hunt.cfg:34
+msgid "Local idiot. He's selling his lies again. Don’t you get yourself distracted. In what way are you saying your chain mails are better?"
 msgstr ""
 
 #. [part]
-#: scenarios/01_The_Hunt.cfg:34
-msgid "Local idiot. He's selling his lies again. Don’t you get yourself distracted. In what way are you saying your chain mails are better?"
+#. [side]: type=Kingdom_Halfogre_Landsknecht, id=Soldier
+#: scenarios/01_The_Hunt.cfg:34 scenarios/01_The_Hunt.cfg:47 scenarios/01_The_Hunt.cfg:55 scenarios/01_The_Hunt.cfg:63 scenarios/01_The_Hunt.cfg:71 scenarios/01_The_Hunt.cfg:79 scenarios/01_The_Hunt.cfg:87 scenarios/01_The_Hunt.cfg:95 scenarios/01_The_Hunt.cfg:103 scenarios/01_The_Hunt.cfg:115 scenarios/02_The_Monster.cfg:30 scenarios/02_The_Monster.cfg:38 scenarios/02_The_Monster.cfg:46 scenarios/02_The_Monster.cfg:54 scenarios/02_The_Monster.cfg:62 scenarios/03_Diplomacy.cfg:30 scenarios/03_Diplomacy.cfg:38 scenarios/03_Diplomacy.cfg:46 scenarios/03_Diplomacy.cfg:54 scenarios/03_Diplomacy.cfg:62 scenarios/03_Diplomacy.cfg:70 scenarios/04_Taxes.cfg:30 scenarios/04_Taxes.cfg:38 scenarios/04_Taxes.cfg:46 scenarios/04_Taxes.cfg:54 scenarios/05_Troll_Race.cfg:32 scenarios/05_Troll_Race.cfg:40 scenarios/05_Troll_Race.cfg:48 scenarios/05_Troll_Race.cfg:56 scenarios/05_Troll_Race.cfg:64 scenarios/05_Troll_Race.cfg:72 scenarios/05_Troll_Race.cfg:80 scenarios/06_Diplomacy_pays_off.cfg:31 scenarios/06_Diplomacy_pays_off.cfg:39 scenarios/06_Diplomacy_pays_off.cfg:47 scenarios/06_Diplomacy_pays_off.cfg:55 scenarios/06_Diplomacy_pays_off.cfg:63 scenarios/06_Diplomacy_pays_off.cfg:71 scenarios/06_Diplomacy_pays_off.cfg:79 scenarios/06_Diplomacy_pays_off.cfg:87 scenarios/06_Diplomacy_pays_off.cfg:95 scenarios/07_Siega.cfg:31 scenarios/07_Siega.cfg:39 scenarios/07_Siega.cfg:47 scenarios/07_Siega.cfg:55 scenarios/07_Siega.cfg:63 scenarios/08_Battle.cfg:25 scenarios/08_Battle.cfg:34 scenarios/08_Battle.cfg:42 scenarios/09_Final.cfg:31 scenarios/09_Final.cfg:39 scenarios/09_Final.cfg:47 scenarios/10_Epilogue.cfg:31 scenarios/10_Epilogue.cfg:39 scenarios/10_Epilogue.cfg:52 scenarios/10_Epilogue.cfg:60 scenarios/10_Epilogue.cfg:69 scenarios/10_Epilogue.cfg:77 scenarios/10_Epilogue.cfg:85 scenarios/10_Epilogue.cfg:93 scenarios/7_b_the_Inn.cfg:25 scenarios/7_b_the_Inn.cfg:134
+msgid "Soldier"
 msgstr ""
 
 #. [part]
@@ -1385,7 +1385,7 @@ msgstr ""
 
 #. [part]
 #: scenarios/06_Diplomacy_pays_off.cfg:87
-msgid "Ha, that was funny. Swin really tried to hang him. Broke three gallows, none could manage the chief. Then he gave up. "
+msgid "Ha, that was funny. Swin really tried to hang him. Broke three gallows, none could manage the chief. Then he gave up. 'The Light has spared you', he said to him and locked him in prison. And said to trolls that he would free him if they fought the Khaganate bravely."
 msgstr ""
 
 #. [part]
